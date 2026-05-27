@@ -4,7 +4,7 @@ import type { SiteConfig } from "../types/config";
 const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 
 export const siteConfig: SiteConfig = {
-	title: "极致源于梦想 追求源于热爱",
+	title: "梦夜の小窝",
 	subtitle: "DreamNight's Blog",
 	siteURL: "https://dreamnight.net.cn/",
 	siteStartDate: "2024-01-01",
@@ -143,9 +143,10 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "极致源于梦想 追求源于热爱", // 主页横幅主标题
+			title: "梦夜の小窝", // 主页横幅主标题
 
 			subtitle: [
+				"极致源于梦想 追求源于热爱",
 				"我が心と行動に一点の曇りなし、全てが「幻想郷」だ",
 				"code for life, build for fun",
 				"我所热爱的 就是我的生活",
