@@ -146,11 +146,9 @@ export const siteConfig: SiteConfig = {
 			title: "极致源于梦想 追求源于热爱", // 主页横幅主标题
 
 			subtitle: [
-				"Stay hungry, stay foolish.",
-				"code for life, build for fun.",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"我が心と行動に一点の曇りなし、全てが「幻想郷」だ",
+				"code for life, build for fun",
+				"我所热爱的 就是我的生活",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
