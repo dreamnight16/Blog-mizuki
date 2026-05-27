@@ -1,143 +1,141 @@
 // Project data configuration file
-// Used to manage data for the project display page
-
 export interface Project {
-	id: string;
-	title: string;
-	description: string;
-	image: string;
-	category: "web" | "mobile" | "desktop" | "other";
-	techStack: string[];
-	status: "completed" | "in-progress" | "planned";
-	liveDemo?: string;
-	sourceCode?: string;
-	visitUrl?: string;
-	startDate: string;
-	endDate?: string;
-	featured?: boolean;
-	tags?: string[];
-	showImage?: boolean;
+    id: string;
+    title: string;
+    description: string;
+    image: string;
+    category: "web" | "mobile" | "desktop" | "other";
+    techStack: string[];
+    status: "completed" | "in-progress" | "planned";
+    liveDemo?: string;
+    sourceCode?: string;
+    visitUrl?: string;
+    startDate: string;
+    endDate?: string;
+    featured?: boolean;
+    tags?: string[];
+    showImage?: boolean;
 }
 
 export const projectsData: Project[] = [
-	{
-		id: "mizuki",
-		title: "Mizuki",
-		description:
-			"A next-gen Material Design 3 blog theme built with Astro, featuring i18n, dark mode, and responsive design.",
-		image: "/assets/projects/mizuki.webp",
-		category: "web",
-		techStack: ["Astro", "TypeScript", "Tailwind CSS", "Svelte"],
-		status: "completed",
-		sourceCode: "https://github.com/LyraVoid/Mizuki",
-		visitUrl: "https://mizuki.mysqil.com",
-		startDate: "2024-01-01",
-		endDate: "2024-06-01",
-		featured: true,
-		tags: ["Blog", "Theme", "Open Source"],
-	},
-	{
-		id: "folkpatch",
-		title: "FolkPatch",
-		description:
-			"A kernel-level ROOT solution based on KernelPatch, with polished UI, APM module system, and KPM kernel module support.",
-		image: "/assets/projects/folkpatch.webp",
-		category: "mobile",
-		techStack: ["Kotlin", "Rust", "C++", "Java"],
-		status: "in-progress",
-		sourceCode: "https://github.com/LyraVoid/FolkPatch",
-		visitUrl: "https://fp.mysqil.com",
-		startDate: "2024-03-01",
-		featured: true,
-		tags: ["Android", "Root", "Kernel"],
-	},
-	{
-		id: "folktool",
-		title: "FolkTool",
-		description:
-			"A fast ROOT flashing tool for FolkPatch with a graphical interface and automated operations, simplifying the complex flashing process.",
-		image: "",
-		category: "desktop",
-		techStack: ["Flutter", "Dart", "C++", "CMake"],
-		status: "completed",
-		sourceCode: "https://github.com/LyraVoid/FolkTool",
-		startDate: "2026-02-01",
-		endDate: "2026-02-28",
-		tags: ["Android", "Tool", "Desktop"],
-		showImage: false,
-	},
-	{
-		id: "folkadb",
-		title: "FolkADB",
-		description:
-			"A portable ADB/Fastboot tool written in C, featuring interactive CLI, Tab completion, drag-and-drop module installation, and Shizuku activation.",
-		image: "",
-		category: "desktop",
-		techStack: ["C"],
-		status: "completed",
-		sourceCode: "https://github.com/LyraVoid/FolkADB",
-		startDate: "2025-06-01",
-		endDate: "2026-01-01",
-		tags: ["Android", "ADB", "CLI"],
-		showImage: false,
-	},
-	{
-		id: "folksplash",
-		title: "FolkSplash",
-		description:
-			"A web-based splash.img visualizer for OPPO/Realme/OnePlus devices, supporting unpack, preview, replace, and repack.",
-		image: "",
-		category: "web",
-		techStack: ["React", "TypeScript", "Vite", "Material-UI", "Zustand"],
-		status: "completed",
-		sourceCode: "https://github.com/LyraVoid/FolkSplash",
-		visitUrl: "https://splash.mysqil.com",
-		startDate: "2025-09-01",
-		endDate: "2025-10-01",
-		tags: ["Android", "Tool", "Frontend"],
-		showImage: false,
-	},
+    {
+        id: "companion-engine",
+        title: "companion-engine",
+        description: "AI companion core engine — personality, relationship, memory, safety, and pipeline",
+        image: "https://opengraph.githubassets.com/1/sixtdreanight/companion-engine",
+        category: "other",
+        techStack: ['TypeScript', 'AI SDK', 'Zod'],
+        status: "completed",
+        sourceCode: "https://github.com/sixtdreanight/companion-engine",
+        startDate: "2026-01-01",
+        featured: true,
+        tags: ['AI', 'npm', 'TypeScript'],
+    },
+    {
+        id: "yumema",
+        title: "Yumema (梦间)",
+        description: "AI 伴侣桌面应用。TA 有自己的性格、爱好、情绪和记忆，可以通过 QQ、微信或应用内直接聊天。",
+        image: "https://opengraph.githubassets.com/1/sixtdreanight/Yumema",
+        category: "desktop",
+        techStack: ['Electron', 'React', 'TypeScript', 'AI SDK'],
+        status: "in-progress",
+        sourceCode: "https://github.com/sixtdreanight/Yumema",
+        startDate: "2025-09-01",
+        featured: true,
+        tags: ['AI', 'Desktop', 'Electron'],
+    },
+    {
+        id: "chinese-scraper-utils",
+        title: "chinese-scraper-utils",
+        description: "Chinese scraping utilities — date parsing, city extraction, UA pool, LLM extraction pipeline",
+        image: "https://opengraph.githubassets.com/1/sixtdreanight/chinese-scraper-utils",
+        category: "other",
+        techStack: ['Python', 'httpx', 'Pydantic'],
+        status: "completed",
+        sourceCode: "https://github.com/sixtdreanight/chinese-scraper-utils",
+        visitUrl: "https://pypi.org/project/chinese-scraper-utils/",
+        startDate: "2026-02-01",
+        featured: false,
+        tags: ['PyPI', 'Python', 'Scraping'],
+    },
+    {
+        id: "comiradar",
+        title: "ComiRadar",
+        description: "自动发现未来 90 天内全国漫展、同人展、二次元演唱会等演出信息",
+        image: "https://opengraph.githubassets.com/1/sixtdreanight/ComiRadar",
+        category: "web",
+        techStack: ['Python', 'Playwright', 'SQLite'],
+        status: "completed",
+        sourceCode: "https://github.com/sixtdreanight/ComiRadar",
+        startDate: "2025-11-01",
+        featured: true,
+        tags: ['Python', 'Scraping', 'Anime'],
+    },
+    {
+        id: "dreamcode",
+        title: "DreamCode",
+        description: "面向零基础学习者的 AI 辅助编程（Vibe Coding）互动教学网站，12 节课 + AI 助教 + 代码沙盒",
+        image: "https://opengraph.githubassets.com/1/sixtdreanight/DreamCode",
+        category: "web",
+        techStack: ['Next.js', 'React', 'TypeScript', 'AI SDK'],
+        status: "completed",
+        sourceCode: "https://github.com/sixtdreanight/DreamCode",
+        visitUrl: "https://learn.dreamnight.net.cn/",
+        startDate: "2026-03-01",
+        featured: true,
+        tags: ['Education', 'Next.js', 'AI'],
+    },
+    {
+        id: "yanmo",
+        title: "Yanmo (研墨)",
+        description: "本地优先的科研助手 — 读懂导师、追新论文、审项目、验公式、写论文",
+        image: "https://opengraph.githubassets.com/1/sixtdreanight/Yanmo",
+        category: "desktop",
+        techStack: ['Python', 'FastAPI', 'SymPy', 'ChromaDB'],
+        status: "in-progress",
+        sourceCode: "https://github.com/sixtdreanight/Yanmo",
+        startDate: "2026-04-01",
+        featured: false,
+        tags: ['Research', 'Python', 'AI'],
+    },
+    {
+        id: "weekly-hotspot",
+        title: "weekly-hotspot",
+        description: "AI 驱动的热点事件分析工具 — 每周自动抓取+政审过滤+价值评分+深度梳理",
+        image: "https://opengraph.githubassets.com/1/sixtdreanight/weekly-hotspot",
+        category: "other",
+        techStack: ['Python', 'DeepSeek', 'Pydantic'],
+        status: "completed",
+        sourceCode: "https://github.com/sixtdreanight/weekly-hotspot",
+        startDate: "2026-04-15",
+        featured: false,
+        tags: ['Python', 'AI', 'News'],
+    },
+    {
+        id: "myblog",
+        title: "myBlog",
+        description: "Personal blog — tech, essays, and whatever comes to mind. 梦夜の小窝。",
+        image: "https://opengraph.githubassets.com/1/sixtdreanight/myBlog",
+        category: "web",
+        techStack: ['Astro', 'React', 'Tailwind CSS', 'MD3'],
+        status: "in-progress",
+        sourceCode: "https://github.com/sixtdreanight/myBlog",
+        visitUrl: "https://dreamnight.net.cn/",
+        startDate: "2025-06-01",
+        featured: true,
+        tags: ['Blog', 'Astro', 'Web'],
+    },
+    {
+        id: "sixtdreanight",
+        title: "sixtdreanight",
+        description: "DreamNight's GitHub profile — AI undergrad, building things for fun",
+        image: "https://opengraph.githubassets.com/1/sixtdreanight/sixtdreanight",
+        category: "web",
+        techStack: ['Markdown', 'GitHub Actions'],
+        status: "completed",
+        sourceCode: "https://github.com/sixtdreanight/sixtdreanight",
+        startDate: "2025-01-01",
+        featured: false,
+        tags: ['Profile', 'GitHub'],
+    },
 ];
-
-// Get project statistics
-export const getProjectStats = () => {
-	const total = projectsData.length;
-	const completed = projectsData.filter((p) => p.status === "completed").length;
-	const inProgress = projectsData.filter(
-		(p) => p.status === "in-progress",
-	).length;
-	const planned = projectsData.filter((p) => p.status === "planned").length;
-
-	return {
-		total,
-		byStatus: {
-			completed,
-			inProgress,
-			planned,
-		},
-	};
-};
-
-// Get projects by category
-export const getProjectsByCategory = (category?: string) => {
-	if (!category || category === "all") {
-		return projectsData;
-	}
-	return projectsData.filter((p) => p.category === category);
-};
-
-// Get featured projects
-export const getFeaturedProjects = () => {
-	return projectsData.filter((p) => p.featured);
-};
-
-// Get all tech stacks
-export const getAllTechStack = () => {
-	const techSet = new Set<string>();
-	projectsData.forEach((project) => {
-		project.techStack.forEach((tech) => {
-			techSet.add(tech);
-		});
-	});
-	return Array.from(techSet).sort();
-};

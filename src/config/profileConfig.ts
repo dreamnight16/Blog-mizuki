@@ -2,9 +2,9 @@ import type { ProfileConfig } from "../types/config";
 
 // 个人资料配置
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "まつざか ゆき",
-	bio: "世界は大きい、君は行かなければならない",
+	avatar: "https://i.ibb.co/gMwpFW7Z/IMG-20260328-163133.jpg", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	name: "DreamNight",
+	bio: "code for life, build for fun. / 极致源于梦想",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
 		speed: 80, // 打字速度（毫秒）
