@@ -2,38 +2,48 @@ import type { ProfileConfig } from "../types/config";
 
 // 个人资料配置
 export const profileConfig: ProfileConfig = {
-	avatar: "https://i.ibb.co/gMwpFW7Z/IMG-20260328-163133.jpg", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "DreamNight",
+	avatar: "https://i.ibb.co/gMwpFW7Z/IMG-20260328-163133.jpg",
+	name: "梦夜十六",
 	bio: "Stay hungry, stay foolish",
 	typewriter: {
-		enable: true, // 启用个人简介打字机效果
-		speed: 80, // 打字速度（毫秒）
+		enable: true,
+		speed: 80,
 	},
 	links: [
 		{
-			name: "Bilibili",
-			icon: "fa7-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
-		},
-		{
-			name: "Gitee",
-			icon: "mdi:git",
-			url: "https://gitee.com/matsuzakayuki",
-		},
-		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/matsuzaka-yuki",
+			url: "https://github.com/sixtdreanight",
 		},
 		{
-			name: "Codeberg",
-			icon: "simple-icons:codeberg",
-			url: "https://codeberg.org",
+			name: "Bilibili",
+			icon: "fa7-brands:bilibili",
+			url: "https://space.bilibili.com/",
 		},
 		{
-			name: "Discord",
-			icon: "fa7-brands:discord",
-			url: "https://discord.gg/MqW6TcQtVM",
+			name: "YouTube",
+			icon: "fa7-brands:youtube",
+			url: "https://youtube.com/@DreamNight",
+		},
+		{
+			name: "X",
+			icon: "fa7-brands:x-twitter",
+			url: "https://x.com/",
+		},
+		{
+			name: "npm",
+			icon: "fa7-brands:npm",
+			url: "https://www.npmjs.com/~sixtdreamnight",
+		},
+		{
+			name: "PyPI",
+			icon: "fa7-brands:python",
+			url: "https://pypi.org/user/sixtdreanight/",
+		},
+		{
+			name: "Vibe Coding 入门课",
+			icon: "material-symbols:school",
+			url: "/learn/",
 		},
 	],
 };
