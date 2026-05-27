@@ -107,46 +107,40 @@ export const siteConfig: SiteConfig = {
 		src: {
 			desktop: [
 				'/assets/desktop-banner/20260422_131225.jpg',
-				'/assets/desktop-banner/IMG_3589.JPG',
 				'/assets/desktop-banner/IMG_3773.JPG',
 				'/assets/desktop-banner/IMG_4506.JPG',
 				'/assets/desktop-banner/IMG_4510.JPG',
 				'/assets/desktop-banner/IMG_4924.JPG',
 				'/assets/desktop-banner/illust_132974340_20260422_151232.PNG',
-				'/assets/desktop-banner/图 (97).JPG',
 				'/assets/desktop-banner/图像 1(1).JPG',
 				'/assets/desktop-banner/图像 1.JPG',
 				'/assets/desktop-banner/图像 2.JPG',
 				'/assets/desktop-banner/图像 3.JPG',
 				'/assets/desktop-banner/图像 4.JPG',
-				'/assets/desktop-banner/图像(1).JPG',
 				'/assets/desktop-banner/图像(2).JPG',
 				'/assets/desktop-banner/图像.JPG',
 			], // 桌面横幅图片
 			mobile: [
-				'/assets/mobile-banner/20260422_131225.jpg',
-				'/assets/mobile-banner/IMG_3589.JPG',
-				'/assets/mobile-banner/IMG_3773.JPG',
-				'/assets/mobile-banner/IMG_4506.JPG',
-				'/assets/mobile-banner/IMG_4510.JPG',
-				'/assets/mobile-banner/IMG_4924.JPG',
-				'/assets/mobile-banner/illust_132974340_20260422_151232.PNG',
-				'/assets/mobile-banner/图 (97).JPG',
-				'/assets/mobile-banner/图像 1(1).JPG',
-				'/assets/mobile-banner/图像 1.JPG',
-				'/assets/mobile-banner/图像 2.JPG',
-				'/assets/mobile-banner/图像 3.JPG',
-				'/assets/mobile-banner/图像 4.JPG',
-				'/assets/mobile-banner/图像(1).JPG',
-				'/assets/mobile-banner/图像(2).JPG',
-				'/assets/mobile-banner/图像.JPG',
+				'/assets/desktop-banner/20260422_131225.jpg',
+				'/assets/desktop-banner/IMG_3773.JPG',
+				'/assets/desktop-banner/IMG_4506.JPG',
+				'/assets/desktop-banner/IMG_4510.JPG',
+				'/assets/desktop-banner/IMG_4924.JPG',
+				'/assets/desktop-banner/illust_132974340_20260422_151232.PNG',
+				'/assets/desktop-banner/图像 1(1).JPG',
+				'/assets/desktop-banner/图像 1.JPG',
+				'/assets/desktop-banner/图像 2.JPG',
+				'/assets/desktop-banner/图像 3.JPG',
+				'/assets/desktop-banner/图像 4.JPG',
+				'/assets/desktop-banner/图像(2).JPG',
+				'/assets/desktop-banner/图像.JPG',
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 
 		position: "center", // 等同于 object-position，仅支持 'top', 'center', 'bottom'。默认为 'center'
 
 		carousel: { enable: true, // 为 true 时：为多张图片启用轮播。为 false 时：从数组中随机显示一张图片
-			interval: 3, // 轮播间隔时间（秒）
+			interval: 8, // 轮播间隔时间（秒）
 		},
 
 		waves: {
