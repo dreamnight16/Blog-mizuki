@@ -152,11 +152,6 @@ export const navBarConfig: NavBarConfig = {
 				url: "/weekly/",
 				icon: "material-symbols:trending-up",
 			},
-			{
-				name: "Vibe Coding 入门",
-				url: "/learn/",
-				icon: "material-symbols:school",
-			},
 			LinkPreset.About,
 		],
 	};

@@ -102,20 +102,6 @@ weeks.sort((a, b) => b.id.localeCompare(a.id));
                       </div>
                     )}
 
-                    {event.timeline && event.timeline.length > 0 && (
-                      <div>
-                        <h4 class="text-sm font-bold mb-2 text-primary">时间线</h4>
-                        <div class="space-y-1.5">
-                          {event.timeline.map((item) => (
-                            <div class="flex gap-2 text-sm">
-                              <span class="text-xs text-surface-50 flex-shrink-0 w-12">{item.time}</span>
-                              <span class="text-surface-50">{item.event}</span>
-                            </div>
-                          ))}
-                        </div>
-                      </div>
-                    )}
-
                     {event.evidence && event.evidence.length > 0 && (
                       <div>
                         <h4 class="text-sm font-bold mb-2 text-primary">证据链</h4>
@@ -125,19 +111,6 @@ weeks.sort((a, b) => b.id.localeCompare(a.id));
                               <span class="text-xs px-1.5 py-0.5 rounded bg-surface-10 flex-shrink-0">{ev.type}</span>
                               <span>{ev.content}</span>
                             </div>
-                          ))}
-                        </div>
-                      </div>
-                    )}
-
-                    {event.edges && event.edges.length > 0 && (
-                      <div>
-                        <h4 class="text-sm font-bold mb-2 text-primary">关系网络</h4>
-                        <div class="flex flex-wrap gap-2">
-                          {event.edges.map((edge) => (
-                            <span class="text-xs px-2 py-1 rounded bg-surface-10">
-                              {edge.from} → {edge.relation} → {edge.to}
-                            </span>
                           ))}
                         </div>
                       </div>

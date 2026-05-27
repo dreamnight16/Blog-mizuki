@@ -1,27 +1,34 @@
 ---
-title: 自述
-description: 这是梦夜的介绍，请查收qwq。
+title: 关于
+description: 关于梦夜和这个博客
 comments: false
 ---
 
-## 关于博客
+## 关于我
 
-因为想要碎碎念和展示自己做的小项目，然后就做了（笑）
+我是 **梦夜**（DreamNight），目前就读于南京邮电大学。
 
-希望看到这个博客的各位都能有所收获呢（笑一笑也可以）
+喜欢各种有趣的东西，正在扩展自己的技术栈 ing。平时折腾 AI 应用、写点技术文章，也会做 MMD 和音 MAD。
 
-博客的框架是 Gyoza [Github 仓库](https://github.com/lxchapu/astro-gyoza)
+车万 · DD · 骑士团 · 锦衣卫 · 等等（）
 
-## 关于作者
+想扩列的话可以来找我哦 awa。
 
-我是 梦夜，目前就读于南京邮电大学，喜欢各种有趣的东西，正在扩展自己的技术栈ing。平时会折腾 AI 应用、写点技术文章，也会做 MMD 和音 mad。算是个二次元（），想扩列的话可以来找我哦 awa。
+## 关于这个博客
 
-## 致谢
+这里记录我的技术折腾、项目展示、以及一些碎碎念。
 
-感谢以下项目：
+博客基于 [Mizuki](https://github.com/LyraVoid/Mizuki) 主题构建，一个 Astro 6 + Material Design 3 的下一代博客框架。
 
-- [Astro](https://astro.build/)
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Jotai](https://jotai.org/)
+## 技术栈
+
+- **框架**: [Astro](https://astro.build/) 6
+- **样式**: Tailwind CSS 4 + Material Design 3
+- **搜索**: Pagefind
+- **部署**: Vercel
+
+## 找到我
+
+- GitHub: [@sixtdreanight](https://github.com/sixtdreanight)
+- Bilibili: [@DreamNight](https://space.bilibili.com/)
+- Blog: [dreamnight.net.cn](https://dreamnight.net.cn)
