@@ -1,8 +1,9 @@
 ---
-title: "DeepfakeBench EffortDetector 项目完全详解（250 问）"
+title: DeepfakeBench EffortDetector 项目完全详解（250 问）
 published: 2026-05-03
-description: "从零开始覆盖 DeepfakeBench EffortDetector 项目的全部细节。假设读者只会 Python 语法，其余概念全部讲解。"
+description: 从零开始覆盖 DeepfakeBench EffortDetector 项目的全部细节。假设读者只会 Python 语法，其余概念全部讲解。
 category: 教程
+tags: [AI, DeepLearning, Deepfake, CLIP, LoRA, Mixup, ViT, PyTorch]
 ---
 
 # DeepfakeBench EffortDetector 项目完全详解（250 问）

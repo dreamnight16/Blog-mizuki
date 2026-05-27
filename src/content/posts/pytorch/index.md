@@ -1,8 +1,9 @@
 ---
-title: "PyTorch 入门教程"
+title: PyTorch 入门教程
 published: 2026-03-31
-description: "欢迎来到我的博客第一篇文章！这是一篇简短的PyTorch教程。"
+description: 欢迎来到我的博客第一篇文章！这是一篇简短的PyTorch教程。
 category: 教程
+tags: [AI, DeepLearning, pytorch]
 ---
 
 # PyTorch 入门教程
