@@ -5,53 +5,66 @@ import events from "../data/events.json";
 
 interface EventItem {
   title: string;
-  date: string;
+  startDate: string;
+  endDate: string;
   city: string;
   venue: string;
   category: string;
-  source_url: string;
-  image_url?: string;
+  ticketUrl: string;
+  imageUrl: string;
+  priceRange: string;
+  status: string;
+  sourceName: string;
 }
 
 const eventList = events as EventItem[];
 const now = new Date();
+now.setHours(0, 0, 0, 0);
 const upcoming = eventList
-  .filter((e) => new Date(e.date) >= now)
-  .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+  .filter((e) => new Date(e.endDate || e.startDate) >= now)
+  .sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());
 ---
 
 <MainGridLayout>
-  <PageHeader title="动漫演出" subtitle="未来 90 天全国漫展、同人展、演唱会" />
+  <PageHeader title="动漫演出" subtitle="全国漫展、同人展、二次元演唱会" />
   <div class="max-w-4xl mx-auto px-4 py-8">
     <p class="text-sm text-surface-50 mb-6">
-      数据由 <a href="https://github.com/sixtdreanight/ComiRadar" target="_blank" rel="noopener" class="underline">ComiRadar</a> 自动抓取，每日更新
+      数据由 <a href="https://github.com/sixtdreanight/ComiRadar" target="_blank" rel="noopener" class="underline">ComiRadar</a> 自动抓取，每日更新 · 共 {upcoming.length} 场
     </p>
     <div class="grid gap-3">
-      {upcoming.map((event) => (
-        <a
-          href={event.source_url || "#"}
-          target="_blank"
-          rel="noopener noreferrer"
-          class="flex items-start gap-4 p-4 rounded-lg border border-surface-20 hover:bg-surface-10 transition-colors"
-        >
-          <div class="flex-shrink-0 w-16 text-center">
-            <div class="text-2xl font-bold text-primary">
-              {new Date(event.date).getDate()}
+      {upcoming.map((event) => {
+        const d = new Date(event.startDate);
+        const month = d.toLocaleDateString("zh-CN", { month: "short" });
+        const day = d.getDate();
+        return (
+          <a
+            href={event.ticketUrl || "#"}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flex items-start gap-4 p-4 rounded-lg border border-surface-20 hover:bg-surface-10 transition-colors"
+          >
+            <div class="flex-shrink-0 w-14 text-center">
+              <div class="text-xl font-bold text-primary">{day}</div>
+              <div class="text-xs text-surface-50">{month}</div>
             </div>
-            <div class="text-xs text-surface-50">
-              {new Date(event.date).toLocaleDateString("zh-CN", { month: "short" })}
+            <div class="flex-1 min-w-0">
+              <div class="flex items-center gap-2">
+                <span class="font-medium truncate">{event.title}</span>
+                {event.status && (
+                  <span class="flex-shrink-0 text-xs px-1.5 py-0.5 rounded bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300">{event.status}</span>
+                )}
+              </div>
+              <div class="text-sm text-surface-50 mt-1 flex flex-wrap gap-x-3 gap-y-1">
+                {event.city && <span>{event.city}</span>}
+                {event.venue && <span>{event.venue}</span>}
+                {event.priceRange && event.priceRange !== "待定" && <span>{event.priceRange}</span>}
+                <span class="text-xs px-1.5 py-0.5 rounded bg-surface-10">{event.sourceName}</span>
+                <span class="text-xs px-1.5 py-0.5 rounded bg-surface-10">{event.category}</span>
+              </div>
             </div>
-          </div>
-          <div class="flex-1 min-w-0">
-            <div class="font-medium truncate">{event.title}</div>
-            <div class="text-sm text-surface-50 mt-1">
-              {event.city && <span>{event.city}</span>}
-              {event.venue && <span class="ml-2">{event.venue}</span>}
-              {event.category && <span class="ml-2 text-xs px-2 py-0.5 rounded bg-surface-10">{event.category}</span>}
-            </div>
-          </div>
-        </a>
-      ))}
+          </a>
+        );
+      })}
     </div>
     {upcoming.length === 0 && (
       <p class="text-center text-surface-50 py-8">暂无演出数据</p>
