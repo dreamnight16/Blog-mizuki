@@ -1,0 +1,27 @@
+---
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+import PageHeader from "../components/features/page-header/PageHeader.astro";
+import { getCategoryList } from "../utils/content-utils";
+import { getCategoryUrl } from "../utils/url-utils";
+import { i18n } from "../i18n/translation";
+import I18nKey from "../i18n/i18nKey";
+
+const categories = await getCategoryList();
+---
+
+<MainGridLayout>
+  <PageHeader title={i18n(I18nKey.categories)} />
+  <div class="max-w-3xl mx-auto px-4 py-8">
+    <div class="grid gap-4">
+      {categories.map((cat) => (
+        <a
+          href={getCategoryUrl(cat.name)}
+          class="flex items-center justify-between p-4 rounded-lg border border-surface-20 hover:bg-surface-10 transition-colors"
+        >
+          <span class="font-medium">{cat.name}</span>
+          <span class="text-sm text-surface-50">{cat.count} posts</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</MainGridLayout>

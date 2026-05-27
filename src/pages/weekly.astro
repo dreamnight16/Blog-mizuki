@@ -1,0 +1,63 @@
+---
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+import PageHeader from "../components/features/page-header/PageHeader.astro";
+
+const weeklyFiles = import.meta.glob("../content/weekly/*.json", { eager: true });
+
+interface WeeklyData {
+  week: string;
+  dateRange: string;
+  events: Array<{
+    title: string;
+    summary: string;
+    score: number;
+    category: string;
+  }>;
+}
+
+const weeks: { id: string; data: WeeklyData }[] = [];
+for (const [path, mod] of Object.entries(weeklyFiles)) {
+  const id = path.split("/").pop()?.replace(".json", "") || "";
+  weeks.push({ id, data: (mod as any).default || mod });
+}
+weeks.sort((a, b) => b.id.localeCompare(a.id));
+---
+
+<MainGridLayout>
+  <PageHeader title="每周热点" subtitle="AI 驱动的热点事件深度梳理" />
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <p class="text-sm text-surface-50 mb-6">
+      数据由 <a href="https://github.com/sixtdreanight/weekly-hotspot" target="_blank" rel="noopener" class="underline">weekly-hotspot</a> 自动生成，每周一更新
+    </p>
+    <div class="grid gap-6">
+      {weeks.map(({ id, data }) => (
+        <div class="p-6 rounded-lg border border-surface-20">
+          <div class="flex items-center justify-between mb-4">
+            <h2 class="text-lg font-bold">{id}</h2>
+            {data.dateRange && (
+              <span class="text-sm text-surface-50">{data.dateRange}</span>
+            )}
+          </div>
+          {data.events && data.events.length > 0 ? (
+            <div class="grid gap-3">
+              {data.events.map((event, i) => (
+                <div class="p-3 rounded bg-surface-5">
+                  <div class="flex items-center gap-2 mb-1">
+                    <span class="text-xs px-2 py-0.5 rounded bg-primary/10 text-primary">{event.score}</span>
+                    <span class="font-medium">{event.title}</span>
+                  </div>
+                  <p class="text-sm text-surface-50">{event.summary}</p>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <p class="text-sm text-surface-50">暂无事件数据</p>
+          )}
+        </div>
+      ))}
+    </div>
+    {weeks.length === 0 && (
+      <p class="text-center text-surface-50 py-8">暂无周报数据</p>
+    )}
+  </div>
+</MainGridLayout>

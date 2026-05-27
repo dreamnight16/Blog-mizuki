@@ -1,0 +1,47 @@
+---
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+import PageHeader from "../components/features/page-header/PageHeader.astro";
+
+const lessons = [
+  { title: "认识 Vibe Coding", desc: "了解什么是 AI 辅助编程" },
+  { title: "写好 Prompt", desc: "学会用自然语言描述需求" },
+  { title: "搭建第一个页面", desc: "从 0 到 1 创建你的网页" },
+  { title: "AI 帮你 Debug", desc: "让 AI 帮你找到代码中的 bug" },
+  { title: "CSS 样式入门", desc: "让你的页面好看起来" },
+  { title: "JavaScript 基础", desc: "给页面添加交互" },
+  { title: "调用 API", desc: "让应用连接到外部数据" },
+  { title: "React 初探", desc: "学会现代前端框架" },
+  { title: "部署上线", desc: "把作品分享给全世界" },
+  { title: "项目实战：个人主页", desc: "综合实战项目" },
+  { title: "项目实战：TODO 应用", desc: "完整 CRUD 应用" },
+  { title: "进阶之路", desc: "下一步学什么" },
+];
+---
+
+<MainGridLayout>
+  <PageHeader title="Vibe Coding 入门课" subtitle="12 节课程，从零基础到独立开发" />
+  <div class="max-w-3xl mx-auto px-4 py-8">
+    <div class="text-center mb-8">
+      <a
+        href="https://learn.dreamnight.net.cn"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-primary text-on-primary hover:opacity-90 transition-opacity font-medium"
+      >
+        开始学习 → learn.dreamnight.net.cn
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      </a>
+    </div>
+    <div class="grid gap-3">
+      {lessons.map((lesson, i) => (
+        <div class="flex items-center gap-4 p-3 rounded-lg border border-surface-10">
+          <span class="flex-shrink-0 w-8 h-8 flex items-center justify-center rounded-full bg-surface-10 text-sm font-bold">{i + 1}</span>
+          <div>
+            <div class="font-medium">{lesson.title}</div>
+            <div class="text-sm text-surface-50">{lesson.desc}</div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</MainGridLayout>

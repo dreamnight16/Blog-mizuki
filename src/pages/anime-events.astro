@@ -1,0 +1,60 @@
+---
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+import PageHeader from "../components/features/page-header/PageHeader.astro";
+import events from "../data/events.json";
+
+interface EventItem {
+  title: string;
+  date: string;
+  city: string;
+  venue: string;
+  category: string;
+  source_url: string;
+  image_url?: string;
+}
+
+const eventList = events as EventItem[];
+const now = new Date();
+const upcoming = eventList
+  .filter((e) => new Date(e.date) >= now)
+  .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+---
+
+<MainGridLayout>
+  <PageHeader title="动漫演出" subtitle="未来 90 天全国漫展、同人展、演唱会" />
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <p class="text-sm text-surface-50 mb-6">
+      数据由 <a href="https://github.com/sixtdreanight/ComiRadar" target="_blank" rel="noopener" class="underline">ComiRadar</a> 自动抓取，每日更新
+    </p>
+    <div class="grid gap-3">
+      {upcoming.map((event) => (
+        <a
+          href={event.source_url || "#"}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="flex items-start gap-4 p-4 rounded-lg border border-surface-20 hover:bg-surface-10 transition-colors"
+        >
+          <div class="flex-shrink-0 w-16 text-center">
+            <div class="text-2xl font-bold text-primary">
+              {new Date(event.date).getDate()}
+            </div>
+            <div class="text-xs text-surface-50">
+              {new Date(event.date).toLocaleDateString("zh-CN", { month: "short" })}
+            </div>
+          </div>
+          <div class="flex-1 min-w-0">
+            <div class="font-medium truncate">{event.title}</div>
+            <div class="text-sm text-surface-50 mt-1">
+              {event.city && <span>{event.city}</span>}
+              {event.venue && <span class="ml-2">{event.venue}</span>}
+              {event.category && <span class="ml-2 text-xs px-2 py-0.5 rounded bg-surface-10">{event.category}</span>}
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+    {upcoming.length === 0 && (
+      <p class="text-center text-surface-50 py-8">暂无演出数据</p>
+    )}
+  </div>
+</MainGridLayout>

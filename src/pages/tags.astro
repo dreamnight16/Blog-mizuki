@@ -1,0 +1,27 @@
+---
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+import PageHeader from "../components/features/page-header/PageHeader.astro";
+import { getTagList } from "../utils/content-utils";
+import { getTagUrl } from "../utils/url-utils";
+import { i18n } from "../i18n/translation";
+import I18nKey from "../i18n/i18nKey";
+
+const tags = await getTagList();
+---
+
+<MainGridLayout>
+  <PageHeader title={i18n(I18nKey.tags)} />
+  <div class="max-w-3xl mx-auto px-4 py-8">
+    <div class="flex flex-wrap gap-3">
+      {tags.map((tag) => (
+        <a
+          href={getTagUrl(tag.name)}
+          class="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-surface-20 hover:bg-surface-10 transition-colors"
+        >
+          <span>{tag.name}</span>
+          <span class="text-sm text-surface-50">{tag.count}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</MainGridLayout>
