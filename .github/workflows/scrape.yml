@@ -1,0 +1,43 @@
+name: 抓取演出信息
+
+on:
+  schedule:
+    # UTC+8 8:00-23:30，每60分钟 (cron: minute hour UTC)
+    - cron: '0 0-15 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt && python -m playwright install chromium
+
+      - name: Run scraper
+        env:
+          BILI_BUVID3: ${{ secrets.BILI_BUVID3 }}
+          BILI_SESSDATA: ${{ secrets.BILI_SESSDATA }}
+          BILI_BILI_JCT: ${{ secrets.BILI_BILI_JCT }}
+          DAMAI_M_H5_TK: ${{ secrets.DAMAI_M_H5_TK }}
+          DAMAI_COOKIE2: ${{ secrets.DAMAI_COOKIE2 }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python scraper/main.py run
+
+      - name: Commit updated events.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update events'
+          file_pattern: 'src/data/events.json'
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'

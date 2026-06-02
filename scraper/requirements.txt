@@ -1,0 +1,11 @@
+chinese-scraper-utils>=0.2.1
+httpx>=0.28
+parsel>=1.10
+pydantic>=2.0
+sqlalchemy>=2.0
+aiosqlite>=0.20
+rapidfuzz>=3.0
+pyyaml>=6.0
+browser-cookie3>=0.19
+python-dotenv>=1.0
+playwright>=1.45

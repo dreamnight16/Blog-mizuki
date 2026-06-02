@@ -1,0 +1,128 @@
+import asyncio
+from datetime import datetime
+from db.store import get_session, upsert_event, get_all_events
+from scrapers.base import AbstractScraper, TicketingScraper, SocialScraper
+from scrapers.health import record_success, record_failure, is_enabled, stats as health_stats
+from pipeline.dedup import deduplicate, make_fingerprint
+
+
+class Orchestrator:
+    def __init__(self):
+        self.session = get_session()
+
+    async def scrape_all(self):
+        await self.scrape_ticketing()
+        await self.scrape_social()
+        self._dedup_all()
+        self.session.commit()
+
+    async def scrape_ticketing(self):
+        scrapers = list(AbstractScraper._registry.values())
+        try:
+            from scrapers.ticketing.bilibili import BilibiliScraper
+            if BilibiliScraper not in scrapers:
+                scrapers.insert(0, BilibiliScraper)
+        except ImportError:
+            pass
+        try:
+            from scrapers.social.weibo import WeiboScraper
+            if WeiboScraper not in scrapers:
+                scrapers.append(WeiboScraper)
+        except ImportError:
+            pass
+        try:
+            from scrapers.nyato import NyatoScraper
+            if NyatoScraper not in scrapers:
+                scrapers.insert(1, NyatoScraper)
+        except ImportError:
+            pass
+        try:
+            from scrapers.chinajoy import ChinajoyScraper
+            if ChinajoyScraper not in scrapers:
+                scrapers.append(ChinajoyScraper)
+        except ImportError:
+            pass
+        try:
+            from scrapers.ciefc import CiefcScraper
+            if CiefcScraper not in scrapers:
+                scrapers.append(CiefcScraper)
+        except ImportError:
+            pass
+        scrapers = [s for s in scrapers if is_enabled(getattr(s, 'platform', 'unknown'))]
+        await self._run_ticketing(scrapers)
+
+    async def scrape_social(self):
+        scrapers = list(AbstractScraper._registry.values())
+        scrapers = [s for s in scrapers if is_enabled(getattr(s, 'platform', 'unknown'))]
+        if scrapers:
+            await self._run_social(scrapers)
+
+    async def _run_ticketing(self, scraper_classes):
+        from pipeline.normalizer import normalize
+        for cls in scraper_classes:
+            try:
+                scraper = cls()
+                raw = await scraper.scrape()
+                events = normalize(cls.platform, raw)
+                for e in events:
+                    e.fingerprint = make_fingerprint(e)
+                    upsert_event(self.session, e)
+                self.session.commit()
+                record_success(cls.platform)
+                print(f"[{cls.platform}] {len(events)} events")
+            except Exception as exc:
+                disabled = record_failure(cls.platform)
+                tag = " DISABLED" if disabled else ""
+                print(f"[{cls.platform}] failed: {exc}{tag}")
+            finally:
+                await asyncio.sleep(1)
+
+    async def _run_social(self, scraper_classes):
+        from pipeline.extractor import extract_events
+        for cls in scraper_classes:
+            try:
+                scraper = cls()
+                raw = await scraper.scrape()
+                events = extract_events(cls.platform, raw)
+                for e in events:
+                    e.fingerprint = make_fingerprint(e)
+                    upsert_event(self.session, e)
+                self.session.commit()
+                record_success(cls.platform)
+                print(f"[{cls.platform}] {len(events)} events")
+            except Exception as exc:
+                disabled = record_failure(cls.platform)
+                tag = " DISABLED" if disabled else ""
+                print(f"[{cls.platform}] failed: {exc}{tag}")
+            finally:
+                await asyncio.sleep(1)
+
+    def _dedup_all(self):
+        events = get_all_events(self.session)
+        merged = deduplicate(events)
+        for e in merged:
+            upsert_event(self.session, e)
+        self.session.commit()
+        print(f"Dedup: {len(events)} -> {len(merged)}")
+
+    async def check_and_notify(self):
+        events = get_all_events(self.session)
+        upcoming = [e for e in events if e.start_date >= datetime.now().strftime("%Y-%m-%d")]
+        new_events = [e for e in upcoming if e.status in ("售票中", "即将开票")]
+        if not new_events:
+            return
+        msg = "\n".join(
+            f"• {e.title} | {e.city} | {e.start_date} | {e.price_range or '待定'}"
+            for e in new_events[:5]
+        )
+        await self._notify_all(msg)
+
+    async def _notify_all(self, message: str):
+        from notifiers.serverchan import send as sc_send
+        from notifiers.bark import send as bk_send
+        await sc_send(message)
+        await bk_send(message)
+
+
+def get_stats() -> dict:
+    return health_stats()
