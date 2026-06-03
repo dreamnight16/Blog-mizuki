@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.463445"
+    "scrapedAt": "2026-06-03T04:08:34.025769"
   },
   {
     "id": "bilibili_1001722",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.463959"
+    "scrapedAt": "2026-06-03T04:08:34.026184"
   },
   {
     "id": "bilibili_1001298",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.468885"
+    "scrapedAt": "2026-06-03T04:08:34.030152"
   },
   {
     "id": "bilibili_1001462",
@@ -69,7 +69,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.464434"
+    "scrapedAt": "2026-06-03T04:08:34.026577"
+  },
+  {
+    "id": "bilibili_1001869",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "固安·阳阳的漫展·端午",
+    "category": "漫展",
+    "city": "廊坊",
+    "venue": "",
+    "startDate": "2026-06-21",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1001869",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202606/5Y3ePMoH1780298499_1780298499767.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-03T04:08:34.031342"
   },
   {
     "id": "bilibili_1001859",
@@ -87,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.468390"
+    "scrapedAt": "2026-06-03T04:08:34.032902"
   },
   {
     "id": "bilibili_1001839",
@@ -105,43 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.472255"
-  },
-  {
-    "id": "bilibili_1001840",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "张家港·缘起动漫游戏嘉年华",
-    "category": "漫展",
-    "city": "苏州",
-    "venue": "",
-    "startDate": "2026-07-04",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1001840",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202606/St6KHZcd1780297873_1780297873638.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.474643"
-  },
-  {
-    "id": "bilibili_1001841",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "苏州·7.4 请君一战·剑网3同人ONLY2.0",
-    "category": "同人展",
-    "city": "苏州",
-    "venue": "",
-    "startDate": "2026-07-04",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1001841",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202606/8Z7regWL1780299194_1780299194158.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.475603"
+    "scrapedAt": "2026-06-03T04:08:34.036039"
   },
   {
     "id": "bilibili_1001803",
@@ -159,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.466388"
+    "scrapedAt": "2026-06-03T04:08:34.028561"
   },
   {
     "id": "bilibili_1001816",
@@ -177,25 +159,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.476096"
+    "scrapedAt": "2026-06-03T04:08:34.036451"
   },
   {
-    "id": "bilibili_1001907",
+    "id": "bilibili_1001938",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "睢宁·第十六届第几次漫展",
+    "title": "南阳·帝乡动漫节",
     "category": "漫展",
-    "city": "徐州",
+    "city": "南阳",
     "venue": "",
-    "startDate": "2026-07-18",
+    "startDate": "2026-07-22",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1001907",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202606/F23RPzBn1780371085_1780371085149.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1001938",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202606/CEcT94gH1780383187_1780383187392.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.477521"
+    "scrapedAt": "2026-06-03T04:08:34.037263"
   },
   {
     "id": "bilibili_1001808",
@@ -213,25 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.465915"
-  },
-  {
-    "id": "bilibili_1001854",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "北京·第29届IJOY漫展【奇响天外专场见面会：Mace&诺亚】",
-    "category": "演唱会",
-    "city": "北京",
-    "venue": "",
-    "startDate": "2026-07-25",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1001854",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202605/okNF2rwt1780050494_1780050494848.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.471291"
+    "scrapedAt": "2026-06-03T04:08:34.027763"
   },
   {
     "id": "bilibili_1001853",
@@ -249,7 +213,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.475138"
+    "scrapedAt": "2026-06-03T04:08:34.029747"
+  },
+  {
+    "id": "bilibili_1001854",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "北京·第29届IJOY漫展【奇响天外专场见面会：Mace&诺亚】",
+    "category": "演唱会",
+    "city": "北京",
+    "venue": "",
+    "startDate": "2026-07-25",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1001854",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202605/okNF2rwt1780050494_1780050494848.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-03T04:08:34.030934"
   },
   {
     "id": "bilibili_1001945",
@@ -267,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.477056"
+    "scrapedAt": "2026-06-03T04:08:34.033306"
   },
   {
     "id": "bilibili_1001804",
@@ -285,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.473213"
+    "scrapedAt": "2026-06-03T04:08:34.036845"
   },
   {
     "id": "bilibili_1001809",
@@ -303,25 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.469354"
-  },
-  {
-    "id": "bilibili_1001906",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "潍坊·SK动漫嘉年华10.5",
-    "category": "漫展",
-    "city": "潍坊",
-    "venue": "",
-    "startDate": "2026-08-02",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1001906",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202605/yZnFSwKJ1779783973_1779783973831.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.478013"
+    "scrapedAt": "2026-06-03T04:08:34.032519"
   },
   {
     "id": "bilibili_1001837",
@@ -339,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.469846"
+    "scrapedAt": "2026-06-03T04:08:34.033686"
   },
   {
     "id": "bilibili_1001835",
@@ -357,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.467386"
+    "scrapedAt": "2026-06-03T04:08:34.029359"
   },
   {
     "id": "bilibili_1001813",
@@ -375,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.471780"
+    "scrapedAt": "2026-06-03T04:08:34.034484"
   },
   {
     "id": "bilibili_1001849",
@@ -393,25 +357,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.474176"
+    "scrapedAt": "2026-06-03T04:08:34.035648"
   },
   {
-    "id": "bilibili_1001805",
+    "id": "bilibili_1001883",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "淄博·Manga Galaxy动漫嘉年华",
+    "title": "诸城·双子次元界动漫嘉年华",
     "category": "漫展",
-    "city": "淄博",
+    "city": "潍坊",
     "venue": "",
-    "startDate": "2026-08-08",
+    "startDate": "2026-08-11",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1001805",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202605/tlrvHI4O1779518191_1779518191772.png",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1001883",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202606/gCPLZXVy1780331433_1780331433808.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.476559"
+    "scrapedAt": "2026-06-03T04:08:34.035264"
   },
   {
     "id": "bilibili_1001806",
@@ -429,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.472720"
+    "scrapedAt": "2026-06-03T04:08:34.034866"
   },
   {
     "id": "bilibili_1001583",
@@ -447,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.467897"
+    "scrapedAt": "2026-06-03T04:08:34.031732"
   },
   {
     "id": "bilibili_1001834",
@@ -465,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.465410"
+    "scrapedAt": "2026-06-03T04:08:34.027371"
   },
   {
     "id": "bilibili_1001812",
@@ -483,7 +447,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.470318"
+    "scrapedAt": "2026-06-03T04:08:34.034091"
   },
   {
     "id": "bilibili_1001799",
@@ -501,6 +465,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-02T15:19:37.473680"
+    "scrapedAt": "2026-06-03T04:08:34.037654"
   }
 ]
