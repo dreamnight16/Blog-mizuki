@@ -31,7 +31,7 @@ const postsCollection = defineCollection({
 		/* Posts alias */
 		alias: z.string().optional(),
 
-		/* Custom permalink - 自定义固定链接，优先级高于 alias */
+		/* Custom permalink */
 		permalink: z.string().optional(),
 
 		/* For internal use */
@@ -41,11 +41,28 @@ const postsCollection = defineCollection({
 		nextSlug: z.string().default(""),
 	}),
 });
+
+const projectsCollection = defineCollection({
+	loader: glob({ pattern: "**/*.{yaml,yml}", base: "./src/content/projects" }),
+	schema: z.object({
+		title: z.string(),
+		description: z.string(),
+		image: z.string(),
+		link: z.string().url(),
+		category: z.string().default("web"),
+		techStack: z.array(z.string()).default([]),
+		status: z.string().default("in-progress"),
+		tags: z.array(z.string()).default([]),
+	}),
+});
+
 const specCollection = defineCollection({
 	loader: glob({ pattern: "**/*.{md,mdx}", base: "./src/content/spec" }),
 	schema: z.object({}),
 });
+
 export const collections = {
 	posts: postsCollection,
+	projects: projectsCollection,
 	spec: specCollection,
 };

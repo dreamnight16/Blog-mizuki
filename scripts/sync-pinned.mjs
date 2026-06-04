@@ -19,6 +19,9 @@ query {
         description
         url
         owner { login }
+        languages(first: 3, orderBy: {field: SIZE, direction: DESC}) {
+          nodes { name }
+        }
         object(expression: "HEAD:README.md") {
           ... on Blob {
             text
@@ -40,6 +43,16 @@ function slug(name) {
     .replace(/^-|-$/g, '')
 }
 
+function guessCategory(repo) {
+  const desc = (repo.description || '').toLowerCase()
+  if (repo.languages?.nodes?.length) {
+    const primary = repo.languages.nodes[0].name.toLowerCase()
+    if (['swift', 'kotlin', 'java', 'dart'].includes(primary)) return 'mobile'
+    if (['c++', 'c#', 'rust', 'go'].includes(primary) || primary.includes('cpp')) return 'desktop'
+  }
+  return 'web'
+}
+
 function toYaml(repo) {
   const key = slug(repo.name)
   return {
@@ -48,6 +61,10 @@ function toYaml(repo) {
 description: ${repo.description || `${repo.name} - GitHub repository`}
 image: https://opengraph.githubassets.com/1/${repo.owner.login}/${repo.name}
 link: ${repo.url}
+category: ${guessCategory(repo)}
+techStack: []
+status: in-progress
+tags: []
 `,
   }
 }
