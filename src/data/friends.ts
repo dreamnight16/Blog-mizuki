@@ -13,7 +13,7 @@ export const friendsData: FriendItem[] = [
     {
         id: 1,
         title: "暮雨の小站",
-        imgurl: "https://avatars.githubusercontent.com/u/0?v=4",
+        imgurl: "https://i.ibb.co/nvyJLq1/0ef09979-47b8-42f1-87ee-fc59df9e9262.jpg",
         desc: "暮雨的个人博客",
         siteurl: "https://muyufly.github.io/",
         tags: ['Blog', 'Tech'],
@@ -21,7 +21,7 @@ export const friendsData: FriendItem[] = [
     {
         id: 2,
         title: "墨水的花园",
-        imgurl: "",
+        imgurl: "https://avatars.githubusercontent.com/u/0?v=4",
         desc: "我是墨水。这是我在互联网上的小小花园——欢迎来访！",
         siteurl: "https://avatars.githubusercontent.com/u/0?v=4",
         tags: ['Blog', 'Tech'], 
