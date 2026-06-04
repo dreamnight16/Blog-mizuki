@@ -18,6 +18,14 @@ export const friendsData: FriendItem[] = [
         siteurl: "https://muyufly.github.io/",
         tags: ['Blog', 'Tech'],
     },
+    {
+        id: 2,
+        title: "墨水的花园",
+        imgurl: "",
+        desc: "我是墨水。这是我在互联网上的小小花园——欢迎来访！",
+        siteurl: "https://avatars.githubusercontent.com/u/0?v=4",
+        tags: ['Blog', 'Tech'], 
+    },
 ];
 
 export function getFriendsList(): FriendItem[] {
