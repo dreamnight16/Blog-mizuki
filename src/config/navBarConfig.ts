@@ -130,24 +130,24 @@ export const navBarConfig: NavBarConfig = {
 		links: [
 			LinkPreset.Home,
 			LinkPreset.Archive,
+			LinkPreset.Anime,
 			LinkPreset.Projects,
 			LinkPreset.Friends,
 			{
-				name: "发现",
+				name: "动漫演出",
+				url: "/anime-events/",
+				icon: "material-symbols:confirmation-number",
+			},
+			{
+				name: "每周热点",
+				url: "/weekly/",
+				icon: "material-symbols:trending-up",
+			},
+			{
+				name: "更多",
 				url: "#",
-				icon: "material-symbols:explore",
+				icon: "material-symbols:more-horiz",
 				children: [
-					LinkPreset.Anime,
-					{
-						name: "动漫演出",
-						url: "/anime-events/",
-						icon: "material-symbols:confirmation-number",
-					},
-					{
-						name: "每周热点",
-						url: "/weekly/",
-						icon: "material-symbols:trending-up",
-					},
 					{
 						name: "标签",
 						url: "/tags/",
