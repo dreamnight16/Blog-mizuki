@@ -28,7 +28,7 @@ const upcoming = eventList
 <MainGridLayout>
   <PageHeader title="动漫演出" subtitle="全国漫展、同人展、二次元演唱会" />
   <div class="max-w-4xl mx-auto px-4 py-8">
-    <p class="text-sm text-surface-50 mb-6">
+    <p class="text-sm text-black/50 dark:text-white/50 mb-6">
       数据由 <a href="https://github.com/sixtdreanight/ComiRadar" target="_blank" rel="noopener" class="underline">ComiRadar</a> 自动抓取，每日更新 · 共 {upcoming.length} 场
     </p>
     <div class="grid gap-3">
@@ -41,25 +41,25 @@ const upcoming = eventList
             href={event.ticketUrl || "#"}
             target="_blank"
             rel="noopener noreferrer"
-            class="flex items-start gap-4 p-4 rounded-lg border border-surface-20 hover:bg-surface-10 transition-colors"
+            class="flex items-start gap-4 p-4 rounded-lg border border-black/10 dark:border-white/10 hover:bg-[var(--btn-regular-bg)] transition-colors"
           >
             <div class="flex-shrink-0 w-14 text-center">
-              <div class="text-xl font-bold text-primary">{day}</div>
-              <div class="text-xs text-surface-50">{month}</div>
+              <div class="text-xl font-bold text-[var(--primary)]">{day}</div>
+              <div class="text-xs text-black/50 dark:text-white/50">{month}</div>
             </div>
             <div class="flex-1 min-w-0">
               <div class="flex items-center gap-2">
-                <span class="font-medium truncate">{event.title}</span>
+                <span class="font-medium truncate text-black/90 dark:text-white/90">{event.title}</span>
                 {event.status && (
                   <span class="flex-shrink-0 text-xs px-1.5 py-0.5 rounded bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300">{event.status}</span>
                 )}
               </div>
-              <div class="text-sm text-surface-50 mt-1 flex flex-wrap gap-x-3 gap-y-1">
+              <div class="text-sm text-black/50 dark:text-white/50 mt-1 flex flex-wrap gap-x-3 gap-y-1">
                 {event.city && <span>{event.city}</span>}
                 {event.venue && <span>{event.venue}</span>}
                 {event.priceRange && event.priceRange !== "待定" && <span>{event.priceRange}</span>}
-                <span class="text-xs px-1.5 py-0.5 rounded bg-surface-10">{event.sourceName}</span>
-                <span class="text-xs px-1.5 py-0.5 rounded bg-surface-10">{event.category}</span>
+                <span class="text-xs px-1.5 py-0.5 rounded bg-[var(--btn-regular-bg)] text-black/70 dark:text-white/70">{event.sourceName}</span>
+                <span class="text-xs px-1.5 py-0.5 rounded bg-[var(--btn-regular-bg)] text-black/70 dark:text-white/70">{event.category}</span>
               </div>
             </div>
           </a>
@@ -67,7 +67,7 @@ const upcoming = eventList
       })}
     </div>
     {upcoming.length === 0 && (
-      <p class="text-center text-surface-50 py-8">暂无演出数据</p>
+      <p class="text-center text-black/50 dark:text-white/50 py-8">暂无演出数据</p>
     )}
   </div>
 </MainGridLayout>

@@ -130,27 +130,35 @@ export const navBarConfig: NavBarConfig = {
 		links: [
 			LinkPreset.Home,
 			LinkPreset.Archive,
-			{
-				name: "标签",
-				url: "/tags/",
-				icon: "material-symbols:tag",
-			},
-			{
-				name: "分类",
-				url: "/categories/",
-				icon: "material-symbols:category",
-			},
 			LinkPreset.Projects,
 			LinkPreset.Friends,
 			{
-				name: "动漫演出",
-				url: "/anime-events/",
-				icon: "material-symbols:confirmation-number",
-			},
-			{
-				name: "每周热点",
-				url: "/weekly/",
-				icon: "material-symbols:trending-up",
+				name: "发现",
+				url: "#",
+				icon: "material-symbols:explore",
+				children: [
+					LinkPreset.Anime,
+					{
+						name: "动漫演出",
+						url: "/anime-events/",
+						icon: "material-symbols:confirmation-number",
+					},
+					{
+						name: "每周热点",
+						url: "/weekly/",
+						icon: "material-symbols:trending-up",
+					},
+					{
+						name: "标签",
+						url: "/tags/",
+						icon: "material-symbols:tag",
+					},
+					{
+						name: "分类",
+						url: "/categories/",
+						icon: "material-symbols:category",
+					},
+				],
 			},
 			LinkPreset.About,
 		],

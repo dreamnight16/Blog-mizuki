@@ -50,52 +50,52 @@ weeks.sort((a, b) => b.id.localeCompare(a.id));
 <MainGridLayout>
   <PageHeader title="每周热点" subtitle="AI 驱动的热点事件深度梳理" />
   <div class="max-w-4xl mx-auto px-4 py-8">
-    <p class="text-sm text-surface-50 mb-6">
+    <p class="text-sm text-black/50 dark:text-white/50 mb-6">
       数据由 <a href="https://github.com/sixtdreanight/weekly-hotspot" target="_blank" rel="noopener" class="underline">weekly-hotspot</a> 自动生成，每周一更新 · 共 {weeks.length} 期
     </p>
     <div class="grid gap-8">
       {weeks.map(({ id, data }) => (
-        <div class="p-6 rounded-lg border border-surface-20">
+        <div class="p-6 rounded-lg border border-black/10 dark:border-white/10">
           <div class="flex items-center justify-between mb-4">
-            <h2 class="text-lg font-bold">{id}</h2>
-            <span class="text-sm text-surface-50">{data.weekStart} ~ {data.weekEnd}</span>
+            <h2 class="text-lg font-bold text-black/90 dark:text-white/90">{id}</h2>
+            <span class="text-sm text-black/50 dark:text-white/50">{data.weekStart} ~ {data.weekEnd}</span>
           </div>
           {data.events && data.events.length > 0 ? (
             <div class="grid gap-3">
               {data.events.map((event) => (
-                <details class="group rounded bg-surface-5 overflow-hidden">
-                  <summary class="p-4 cursor-pointer hover:bg-surface-10 transition-colors list-none flex items-start gap-3">
+                <details class="group rounded bg-[var(--btn-regular-bg)] overflow-hidden">
+                  <summary class="p-4 cursor-pointer hover:bg-[var(--btn-hover-bg)] transition-colors list-none flex items-start gap-3">
                     <div class="flex gap-1 flex-shrink-0 mt-0.5">
                       <span class="text-xs px-2 py-0.5 rounded bg-red-100 text-red-700 dark:bg-red-900 dark:text-red-300">影响 {event.impactScore}</span>
                       <span class="text-xs px-2 py-0.5 rounded bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-300">增量 {event.infoGainScore}</span>
                     </div>
-                    <span class="font-medium flex-1">{event.title}</span>
-                    <svg class="w-4 h-4 flex-shrink-0 mt-1 group-open:rotate-180 transition-transform" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+                    <span class="font-medium flex-1 text-black/90 dark:text-white/90">{event.title}</span>
+                    <svg class="w-4 h-4 flex-shrink-0 mt-1 group-open:rotate-180 transition-transform text-black/50 dark:text-white/50" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
                   </summary>
                   <div class="px-4 pb-4 space-y-4">
-                    <p class="text-sm text-surface-50 leading-relaxed">{event.summary}</p>
+                    <p class="text-sm text-black/60 dark:text-white/60 leading-relaxed">{event.summary}</p>
 
                     {event.dialecticalSummary && (
                       <div>
-                        <h4 class="text-sm font-bold mb-1 text-primary">辩证总结</h4>
-                        <p class="text-sm text-surface-50 leading-relaxed">{event.dialecticalSummary}</p>
+                        <h4 class="text-sm font-bold mb-1 text-[var(--primary)]">辩证总结</h4>
+                        <p class="text-sm text-black/60 dark:text-white/60 leading-relaxed">{event.dialecticalSummary}</p>
                       </div>
                     )}
 
                     {event.classAnalysis && (
                       <div class="space-y-2">
-                        <h4 class="text-sm font-bold text-primary">阶级分析</h4>
-                        <div class="text-sm text-surface-50 leading-relaxed space-y-2">
+                        <h4 class="text-sm font-bold text-[var(--primary)]">阶级分析</h4>
+                        <div class="text-sm text-black/60 dark:text-white/60 leading-relaxed space-y-2">
                           <div>
-                            <span class="font-medium text-surface">阶级本质：</span>
+                            <span class="font-medium text-black/80 dark:text-white/80">阶级本质：</span>
                             {event.classAnalysis.classNature}
                           </div>
                           <div>
-                            <span class="font-medium text-surface">主要矛盾：</span>
+                            <span class="font-medium text-black/80 dark:text-white/80">主要矛盾：</span>
                             {event.classAnalysis.contradiction}
                           </div>
                           <div>
-                            <span class="font-medium text-surface">历史脉络：</span>
+                            <span class="font-medium text-black/80 dark:text-white/80">历史脉络：</span>
                             {event.classAnalysis.historicalContext}
                           </div>
                         </div>
@@ -104,11 +104,11 @@ weeks.sort((a, b) => b.id.localeCompare(a.id));
 
                     {event.evidence && event.evidence.length > 0 && (
                       <div>
-                        <h4 class="text-sm font-bold mb-2 text-primary">证据链</h4>
+                        <h4 class="text-sm font-bold mb-2 text-[var(--primary)]">证据链</h4>
                         <div class="space-y-1.5">
                           {event.evidence.map((ev) => (
-                            <div class="text-sm text-surface-50 flex gap-2">
-                              <span class="text-xs px-1.5 py-0.5 rounded bg-surface-10 flex-shrink-0">{ev.type}</span>
+                            <div class="text-sm text-black/60 dark:text-white/60 flex gap-2">
+                              <span class="text-xs px-1.5 py-0.5 rounded bg-[var(--primary)]/10 text-[var(--primary)] flex-shrink-0">{ev.type}</span>
                               <span>{ev.content}</span>
                             </div>
                           ))}
@@ -120,13 +120,13 @@ weeks.sort((a, b) => b.id.localeCompare(a.id));
               ))}
             </div>
           ) : (
-            <p class="text-sm text-surface-50">暂无事件数据</p>
+            <p class="text-sm text-black/50 dark:text-white/50">暂无事件数据</p>
           )}
         </div>
       ))}
     </div>
     {weeks.length === 0 && (
-      <p class="text-center text-surface-50 py-8">暂无周报数据</p>
+      <p class="text-center text-black/50 dark:text-white/50 py-8">暂无周报数据</p>
     )}
   </div>
 </MainGridLayout>
