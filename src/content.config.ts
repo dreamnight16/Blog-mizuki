@@ -42,20 +42,6 @@ const postsCollection = defineCollection({
 	}),
 });
 
-const projectsCollection = defineCollection({
-	loader: glob({ pattern: "**/*.{yaml,yml}", base: "./src/content/projects" }),
-	schema: z.object({
-		title: z.string(),
-		description: z.string(),
-		image: z.string(),
-		link: z.string().url(),
-		category: z.string().default("web"),
-		techStack: z.array(z.string()).default([]),
-		status: z.string().default("in-progress"),
-		tags: z.array(z.string()).default([]),
-	}),
-});
-
 const specCollection = defineCollection({
 	loader: glob({ pattern: "**/*.{md,mdx}", base: "./src/content/spec" }),
 	schema: z.object({}),
@@ -63,6 +49,5 @@ const specCollection = defineCollection({
 
 export const collections = {
 	posts: postsCollection,
-	projects: projectsCollection,
 	spec: specCollection,
 };

@@ -28,6 +28,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: sync repos with README'
-          file_pattern: 'src/content/projects/*.yaml'
+          file_pattern: 'src/data/projects-synced.ts'
           commit_user_name: 'github-actions[bot]'
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'

@@ -1,5 +1,4 @@
 ---
-import { getCollection } from "astro:content";
 import { FilterTabs } from "@components/atoms/filter-tabs";
 import { PageHeader } from "@components/features/page-header";
 import { ProjectCard } from "@components/features/projects";
@@ -9,6 +8,7 @@ import { Icon } from "astro-icon/components";
 import { siteConfig } from "../config";
 import { UNCATEGORIZED } from "../constants/constants";
 import { projectsData } from "../data/projects";
+import { projectsSynced } from "../data/projects-synced";
 import I18nKey from "../i18n/i18nKey";
 import { i18n } from "../i18n/translation";
 
@@ -16,42 +16,14 @@ if (!siteConfig.featurePages.projects) {
 	return Astro.redirect("/404/");
 }
 
-const syncedProjects = await getCollection("projects");
-
-const syncedProjectEntries = syncedProjects.map((p) => ({
-	id: p.id,
-	title: p.data.title,
-	description: p.data.description,
-	image: p.data.image,
-	category: p.data.category as Project["category"],
-	techStack: p.data.techStack,
-	status: p.data.status as Project["status"],
-	sourceCode: p.data.link,
-	startDate: "",
-	tags: p.data.tags,
-}));
-
 const existingUrls = new Set(
 	projectsData.map((p) => p.sourceCode).filter(Boolean)
 );
-const newSyncedProjects = syncedProjectEntries.filter(
+const newSynced = projectsSynced.filter(
 	(p) => !existingUrls.has(p.sourceCode)
 );
 
-const allProjects = [...projectsData, ...newSyncedProjects];
-
-interface Project {
-	id: string;
-	title: string;
-	description: string;
-	image: string;
-	category: "web" | "mobile" | "desktop" | "other";
-	techStack: string[];
-	status: "completed" | "in-progress" | "planned";
-	sourceCode?: string;
-	startDate: string;
-	tags?: string[];
-}
+const allProjects = [...projectsData, ...newSynced];
 
 const categories = [
 	...new Set(allProjects.map((project) => project.category)),
