@@ -12,9 +12,9 @@ export interface FriendItem {
 export const friendsData: FriendItem[] = [
     {
         id: 1,
-        title: "暮雨の小站",
+        title: "muyufly",
         imgurl: "https://i.ibb.co/nvyJLq1/0ef09979-47b8-42f1-87ee-fc59df9e9262.jpg",
-        desc: "暮雨的个人博客",
+        desc: "暮雨的小站，分享各种有趣的研究和技术。",
         siteurl: "https://muyufly.github.io/",
         tags: ['Blog', 'Tech'],
     },
