@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.877648"
+    "scrapedAt": "2026-06-11T08:52:56.240341"
   },
   {
     "id": "bilibili_1002002",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.880363"
+    "scrapedAt": "2026-06-11T08:52:56.244286"
   },
   {
     "id": "bilibili_1002273",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.873996"
+    "scrapedAt": "2026-06-11T08:52:56.235154"
   },
   {
     "id": "bilibili_1002174",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.874309"
+    "scrapedAt": "2026-06-11T08:52:56.235584"
   },
   {
     "id": "bilibili_1002172",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.874635"
+    "scrapedAt": "2026-06-11T08:52:56.236025"
   },
   {
     "id": "bilibili_1001784",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.877943"
+    "scrapedAt": "2026-06-11T08:52:56.240785"
   },
   {
     "id": "bilibili_1001963",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.879469"
+    "scrapedAt": "2026-06-11T08:52:56.242983"
   },
   {
     "id": "bilibili_1001737",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.880664"
+    "scrapedAt": "2026-06-11T08:52:56.244728"
   },
   {
     "id": "bilibili_1002142",
@@ -159,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.878238"
+    "scrapedAt": "2026-06-11T08:52:56.241216"
   },
   {
     "id": "bilibili_1001869",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.879765"
+    "scrapedAt": "2026-06-11T08:52:56.243393"
   },
   {
     "id": "bilibili_1001820",
@@ -195,7 +195,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.881252"
+    "scrapedAt": "2026-06-11T08:52:56.245589"
+  },
+  {
+    "id": "bilibili_1002183",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "杭州·搞搭一夏！E.H.Evolution 高达ONLY同人Live 巡演Type1.0",
+    "category": "同人展",
+    "city": "杭州",
+    "venue": "",
+    "startDate": "2026-07-03",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002183",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202606/zEYrRyc31780996012_1780996012805.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-11T08:52:56.251404"
   },
   {
     "id": "bilibili_1002258",
@@ -213,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.881561"
+    "scrapedAt": "2026-06-11T08:52:56.246096"
   },
   {
     "id": "bilibili_1002202",
@@ -231,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.882490"
+    "scrapedAt": "2026-06-11T08:52:56.247446"
   },
   {
     "id": "bilibili_1002201",
@@ -249,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.883699"
+    "scrapedAt": "2026-06-11T08:52:56.249204"
   },
   {
     "id": "bilibili_1002168",
@@ -267,7 +285,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.882792"
+    "scrapedAt": "2026-06-11T08:52:56.247909"
+  },
+  {
+    "id": "bilibili_1002221",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "河池·漫舞华章假期动漫嘉年华",
+    "category": "漫展",
+    "city": "河池",
+    "venue": "",
+    "startDate": "2026-07-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002221",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202606/VFPoQ3vS1780654988_1780654988126.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-11T08:52:56.251835"
   },
   {
     "id": "bilibili_1002333",
@@ -285,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.880960"
+    "scrapedAt": "2026-06-11T08:52:56.245158"
   },
   {
     "id": "bilibili_1002177",
@@ -303,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.885560"
+    "scrapedAt": "2026-06-11T08:52:56.250973"
   },
   {
     "id": "bilibili_1002179",
@@ -321,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.883087"
+    "scrapedAt": "2026-06-11T08:52:56.248343"
   },
   {
     "id": "bilibili_1002224",
@@ -339,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.884605"
+    "scrapedAt": "2026-06-11T08:52:56.250525"
   },
   {
     "id": "bilibili_1002254",
@@ -357,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.883401"
+    "scrapedAt": "2026-06-11T08:52:56.248783"
   },
   {
     "id": "bilibili_1002209",
@@ -375,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.884294"
+    "scrapedAt": "2026-06-11T08:52:56.250091"
   },
   {
     "id": "bilibili_1002257",
@@ -393,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.883998"
+    "scrapedAt": "2026-06-11T08:52:56.249620"
   },
   {
     "id": "bilibili_1001909",
@@ -411,6 +447,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-11T03:59:45.882161"
+    "scrapedAt": "2026-06-11T08:52:56.246986"
   }
 ]
