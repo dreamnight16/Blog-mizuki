@@ -240,6 +240,16 @@ EWC [4] 用 Fisher 信息矩阵的对角线近似评估参数重要性，在微�
 
 ---
 
+## 链接与资源
+
+- **代码仓库**: [github.com/sixtdreanight/osft](https://github.com/sixtdreanight/osft)
+- **前文（理论框架与验证方案）**: [《正交子空间微调：面向物理约束的轻量化拓扑生成对抗网络》](https://dreamnight.net.cn/posts/GAN)
+- **预训练权重 & 数据集**: 待上传（将托管于 HuggingFace）
+- **完整实验记录**: 见 repo `docs/notes/`
+- **讨论**: [GitHub Issues](https://github.com/sixtdreanight/osft/issues)
+
+---
+
 ## 参考文献
 
 [1] Nie, Z., Lin, T., Jiang, H., & Kara, L. B. (2020). TopologyGAN: Topology Optimization Using Generative Adversarial Networks Based on Physical Fields Over the Initial Domain. *ASME Journal of Mechanical Design*, 143(3), 031715.
