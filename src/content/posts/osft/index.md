@@ -247,7 +247,7 @@ $\eta = 0.005$ 的 40 倍集中是本文最关键的定量发现，但其精确�
 
 - **代码仓库**: [github.com/sixtdreanight/osft](https://github.com/sixtdreanight/osft)
 - **前文（理论框架与验证方案）**: [《正交子空间微调：面向物理约束的轻量化拓扑生成对抗网络》](https://dreamnight.net.cn/posts/GAN)
-- **预训练权重 & 数据集**: 待上传（将托管于 HuggingFace）
+- **预训练权重 & 数据集**: [huggingface.co/DreamNight16/osft-weights](https://huggingface.co/DreamNight16/osft-weights)
 - **完整实验记录**: 见 repo `docs/notes/`
 - **讨论**: [GitHub Issues](https://github.com/sixtdreanight/osft/issues)
 
