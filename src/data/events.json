@@ -1,203 +1,5 @@
 [
   {
-    "id": "nyato_8263b0e3c111ce00",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "南京·泷次元综合同人博览会2.0：拼好展",
-    "category": "同人展",
-    "city": "南京",
-    "venue": "江苏省 南京市 江宁区南京空港会展中心越秀路",
-    "startDate": "2026-06-13",
-    "endDate": "2026-06-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.556650"
-  },
-  {
-    "id": "nyato_efeda1967d1291e6",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "郑州·布要命了·布袋戏同人only4.0",
-    "category": "同人展",
-    "city": "郑州",
-    "venue": "河南省 郑州市 金水区铂见酒店经三路北15号",
-    "startDate": "2026-06-13",
-    "endDate": "2026-06-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.557064"
-  },
-  {
-    "id": "nyato_70f9abda25256626",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "重庆·ComiTime24雾都同人展",
-    "category": "同人展",
-    "city": "重庆",
-    "venue": "重庆市 大渡口区顺祥·壹街区-B区春晖路街道文体路88号",
-    "startDate": "2026-06-13",
-    "endDate": "2026-06-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.557539"
-  },
-  {
-    "id": "nyato_a6474c2acd5b8c93",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "沈阳·原神X星穹铁道 同人only动漫展 （不限ip)",
-    "category": "同人展",
-    "city": "沈阳",
-    "venue": "辽宁省 沈阳市 大东区国瑞购物中心东北大马路392号",
-    "startDate": "2026-06-13",
-    "endDate": "2026-06-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.557968"
-  },
-  {
-    "id": "nyato_7c60aff602a0da63",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "贵阳·赴天涯燕云十六声同人ONLY",
-    "category": "同人展",
-    "city": "贵阳",
-    "venue": "贵州省 贵阳市 花溪区听溪庄园花溪平桥听溪庄园",
-    "startDate": "2026-06-13",
-    "endDate": "2026-06-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.558830"
-  },
-  {
-    "id": "nyato_33c6620abb8e14a6",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "苏州·巡游日记-明日方舟同人ONLY",
-    "category": "同人展",
-    "city": "苏州",
-    "venue": "江苏省 苏州市 吴中区苏州往事主题街区（苏州吴中区东太湖路）天鹅港大街1号地下负一层",
-    "startDate": "2026-06-14",
-    "endDate": "2026-06-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.555735"
-  },
-  {
-    "id": "nyato_c0648b4601df5897",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "呼和浩特·偶尔摸鱼第二届动漫集会",
-    "category": "漫展",
-    "city": "呼和浩特",
-    "venue": "内蒙古自治区 呼和浩特市 回民区其端咖啡新华西街医科大学附属医院幼儿园东侧50米路南",
-    "startDate": "2026-06-14",
-    "endDate": "2026-06-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.556205"
-  },
-  {
-    "id": "nyato_6442ca7bfc098185",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "深圳·第五人格同人only茶话会",
-    "category": "同人展",
-    "city": "深圳",
-    "venue": "广东省 深圳市 宝安区广福大厦渔业旧村一巷16号",
-    "startDate": "2026-06-14",
-    "endDate": "2026-06-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.558400"
-  },
-  {
-    "id": "nyato_1f6da83001d3f1e3",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "武汉·首届电锯人Only同人",
-    "category": "同人展",
-    "city": "武汉",
-    "venue": "湖北省 武汉市 江汉区轻语有品会员俱乐部中山大道888号HAPPY站台C馆F3",
-    "startDate": "2026-06-14",
-    "endDate": "2026-06-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.559245"
-  },
-  {
-    "id": "nyato_c4053ef3070e9890",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "北京·超时空辉夜姬同人ONLY",
-    "category": "同人展",
-    "city": "北京",
-    "venue": "北京市 丰台区北京大红门国际会展中心永外高庄138号",
-    "startDate": "2026-06-14",
-    "endDate": "2026-06-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.559627"
-  },
-  {
-    "id": "nyato_cfae0662963fa4f9",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "济南·第四届崩坏系列同人ONLY",
-    "category": "同人展",
-    "city": "济南",
-    "venue": "山东省 济南市 天桥区祥云酒店无影山北路88号",
-    "startDate": "2026-06-14",
-    "endDate": "2026-06-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.560004"
-  },
-  {
     "id": "bilibili_1002006",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
@@ -213,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.433788"
+    "scrapedAt": "2026-06-14T11:31:23.909427"
   },
   {
     "id": "bilibili_1002089",
@@ -231,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.435369"
+    "scrapedAt": "2026-06-14T11:31:23.911380"
   },
   {
     "id": "bilibili_1002002",
@@ -249,43 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.437318"
-  },
-  {
-    "id": "nyato_552c9c4d6361da6b",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "嫩江·第六届次元脉搏动漫展",
-    "category": "漫展",
-    "city": "黑河",
-    "venue": "黑龙江省 黑河市 嫩江市金尊盛宴礼仪酒店哈尔滨嫩江市曙光路与庆丰大街交口",
-    "startDate": "2026-06-19",
-    "endDate": "2026-06-19",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.560403"
-  },
-  {
-    "id": "nyato_454f685be0dfd0d3",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "单县·第二届奇遇动漫嘉年华",
-    "category": "漫展",
-    "city": "菏泽",
-    "venue": "山东省 菏泽市 单县单州大饭店舜师东路95号",
-    "startDate": "2026-06-19",
-    "endDate": "2026-06-19",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:41:09.560785"
+    "scrapedAt": "2026-06-14T11:31:23.913839"
   },
   {
     "id": "bilibili_1002273",
@@ -303,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.432602"
+    "scrapedAt": "2026-06-14T11:31:23.907968"
   },
   {
     "id": "bilibili_1002174",
@@ -321,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.434195"
+    "scrapedAt": "2026-06-14T11:31:23.909931"
   },
   {
     "id": "bilibili_1002172",
@@ -339,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.436160"
+    "scrapedAt": "2026-06-14T11:31:23.912357"
   },
   {
     "id": "bilibili_1001963",
@@ -357,7 +123,43 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.436918"
+    "scrapedAt": "2026-06-14T11:31:23.913337"
+  },
+  {
+    "id": "weibo_ai_d9ea07e76d73cd33",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "杭州冲击波同人展",
+    "category": "同人展",
+    "city": "杭州",
+    "venue": "",
+    "startDate": "2026-06-20",
+    "endDate": null,
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 0.8500000000000001,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-14T11:33:05.664168"
+  },
+  {
+    "id": "weibo_ai_824716b733a4ad71",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "长沙clcs同人展",
+    "category": "同人展",
+    "city": "长沙",
+    "venue": "",
+    "startDate": "2026-06-20",
+    "endDate": "2026-06-21",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 0.8500000000000001,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-14T11:33:05.664929"
   },
   {
     "id": "bilibili_1002399",
@@ -375,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.430966"
+    "scrapedAt": "2026-06-14T11:31:23.905970"
   },
   {
     "id": "bilibili_1002142",
@@ -393,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.434582"
+    "scrapedAt": "2026-06-14T11:31:23.910406"
   },
   {
     "id": "bilibili_1001869",
@@ -411,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.436544"
+    "scrapedAt": "2026-06-14T11:31:23.912859"
   },
   {
     "id": "bilibili_1001859",
@@ -429,53 +231,53 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.434965"
+    "scrapedAt": "2026-06-14T11:31:23.910907"
   },
   {
-    "id": "bilibili_1002364",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "成都·【幻梦圣宴】·诡秘之主同人only",
-    "category": "同人展",
-    "city": "成都",
-    "venue": "",
-    "startDate": "2026-07-04",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002364",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202606/3HnxyLVK1780999195_1780999195424.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.440400"
-  },
-  {
-    "id": "bilibili_1002402",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "南昌·东方Only同人展-江西THO-梦违赣鄱荟萃·伍",
-    "category": "同人展",
-    "city": "南昌",
-    "venue": "",
-    "startDate": "2026-07-11",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002402",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202606/V1o5Mkd91780826895_1780826895251.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.438090"
-  },
-  {
-    "id": "weibo_ai_4e30b404b6d6b785",
+    "id": "weibo_ai_4d5b3e2624dd11b5",
     "sourceType": "social",
     "sourceName": "weibo",
-    "title": "广播剧《一颗苹果》声优见面会&签名会",
+    "title": "2026 BilibiliWorld",
     "category": "漫展",
     "city": "上海",
-    "venue": "上海国家会展中心",
+    "venue": "国家会展中心",
+    "startDate": "2026-07-10",
+    "endDate": "2026-07-12",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-14T11:33:05.665430"
+  },
+  {
+    "id": "bilibili_1002140",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·“绘++”Akie秋绘十周年纪念live",
+    "category": "演唱会",
+    "city": "上海",
+    "venue": "",
     "startDate": "2026-07-11",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002140",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202606/hl938BWU1780629234_1780629234521.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-14T11:31:23.924917"
+  },
+  {
+    "id": "weibo_ai_b437c3929eb326c1",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "打破次元壁的动漫音乐会",
+    "category": "音乐会",
+    "city": "青岛",
+    "venue": "青岛大剧院·音乐厅",
+    "startDate": "2026-07-17",
     "endDate": null,
     "priceRange": null,
     "ticketUrl": null,
@@ -483,43 +285,7 @@
     "status": "预告",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:42:47.745114"
-  },
-  {
-    "id": "weibo_ai_834e00d8aed35e1e",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "世界线动漫展",
-    "category": "漫展",
-    "city": "成都",
-    "venue": "",
-    "startDate": "2026-07-16",
-    "endDate": "2026-07-17",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 0.8500000000000001,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:42:47.745536"
-  },
-  {
-    "id": "bilibili_1002394",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·鸣潮only同人展",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-07-18",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002394",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202606/LmWmqkXu1780637116_1780637116759.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.439631"
+    "scrapedAt": "2026-06-14T11:33:05.665939"
   },
   {
     "id": "bilibili_1002427",
@@ -537,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.445471"
+    "scrapedAt": "2026-06-14T11:31:23.921059"
   },
   {
     "id": "bilibili_1002434",
@@ -555,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.443506"
+    "scrapedAt": "2026-06-14T11:31:23.919133"
   },
   {
     "id": "bilibili_1002451",
@@ -573,7 +339,43 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.444287"
+    "scrapedAt": "2026-06-14T11:31:23.919633"
+  },
+  {
+    "id": "bilibili_1002453",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "郑州·蔚蓝档案同人only04",
+    "category": "同人展",
+    "city": "郑州",
+    "venue": "",
+    "startDate": "2026-07-19",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002453",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202606/xiC7XHci1781240375_1781240375703.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-14T11:31:23.922968"
+  },
+  {
+    "id": "bilibili_1002446",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "万载·第十二届馨缘动漫文化展",
+    "category": "漫展",
+    "city": "宜春",
+    "venue": "",
+    "startDate": "2026-07-19",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002446",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202606/wgcDuXgm1781168233_1781168233965.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-14T11:31:23.923430"
   },
   {
     "id": "bilibili_1002467",
@@ -591,7 +393,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.443121"
+    "scrapedAt": "2026-06-14T11:31:23.918667"
+  },
+  {
+    "id": "weibo_ai_abf023f8c781d962",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "重庆第二十届梦乡动漫展",
+    "category": "漫展",
+    "city": "重庆",
+    "venue": "",
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-27",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 0.8500000000000001,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-14T11:33:05.666414"
   },
   {
     "id": "bilibili_1002432",
@@ -609,43 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.439256"
-  },
-  {
-    "id": "weibo_ai_2edf7b82b14c917e",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "杭州第七届梦乡动漫展",
-    "category": "漫展",
-    "city": "杭州",
-    "venue": "杭州国际博览中心",
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-27",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:42:47.745924"
-  },
-  {
-    "id": "weibo_ai_b05080009b6a9673",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "第二十一届良牙动漫夏季盛典",
-    "category": "漫展",
-    "city": "南宁",
-    "venue": "",
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 0.8500000000000001,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:42:47.746349"
+    "scrapedAt": "2026-06-14T11:31:23.914315"
   },
   {
     "id": "bilibili_1002447",
@@ -663,7 +447,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.441188"
+    "scrapedAt": "2026-06-14T11:31:23.915284"
   },
   {
     "id": "bilibili_1002461",
@@ -681,7 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.442729"
+    "scrapedAt": "2026-06-14T11:31:23.918175"
   },
   {
     "id": "bilibili_1002418",
@@ -699,43 +483,43 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.446259"
+    "scrapedAt": "2026-06-14T11:31:23.922014"
   },
   {
-    "id": "bilibili_1002393",
+    "id": "bilibili_1002334",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "济宁·第三届 二次元吃席大联欢 夏日烧烤版",
+    "title": "宿州·THO01——绯想汴苑·东方同人only",
+    "category": "同人展",
+    "city": "宿州",
+    "venue": "",
+    "startDate": "2026-08-01",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002334",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202605/ZmAhqCYJ1779806233_1779806233231.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-06-14T11:31:23.922473"
+  },
+  {
+    "id": "bilibili_1002426",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "本溪·小市第四届GO漫动漫展",
     "category": "漫展",
-    "city": "济宁",
+    "city": "本溪",
     "venue": "",
-    "startDate": "2026-08-02",
+    "startDate": "2026-08-01",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002393",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202606/07ERExBf1781018912_1781018912071.png",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002426",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202606/c6ooYOJZ1781230862_1781230862731.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.438482"
-  },
-  {
-    "id": "bilibili_1002400",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "三门峡·第二十一届独角兽国漫文化节",
-    "category": "其他",
-    "city": "三门峡",
-    "venue": "",
-    "startDate": "2026-08-08",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002400",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202606/ncZxnZWU1781168903_1781168903103.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.443884"
+    "scrapedAt": "2026-06-14T11:31:23.923935"
   },
   {
     "id": "bilibili_1002410",
@@ -753,25 +537,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.445853"
+    "scrapedAt": "2026-06-14T11:31:23.921517"
   },
   {
-    "id": "bilibili_1002390",
+    "id": "bilibili_1002422",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "温州·第二届：明日方舟同人ONLY",
-    "category": "同人展",
-    "city": "温州",
+    "title": "沧州·次元之域",
+    "category": "其他",
+    "city": "沧州",
     "venue": "",
-    "startDate": "2026-08-09",
+    "startDate": "2026-08-08",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002390",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202606/6Ekyrgij1781145915_1781145915901.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1002422",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202606/7VNE5ls71781067933_1781067933242.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.440790"
+    "scrapedAt": "2026-06-14T11:31:23.924428"
   },
   {
     "id": "bilibili_1002449",
@@ -789,6 +573,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-06-14T08:40:55.441569"
+    "scrapedAt": "2026-06-14T11:31:23.916743"
   }
 ]
