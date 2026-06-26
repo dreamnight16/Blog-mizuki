@@ -6,7 +6,7 @@ import events from "../data/events.json";
 interface EventItem {
   title: string;
   startDate: string;
-  endDate: string;
+  endDate: string | null;
   city: string;
   venue: string;
   category: string;
@@ -17,7 +17,7 @@ interface EventItem {
   sourceName: string;
 }
 
-const eventList = events as EventItem[];
+const eventList = events as unknown as EventItem[];
 const now = new Date();
 now.setHours(0, 0, 0, 0);
 const upcoming = eventList

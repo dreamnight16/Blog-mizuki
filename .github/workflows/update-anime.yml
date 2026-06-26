@@ -28,14 +28,10 @@ jobs:
       - name: Update anime data
         run: node scripts/update-anime.mjs
 
-      - name: Force-add generated data files
-        run: |
-          git add -f src/data/bangumi-data.json src/data/bilibili-data.json || true
-
       - name: Commit updated anime data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: update anime data'
+          file_pattern: 'src/data/bangumi-data.json src/data/bilibili-data.json'
           commit_user_name: 'github-actions[bot]'
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'
-          skip_dirty_check: true
