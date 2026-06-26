@@ -21,7 +21,7 @@ jobs:
 
       - name: Run sync
         env:
-          GITHUB_TOKEN: ${{ secrets.PINNED_SYNC_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/sync-pinned.mjs
 
       - name: Commit changes
