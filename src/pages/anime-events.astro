@@ -10,9 +10,9 @@ interface EventItem {
   city: string;
   venue: string;
   category: string;
-  ticketUrl: string;
-  imageUrl: string;
-  priceRange: string;
+  ticketUrl: string | null;
+  imageUrl: string | null;
+  priceRange: string | null;
   status: string;
   sourceName: string;
 }
