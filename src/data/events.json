@@ -1,12 +1,12 @@
 [
   {
-    "id": "weibo_ai_9d66a0bf0176cd8a",
+    "id": "weibo_ai_cfcae1d461051399",
     "sourceType": "social",
     "sourceName": "weibo",
-    "title": "哔哩哔哩世界2026 恋恋心声声优见面会&签名会",
+    "title": "恋恋心声·广播剧《一颗苹果》声优见面会&签名会",
     "category": "漫展",
     "city": "上海",
-    "venue": "国家会展中心",
+    "venue": "上海国家会展中心",
     "startDate": "2026-07-11",
     "endDate": null,
     "priceRange": null,
@@ -15,7 +15,7 @@
     "status": "预告",
     "confidence": 0.7000000000000001,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:52:25.340517"
+    "scrapedAt": "2026-07-15T16:24:27.308870"
   },
   {
     "id": "nyato_0f153fdf840d3fa7",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.974175"
+    "scrapedAt": "2026-07-15T16:22:19.631228"
   },
   {
     "id": "nyato_c00858cc8b5a515b",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.974529"
+    "scrapedAt": "2026-07-15T16:22:19.631704"
   },
   {
     "id": "nyato_ec958347ee969e9c",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.974862"
+    "scrapedAt": "2026-07-15T16:22:19.632177"
   },
   {
     "id": "nyato_b0d6ec8d957f476e",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.975198"
+    "scrapedAt": "2026-07-15T16:22:19.632607"
   },
   {
     "id": "nyato_abb95f8ddf7e793c",
@@ -105,25 +105,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.975836"
-  },
-  {
-    "id": "weibo_ai_15efe769822318bd",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "成都世界线动漫展",
-    "category": "漫展",
-    "city": "成都",
-    "venue": "",
-    "startDate": "2026-07-16",
-    "endDate": "2026-07-20",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 0.8500000000000001,
-    "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:52:25.341188"
+    "scrapedAt": "2026-07-15T16:22:19.633470"
   },
   {
     "id": "nyato_5bf2979d288a60cf",
@@ -141,7 +123,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.975524"
+    "scrapedAt": "2026-07-15T16:22:19.633042"
   },
   {
     "id": "weibo_ai_e95f73cc44b4d1a0",
@@ -159,7 +141,7 @@
     "status": "预告",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:52:25.341583"
+    "scrapedAt": "2026-07-15T16:24:27.309295"
   },
   {
     "id": "nyato_1232a5c9ed45cc13",
@@ -177,7 +159,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.976163"
+    "scrapedAt": "2026-07-15T16:22:19.633876"
   },
   {
     "id": "nyato_241f631494112635",
@@ -195,7 +177,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.976525"
+    "scrapedAt": "2026-07-15T16:22:19.634351"
   },
   {
     "id": "nyato_aceb8b27bdbab0cd",
@@ -213,7 +195,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.976834"
+    "scrapedAt": "2026-07-15T16:22:19.634758"
   },
   {
     "id": "nyato_0ba86c33a10f4ac3",
@@ -231,7 +213,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.977170"
+    "scrapedAt": "2026-07-15T16:22:19.635212"
   },
   {
     "id": "nyato_959a08e61648c9c3",
@@ -249,7 +231,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.977479"
+    "scrapedAt": "2026-07-15T16:22:19.635632"
   },
   {
     "id": "nyato_dc7a4a2126583c04",
@@ -267,7 +249,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.977783"
+    "scrapedAt": "2026-07-15T16:22:19.636059"
   },
   {
     "id": "nyato_2c929fb6eaf4d214",
@@ -285,7 +267,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:51:07.978085"
+    "scrapedAt": "2026-07-15T16:22:19.636463"
   },
   {
     "id": "weibo_ai_eca4e3b3cc6574d7",
@@ -294,7 +276,7 @@
     "title": "初识屿·旧故新长第三期·广州线下快闪",
     "category": "展览",
     "city": "广州",
-    "venue": "时尚天河商业广场东三街LS初识屿",
+    "venue": "广州时尚天河商业广场东三街LS初识屿",
     "startDate": "2026-07-18",
     "endDate": "2026-08-31",
     "priceRange": null,
@@ -303,7 +285,7 @@
     "status": "预告",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:52:25.341956"
+    "scrapedAt": "2026-07-15T16:24:27.309698"
   },
   {
     "id": "weibo_ai_659e990bab664be5",
@@ -321,7 +303,7 @@
     "status": "预告",
     "confidence": 0.8500000000000001,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:52:25.342330"
+    "scrapedAt": "2026-07-15T16:24:27.310111"
   },
   {
     "id": "bilibili_1003435",
@@ -339,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.431495"
+    "scrapedAt": "2026-07-15T16:22:05.264375"
   },
   {
     "id": "bilibili_1003502",
@@ -357,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.432769"
+    "scrapedAt": "2026-07-15T16:22:05.266031"
   },
   {
     "id": "bilibili_1003440",
@@ -375,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.433428"
+    "scrapedAt": "2026-07-15T16:22:05.266840"
   },
   {
     "id": "bilibili_1003400",
@@ -393,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.434356"
+    "scrapedAt": "2026-07-15T16:22:05.268070"
   },
   {
     "id": "bilibili_1003643",
@@ -411,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.433080"
+    "scrapedAt": "2026-07-15T16:22:05.266448"
   },
   {
     "id": "bilibili_1003785",
@@ -429,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.437972"
+    "scrapedAt": "2026-07-15T16:22:05.272970"
   },
   {
     "id": "bilibili_1003421",
@@ -447,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.434649"
+    "scrapedAt": "2026-07-15T16:22:05.268464"
   },
   {
     "id": "bilibili_1003483",
@@ -465,7 +447,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.436168"
+    "scrapedAt": "2026-07-15T16:22:05.270478"
   },
   {
     "id": "bilibili_1003519",
@@ -483,7 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.437374"
+    "scrapedAt": "2026-07-15T16:22:05.272096"
   },
   {
     "id": "bilibili_1003443",
@@ -501,7 +483,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.437674"
+    "scrapedAt": "2026-07-15T16:22:05.272566"
   },
   {
     "id": "bilibili_1003586",
@@ -519,7 +501,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.438877"
+    "scrapedAt": "2026-07-15T16:22:05.274207"
   },
   {
     "id": "bilibili_1003801",
@@ -537,7 +519,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.439770"
+    "scrapedAt": "2026-07-15T16:22:05.275450"
   },
   {
     "id": "bilibili_1003438",
@@ -555,7 +537,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.440670"
+    "scrapedAt": "2026-07-15T16:22:05.276669"
   },
   {
     "id": "weibo_ai_352fefa25ac0b346",
@@ -573,7 +555,7 @@
     "status": "预告",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:52:25.342671"
+    "scrapedAt": "2026-07-15T16:24:27.310507"
   },
   {
     "id": "bilibili_1003891",
@@ -591,7 +573,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.430529"
+    "scrapedAt": "2026-07-15T16:22:05.263123"
   },
   {
     "id": "bilibili_1003559",
@@ -609,7 +591,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.431163"
+    "scrapedAt": "2026-07-15T16:22:05.263940"
   },
   {
     "id": "bilibili_1003444",
@@ -627,7 +609,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.431806"
+    "scrapedAt": "2026-07-15T16:22:05.264780"
   },
   {
     "id": "bilibili_1003804",
@@ -645,7 +627,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.434951"
+    "scrapedAt": "2026-07-15T16:22:05.268858"
   },
   {
     "id": "bilibili_1003475",
@@ -663,7 +645,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.435861"
+    "scrapedAt": "2026-07-15T16:22:05.270087"
   },
   {
     "id": "bilibili_1003338",
@@ -681,7 +663,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.436763"
+    "scrapedAt": "2026-07-15T16:22:05.271279"
   },
   {
     "id": "bilibili_1003769",
@@ -699,7 +681,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.437061"
+    "scrapedAt": "2026-07-15T16:22:05.271665"
   },
   {
     "id": "bilibili_1003356",
@@ -717,7 +699,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.438285"
+    "scrapedAt": "2026-07-15T16:22:05.273391"
   },
   {
     "id": "bilibili_1003758",
@@ -735,7 +717,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.438583"
+    "scrapedAt": "2026-07-15T16:22:05.273786"
   },
   {
     "id": "bilibili_1003370",
@@ -753,7 +735,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.439183"
+    "scrapedAt": "2026-07-15T16:22:05.274609"
   },
   {
     "id": "bilibili_1003431",
@@ -771,7 +753,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.439480"
+    "scrapedAt": "2026-07-15T16:22:05.275035"
   },
   {
     "id": "bilibili_1003434",
@@ -789,7 +771,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.440057"
+    "scrapedAt": "2026-07-15T16:22:05.275853"
   },
   {
     "id": "bilibili_1003621",
@@ -807,7 +789,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.440372"
+    "scrapedAt": "2026-07-15T16:22:05.276269"
   },
   {
     "id": "bilibili_1003579",
@@ -825,7 +807,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.440982"
+    "scrapedAt": "2026-07-15T16:22:05.277085"
   },
   {
     "id": "bilibili_1003506",
@@ -843,7 +825,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.435568"
+    "scrapedAt": "2026-07-15T16:22:05.269669"
   },
   {
     "id": "bilibili_1003824",
@@ -861,43 +843,43 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.442217"
+    "scrapedAt": "2026-07-15T16:22:05.278725"
   },
   {
-    "id": "weibo_ai_3ae23429e0e44c80",
+    "id": "weibo_ai_81e4d63aed5793a9",
     "sourceType": "social",
     "sourceName": "weibo",
-    "title": "景德镇次元文化漫展",
+    "title": "麟潜《ERROR：微不足道》主题漫展签售（景德镇）",
     "category": "漫展",
     "city": "景德镇",
-    "venue": "",
+    "venue": "景德镇次元文化",
     "startDate": "2026-08-01",
     "endDate": null,
     "priceRange": null,
     "ticketUrl": null,
     "imageUrl": null,
     "status": "预告",
-    "confidence": 0.6,
+    "confidence": 0.75,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:52:25.342993"
+    "scrapedAt": "2026-07-15T16:24:27.310901"
   },
   {
-    "id": "weibo_ai_5ffa062922e1ddd2",
+    "id": "weibo_ai_2448cf707e9fe113",
     "sourceType": "social",
     "sourceName": "weibo",
-    "title": "昆明天幕YCG漫展",
+    "title": "麟潜《ERROR：微不足道》主题漫展签售（昆明）",
     "category": "漫展",
     "city": "昆明",
-    "venue": "",
+    "venue": "天幕YCG漫展",
     "startDate": "2026-08-08",
     "endDate": null,
     "priceRange": null,
     "ticketUrl": null,
     "imageUrl": null,
     "status": "预告",
-    "confidence": 0.8500000000000001,
+    "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:52:25.343339"
+    "scrapedAt": "2026-07-15T16:24:27.311317"
   },
   {
     "id": "bilibili_1003855",
@@ -915,24 +897,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:50:55.441900"
-  },
-  {
-    "id": "weibo_ai_c488e9e4ed240f31",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "CPG08 凪玲街道",
-    "category": "同人展",
-    "city": "佛山",
-    "venue": "潭州国际会展中心",
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-23",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-07-15T14:52:25.343661"
+    "scrapedAt": "2026-07-15T16:22:05.278327"
   }
 ]
