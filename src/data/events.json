@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.710889"
+    "scrapedAt": "2026-07-25T05:43:50.724462"
   },
   {
     "id": "nyato_2efb0272ba285f28",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.711293"
+    "scrapedAt": "2026-07-25T05:43:50.724997"
   },
   {
     "id": "nyato_a502c47f9f9e02a4",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.711708"
+    "scrapedAt": "2026-07-25T05:43:50.725532"
   },
   {
     "id": "nyato_d1ef12cbb4c4c9b8",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.712083"
+    "scrapedAt": "2026-07-25T05:43:50.726050"
   },
   {
     "id": "nyato_8de1f66972b910dc",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.712458"
+    "scrapedAt": "2026-07-25T05:43:50.726571"
   },
   {
     "id": "nyato_7cf1398d2832cae7",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.712832"
+    "scrapedAt": "2026-07-25T05:43:50.727064"
   },
   {
     "id": "nyato_55531988752070ae",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.713225"
+    "scrapedAt": "2026-07-25T05:43:50.727595"
   },
   {
     "id": "nyato_e045c8198169757f",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.713658"
+    "scrapedAt": "2026-07-25T05:43:50.728123"
   },
   {
     "id": "nyato_9585aaa1e06149e1",
@@ -159,7 +159,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.714030"
+    "scrapedAt": "2026-07-25T05:43:50.728631"
   },
   {
     "id": "nyato_d0b6070093c4d203",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.714412"
+    "scrapedAt": "2026-07-25T05:43:50.729110"
   },
   {
     "id": "nyato_b9a7574776226b4d",
@@ -195,7 +195,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.714814"
+    "scrapedAt": "2026-07-25T05:43:50.729634"
   },
   {
     "id": "nyato_4b0fe8889da645a2",
@@ -213,7 +213,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.715206"
+    "scrapedAt": "2026-07-25T05:43:50.730122"
   },
   {
     "id": "nyato_68e928a02101f307",
@@ -231,7 +231,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:51.715603"
+    "scrapedAt": "2026-07-25T05:43:50.730632"
   },
   {
     "id": "bilibili_1003838",
@@ -249,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.914619"
+    "scrapedAt": "2026-07-25T05:43:36.490561"
   },
   {
     "id": "bilibili_1003824",
@@ -267,25 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.915742"
-  },
-  {
-    "id": "bilibili_1004044",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "武汉·二次元水上乐园派对",
-    "category": "漫展",
-    "city": "武汉",
-    "venue": "",
-    "startDate": "2026-08-01",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004044",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/5FAygwWZ1784264955_1784264955831.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.924302"
+    "scrapedAt": "2026-07-25T05:43:36.492114"
   },
   {
     "id": "bilibili_1004231",
@@ -303,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.912000"
+    "scrapedAt": "2026-07-25T05:43:36.486973"
   },
   {
     "id": "bilibili_1003841",
@@ -321,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.915333"
+    "scrapedAt": "2026-07-25T05:43:36.491598"
   },
   {
     "id": "bilibili_1003802",
@@ -339,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.916887"
+    "scrapedAt": "2026-07-25T05:43:36.493663"
   },
   {
     "id": "bilibili_1004103",
@@ -357,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.919859"
+    "scrapedAt": "2026-07-25T05:43:36.497731"
   },
   {
     "id": "bilibili_1004017",
@@ -375,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.922105"
+    "scrapedAt": "2026-07-25T05:43:36.500799"
   },
   {
     "id": "bilibili_1004216",
@@ -393,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.911650"
+    "scrapedAt": "2026-07-25T05:43:36.486445"
   },
   {
     "id": "bilibili_1003714",
@@ -411,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.917623"
+    "scrapedAt": "2026-07-25T05:43:36.494684"
   },
   {
     "id": "bilibili_1003996",
@@ -429,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.919498"
+    "scrapedAt": "2026-07-25T05:43:36.497205"
   },
   {
     "id": "bilibili_1004157",
@@ -447,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.921353"
+    "scrapedAt": "2026-07-25T05:43:36.499766"
   },
   {
     "id": "bilibili_1003904",
@@ -465,6 +447,78 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-25T02:37:37.922852"
+    "scrapedAt": "2026-07-25T05:43:36.501823"
+  },
+  {
+    "id": "bilibili_1004052",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "合肥·第二十届环形宇宙国漫嘉年华嘉宾签售票",
+    "category": "漫展",
+    "city": "合肥",
+    "venue": "",
+    "startDate": "2026-08-08",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004052",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/6JjkH5Ay1784262425_1784262425989.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-07-25T05:43:36.503354"
+  },
+  {
+    "id": "weibo_ai_b08d53b760fc8732",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "2026 异人节·炁浪LIVE音乐会",
+    "category": "音乐会",
+    "city": "上海",
+    "venue": "上海LIVERSE音宇宙艺术中心",
+    "startDate": "2026-08-08",
+    "endDate": null,
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-07-25T05:45:21.599499"
+  },
+  {
+    "id": "weibo_ai_2c48406bf1f9c357",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "星星火火音乐节",
+    "category": "演唱会",
+    "city": "青岛",
+    "venue": "",
+    "startDate": "2026-08-08",
+    "endDate": "2026-08-09",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 0.8500000000000001,
+    "canonicalId": null,
+    "scrapedAt": "2026-07-25T05:45:21.599979"
+  },
+  {
+    "id": "weibo_ai_66c5ccfd2627ef73",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "西安第二十七届梦乡动漫展",
+    "category": "漫展",
+    "city": "西安",
+    "venue": "西安临空会展中心",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-04",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-07-25T05:45:21.600448"
   }
 ]
