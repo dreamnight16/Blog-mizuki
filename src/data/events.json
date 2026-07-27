@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.660260"
+    "scrapedAt": "2026-07-27T02:54:58.141825"
   },
   {
     "id": "nyato_3518f60f58eb6ff6",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.660777"
+    "scrapedAt": "2026-07-27T02:54:58.142302"
   },
   {
     "id": "nyato_e8d351491d130823",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.661314"
+    "scrapedAt": "2026-07-27T02:54:58.142749"
   },
   {
     "id": "nyato_3663a4b07d39c33b",
@@ -69,25 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.661815"
-  },
-  {
-    "id": "weibo_ai_b05080009b6a9673",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "第二十一届良牙动漫夏季盛典",
-    "category": "漫展",
-    "city": "南宁",
-    "venue": "南宁国际会展中心B区B1展厅、B2展厅、金桂花厅",
-    "startDate": "2026-07-25",
-    "endDate": "2026-07-26",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 0.7000000000000001,
-    "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:07:27.483019"
+    "scrapedAt": "2026-07-27T02:54:58.143196"
   },
   {
     "id": "nyato_4acb4e4938c0522e",
@@ -105,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.662345"
+    "scrapedAt": "2026-07-27T02:54:58.143633"
   },
   {
     "id": "nyato_c0efddb9c7bed97c",
@@ -123,7 +105,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.662838"
+    "scrapedAt": "2026-07-27T02:54:58.144056"
   },
   {
     "id": "nyato_473ab144ab120344",
@@ -141,7 +123,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.663360"
+    "scrapedAt": "2026-07-27T02:54:58.144523"
   },
   {
     "id": "nyato_809c283a1d185c5c",
@@ -159,7 +141,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.663898"
+    "scrapedAt": "2026-07-27T02:54:58.145015"
   },
   {
     "id": "nyato_c0457f668e5d078d",
@@ -177,7 +159,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.664425"
+    "scrapedAt": "2026-07-27T02:54:58.145495"
   },
   {
     "id": "nyato_a335f268ca73c2b2",
@@ -195,7 +177,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.664920"
+    "scrapedAt": "2026-07-27T02:54:58.145937"
   },
   {
     "id": "nyato_39a99e0dadb4c811",
@@ -213,7 +195,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.665453"
+    "scrapedAt": "2026-07-27T02:54:58.146386"
   },
   {
     "id": "nyato_68c858010bf5f471",
@@ -231,7 +213,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.665941"
+    "scrapedAt": "2026-07-27T02:54:58.146808"
   },
   {
     "id": "nyato_892bb3c4526b3088",
@@ -249,7 +231,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:58.666469"
+    "scrapedAt": "2026-07-27T02:54:58.147241"
   },
   {
     "id": "bilibili_1003838",
@@ -267,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.871538"
+    "scrapedAt": "2026-07-27T02:54:46.282225"
   },
   {
     "id": "bilibili_1003824",
@@ -285,25 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.874006"
-  },
-  {
-    "id": "bilibili_1004044",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "武汉·二次元水上乐园派对",
-    "category": "漫展",
-    "city": "武汉",
-    "venue": "",
-    "startDate": "2026-08-01",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004044",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/5FAygwWZ1784264955_1784264955831.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.884839"
+    "scrapedAt": "2026-07-27T02:54:46.284517"
   },
   {
     "id": "bilibili_1003914",
@@ -321,43 +285,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.885361"
+    "scrapedAt": "2026-07-27T02:54:46.295003"
   },
   {
-    "id": "bilibili_1003889",
+    "id": "bilibili_1004044",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "绥滨·第四届·晓蠱动漫庆典",
+    "title": "武汉·二次元水上乐园派对",
     "category": "漫展",
-    "city": "鹤岗",
+    "city": "武汉",
     "venue": "",
     "startDate": "2026-08-01",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1003889",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202607/x9tveaGg1783669333_1783669333342.png",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004044",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/5FAygwWZ1784264955_1784264955831.png",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.885838"
-  },
-  {
-    "id": "weibo_ai_1656212ada1f65c5",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "ZCZ郑州动漫游戏嘉年华",
-    "category": "漫展",
-    "city": "郑州",
-    "venue": "郑州国际会展中心",
-    "startDate": "2026-08-01",
-    "endDate": "2026-08-03",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:07:27.483518"
+    "scrapedAt": "2026-07-27T02:54:46.295483"
   },
   {
     "id": "bilibili_1003841",
@@ -375,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.873013"
+    "scrapedAt": "2026-07-27T02:54:46.283576"
   },
   {
     "id": "bilibili_1003802",
@@ -393,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.874515"
+    "scrapedAt": "2026-07-27T02:54:46.284961"
   },
   {
     "id": "bilibili_1004103",
@@ -411,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.877943"
+    "scrapedAt": "2026-07-27T02:54:46.288141"
   },
   {
     "id": "bilibili_1004017",
@@ -429,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.880874"
+    "scrapedAt": "2026-07-27T02:54:46.290913"
   },
   {
     "id": "bilibili_1004052",
@@ -447,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.871021"
+    "scrapedAt": "2026-07-27T02:54:46.281748"
   },
   {
     "id": "bilibili_1003714",
@@ -465,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.872535"
+    "scrapedAt": "2026-07-27T02:54:46.283136"
   },
   {
     "id": "bilibili_1003996",
@@ -483,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.877464"
+    "scrapedAt": "2026-07-27T02:54:46.287698"
   },
   {
     "id": "bilibili_1004157",
@@ -501,7 +447,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.879898"
+    "scrapedAt": "2026-07-27T02:54:46.289959"
   },
   {
     "id": "bilibili_1003904",
@@ -519,7 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.881850"
+    "scrapedAt": "2026-07-27T02:54:46.291821"
   },
   {
     "id": "bilibili_1003902",
@@ -537,7 +483,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.882354"
+    "scrapedAt": "2026-07-27T02:54:46.292744"
+  },
+  {
+    "id": "bilibili_1004051",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "通辽·第五届启梦嘉年华",
+    "category": "漫展",
+    "city": "通辽",
+    "venue": "",
+    "startDate": "2026-08-08",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004051",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202607/ZXNbu9wC1784267688_1784267688316.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-07-27T02:54:46.294097"
   },
   {
     "id": "bilibili_1004287",
@@ -555,7 +519,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.867588"
+    "scrapedAt": "2026-07-27T02:54:46.278895"
   },
   {
     "id": "bilibili_1004286",
@@ -573,7 +537,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.868065"
+    "scrapedAt": "2026-07-27T02:54:46.279395"
   },
   {
     "id": "bilibili_1004305",
@@ -591,7 +555,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.868592"
+    "scrapedAt": "2026-07-27T02:54:46.279918"
   },
   {
     "id": "bilibili_1003839",
@@ -609,7 +573,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.873528"
+    "scrapedAt": "2026-07-27T02:54:46.284035"
   },
   {
     "id": "bilibili_1003855",
@@ -627,7 +591,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.875501"
+    "scrapedAt": "2026-07-27T02:54:46.285845"
   },
   {
     "id": "bilibili_1003746",
@@ -645,7 +609,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.878446"
+    "scrapedAt": "2026-07-27T02:54:46.288604"
   },
   {
     "id": "bilibili_1003877",
@@ -663,7 +627,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.880400"
+    "scrapedAt": "2026-07-27T02:54:46.290454"
   },
   {
     "id": "bilibili_1003712",
@@ -681,24 +645,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.883829"
-  },
-  {
-    "id": "bilibili_1003910",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "沈阳·愿我如星君如月-第三届桃夭次元文化节",
-    "category": "其他",
-    "city": "沈阳",
-    "venue": "",
-    "startDate": "2026-08-09",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1003910",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/bhV87GrU1784014892_1784014892984.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-07-26T15:05:45.884348"
+    "scrapedAt": "2026-07-27T02:54:46.294552"
   }
 ]
