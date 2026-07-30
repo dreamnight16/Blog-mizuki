@@ -15,25 +15,25 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.938237"
+    "scrapedAt": "2026-07-30T16:26:40.669891"
   },
   {
-    "id": "bilibili_1003838",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "武汉·时光代理人「Dream Out！」LIVE丨2026音乐巡演",
+    "id": "weibo_ai_5d2f2747da762979",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "Ocha Norma Mini Live in ACGHK 2026",
     "category": "演唱会",
-    "city": "武汉",
-    "venue": "",
-    "startDate": "2026-07-31",
+    "city": "香港",
+    "venue": "Hall 1大会舞台",
+    "startDate": "2026-07-26",
     "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1003838",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202606/UcPk87ZA1781245957_1781245957531.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 0.44999999999999996,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.753323"
+    "scrapedAt": "2026-07-30T16:28:33.762222"
   },
   {
     "id": "nyato_0dae0fbbedfc931d",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.937512"
+    "scrapedAt": "2026-07-30T16:26:40.668828"
   },
   {
     "id": "nyato_4a4eb4dadff7728f",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.937865"
+    "scrapedAt": "2026-07-30T16:26:40.669345"
   },
   {
     "id": "nyato_33c1696c281b9c25",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.938571"
+    "scrapedAt": "2026-07-30T16:26:40.670394"
   },
   {
     "id": "nyato_65c73a63558d55bf",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.938893"
+    "scrapedAt": "2026-07-30T16:26:40.670932"
   },
   {
     "id": "nyato_203176e06b8e349a",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.939233"
+    "scrapedAt": "2026-07-30T16:26:40.671425"
   },
   {
     "id": "nyato_36007bede5739813",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.939546"
+    "scrapedAt": "2026-07-30T16:26:40.671946"
   },
   {
     "id": "nyato_083f56f05dee2fc1",
@@ -159,7 +159,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.939865"
+    "scrapedAt": "2026-07-30T16:26:40.672473"
   },
   {
     "id": "nyato_b9e65e07d26c5349",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.940222"
+    "scrapedAt": "2026-07-30T16:26:40.673000"
   },
   {
     "id": "nyato_93198620d209461c",
@@ -195,7 +195,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.940581"
+    "scrapedAt": "2026-07-30T16:26:40.673486"
   },
   {
     "id": "nyato_7262efd9931fc79b",
@@ -213,7 +213,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.940904"
+    "scrapedAt": "2026-07-30T16:26:40.674019"
   },
   {
     "id": "nyato_c3d7a58a9a1888b2",
@@ -231,7 +231,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.941246"
+    "scrapedAt": "2026-07-30T16:26:40.674501"
   },
   {
     "id": "nyato_87b4f40010962cc3",
@@ -249,7 +249,25 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:19.941559"
+    "scrapedAt": "2026-07-30T16:26:40.675021"
+  },
+  {
+    "id": "weibo_ai_099b1f50f72b2bf8",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "沈阳FanzineGurls同人展02",
+    "category": "同人展",
+    "city": "沈阳",
+    "venue": "沈阳香格里拉今旅酒店·大宴会厅",
+    "startDate": "2026-08-02",
+    "endDate": null,
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-07-30T16:28:33.762674"
   },
   {
     "id": "bilibili_1004383",
@@ -267,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.747611"
+    "scrapedAt": "2026-07-30T16:26:22.888840"
   },
   {
     "id": "bilibili_1004419",
@@ -285,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.747921"
+    "scrapedAt": "2026-07-30T16:26:22.889575"
   },
   {
     "id": "bilibili_1004457",
@@ -303,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.748257"
+    "scrapedAt": "2026-07-30T16:26:22.890188"
   },
   {
     "id": "bilibili_1004052",
@@ -321,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.750755"
+    "scrapedAt": "2026-07-30T16:26:22.896341"
   },
   {
     "id": "bilibili_1003996",
@@ -339,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.753942"
+    "scrapedAt": "2026-07-30T16:26:22.902640"
   },
   {
     "id": "bilibili_1004157",
@@ -357,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.754883"
+    "scrapedAt": "2026-07-30T16:26:22.904422"
   },
   {
     "id": "bilibili_1003904",
@@ -375,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.756201"
+    "scrapedAt": "2026-07-30T16:26:22.906778"
   },
   {
     "id": "bilibili_1003902",
@@ -393,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.757434"
+    "scrapedAt": "2026-07-30T16:26:22.909114"
   },
   {
     "id": "bilibili_1004051",
@@ -411,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.757731"
+    "scrapedAt": "2026-07-30T16:26:22.909584"
   },
   {
     "id": "bilibili_1004141",
@@ -429,7 +447,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.758647"
+    "scrapedAt": "2026-07-30T16:26:22.911063"
   },
   {
     "id": "weibo_ai_2c48406bf1f9c357",
@@ -447,7 +465,7 @@
     "status": "预告",
     "confidence": 0.8500000000000001,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:02:54.402061"
+    "scrapedAt": "2026-07-30T16:28:33.763151"
   },
   {
     "id": "bilibili_1004371",
@@ -465,7 +483,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.746948"
+    "scrapedAt": "2026-07-30T16:26:22.886999"
   },
   {
     "id": "bilibili_1003855",
@@ -483,7 +501,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.751718"
+    "scrapedAt": "2026-07-30T16:26:22.898068"
+  },
+  {
+    "id": "bilibili_1003839",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "郑州·时光代理人「Dream Out！」LIVE丨2026音乐巡演",
+    "category": "演唱会",
+    "city": "郑州",
+    "venue": "",
+    "startDate": "2026-08-09",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1003839",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202606/yKAqpDBq1781249965_1781249965414.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-07-30T16:26:22.900933"
   },
   {
     "id": "bilibili_1003877",
@@ -501,7 +537,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.755547"
+    "scrapedAt": "2026-07-30T16:26:22.905593"
   },
   {
     "id": "bilibili_1004287",
@@ -519,25 +555,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.756810"
-  },
-  {
-    "id": "bilibili_1004286",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·JPOP日音派对·夏日回响",
-    "category": "其他",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-08-09",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004286",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/5OWaawqZ1784840076_1784840076569.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.758949"
+    "scrapedAt": "2026-07-30T16:26:22.907944"
   },
   {
     "id": "weibo_ai_686d9a0fda54bd80",
@@ -555,7 +573,7 @@
     "status": "预告",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:02:54.402435"
+    "scrapedAt": "2026-07-30T16:28:33.763613"
   },
   {
     "id": "bilibili_1004381",
@@ -573,6 +591,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-07-30T14:01:07.747293"
+    "scrapedAt": "2026-07-30T16:26:22.887840"
   }
 ]
