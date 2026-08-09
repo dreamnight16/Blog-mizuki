@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.309582"
+    "scrapedAt": "2026-08-09T01:43:35.518476"
   },
   {
     "id": "nyato_2f0818bd91bbe39b",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.310606"
+    "scrapedAt": "2026-08-09T01:43:35.519511"
   },
   {
     "id": "nyato_199617611c4168ff",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.311101"
+    "scrapedAt": "2026-08-09T01:43:35.519989"
   },
   {
     "id": "nyato_13f6fad6f8644dd6",
@@ -69,79 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.311634"
-  },
-  {
-    "id": "weibo_ai_635fd5937c7913c1",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "2026异人节·炁浪LIVE音乐会",
-    "category": "音乐会",
-    "city": "上海",
-    "venue": "LIVERSE音宇宙艺术中心",
-    "startDate": "2026-08-08",
-    "endDate": null,
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:31:21.340833"
-  },
-  {
-    "id": "weibo_ai_2c48406bf1f9c357",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "星星火火音乐节",
-    "category": "音乐会",
-    "city": "青岛",
-    "venue": "青岛高新区火炬路31",
-    "startDate": "2026-08-08",
-    "endDate": "2026-08-09",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:31:21.341365"
-  },
-  {
-    "id": "bilibili_1004453",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "丰县·第一届幻璃国潮动漫展-盛夏聚会",
-    "category": "漫展",
-    "city": "徐州",
-    "venue": "",
-    "startDate": "2026-08-09",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004453",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/Pgwwj0Su1785286095_1785286095958.png",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.868839"
-  },
-  {
-    "id": "bilibili_1004068",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "天津·VW漫展",
-    "category": "漫展",
-    "city": "天津",
-    "venue": "",
-    "startDate": "2026-08-09",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004068",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/OK3Ia3cq1784205888_1784205888430.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.872841"
+    "scrapedAt": "2026-08-09T01:43:35.520458"
   },
   {
     "id": "nyato_c338973ccbf44c2e",
@@ -159,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.305304"
+    "scrapedAt": "2026-08-09T01:43:35.514229"
   },
   {
     "id": "nyato_fdd1f813b8b87bf6",
@@ -177,7 +105,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.305889"
+    "scrapedAt": "2026-08-09T01:43:35.514757"
   },
   {
     "id": "nyato_db48a29f138ba9b4",
@@ -195,7 +123,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.306442"
+    "scrapedAt": "2026-08-09T01:43:35.515258"
   },
   {
     "id": "nyato_61b18c6b066bae3a",
@@ -213,7 +141,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.306951"
+    "scrapedAt": "2026-08-09T01:43:35.515764"
   },
   {
     "id": "nyato_df3a7ecf83beab3c",
@@ -231,7 +159,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.307488"
+    "scrapedAt": "2026-08-09T01:43:35.516249"
   },
   {
     "id": "nyato_e37a6906ce290742",
@@ -249,7 +177,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.307989"
+    "scrapedAt": "2026-08-09T01:43:35.516754"
   },
   {
     "id": "nyato_5608f125167e037b",
@@ -267,7 +195,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.308528"
+    "scrapedAt": "2026-08-09T01:43:35.517229"
   },
   {
     "id": "nyato_05b9d4b6679935d7",
@@ -285,7 +213,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.309017"
+    "scrapedAt": "2026-08-09T01:43:35.517839"
   },
   {
     "id": "nyato_34dfef1b02842962",
@@ -303,7 +231,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:55.310069"
+    "scrapedAt": "2026-08-09T01:43:35.518993"
   },
   {
     "id": "bilibili_1004381",
@@ -321,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.875265"
+    "scrapedAt": "2026-08-09T01:43:21.735593"
   },
   {
     "id": "bilibili_1004053",
@@ -339,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.861107"
+    "scrapedAt": "2026-08-09T01:43:21.723507"
   },
   {
     "id": "bilibili_1003998",
@@ -357,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.862110"
+    "scrapedAt": "2026-08-09T01:43:21.724463"
   },
   {
     "id": "bilibili_1004009",
@@ -375,25 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.870343"
-  },
-  {
-    "id": "bilibili_1004061",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "广州·少女前线同人Only交流会 余烬营火",
-    "category": "同人展",
-    "city": "广州",
-    "venue": "",
-    "startDate": "2026-08-15",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004061",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/WQtINJml1784275720_1784275720843.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.874291"
+    "scrapedAt": "2026-08-09T01:43:21.732239"
   },
   {
     "id": "bilibili_1004112",
@@ -411,7 +321,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.874794"
+    "scrapedAt": "2026-08-09T01:43:21.736545"
+  },
+  {
+    "id": "bilibili_1004061",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "广州·少女前线同人Only交流会 余烬营火",
+    "category": "同人展",
+    "city": "广州",
+    "venue": "",
+    "startDate": "2026-08-15",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004061",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/WQtINJml1784275720_1784275720843.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-09T01:43:21.737018"
   },
   {
     "id": "bilibili_1003990",
@@ -429,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.876740"
+    "scrapedAt": "2026-08-09T01:43:21.737981"
   },
   {
     "id": "bilibili_1004643",
@@ -447,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.857642"
+    "scrapedAt": "2026-08-09T01:43:21.719624"
   },
   {
     "id": "bilibili_1004168",
@@ -465,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.871365"
+    "scrapedAt": "2026-08-09T01:43:21.734155"
   },
   {
     "id": "bilibili_1004224",
@@ -483,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.872362"
+    "scrapedAt": "2026-08-09T01:43:21.734645"
   },
   {
     "id": "bilibili_1004000",
@@ -501,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.875765"
+    "scrapedAt": "2026-08-09T01:43:21.737506"
   },
   {
     "id": "bilibili_1004603",
@@ -519,7 +447,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.859109"
+    "scrapedAt": "2026-08-09T01:43:21.721080"
   },
   {
     "id": "bilibili_1004615",
@@ -537,7 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.858122"
+    "scrapedAt": "2026-08-09T01:43:21.720104"
   },
   {
     "id": "bilibili_1004227",
@@ -555,7 +483,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.862645"
+    "scrapedAt": "2026-08-09T01:43:21.724983"
   },
   {
     "id": "bilibili_1004279",
@@ -573,7 +501,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.863707"
+    "scrapedAt": "2026-08-09T01:43:21.725966"
   },
   {
     "id": "bilibili_1004322",
@@ -591,7 +519,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.866291"
+    "scrapedAt": "2026-08-09T01:43:21.727908"
   },
   {
     "id": "bilibili_1003944",
@@ -609,24 +537,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:29:40.873343"
-  },
-  {
-    "id": "weibo_ai_cabef0e70ed99397",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "IDO动漫游戏嘉年华55th",
-    "category": "漫展",
-    "city": "北京",
-    "venue": "北京展览馆",
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-02",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-08T15:31:21.341865"
+    "scrapedAt": "2026-08-09T01:43:21.736059"
   }
 ]
