@@ -1,5 +1,23 @@
 [
   {
+    "id": "weibo_ai_635fd5937c7913c1",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "2026异人节·炁浪LIVE音乐会",
+    "category": "音乐会",
+    "city": "上海",
+    "venue": "LIVERSE音宇宙艺术中心",
+    "startDate": "2026-08-08",
+    "endDate": null,
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 0.7000000000000001,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-10T11:10:22.636082"
+  },
+  {
     "id": "nyato_16656a74c7be8625",
     "sourceType": "ticketing",
     "sourceName": "nyato",
@@ -15,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.148796"
+    "scrapedAt": "2026-08-10T11:08:39.493025"
   },
   {
     "id": "nyato_3b927275cdd14587",
@@ -33,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.147447"
+    "scrapedAt": "2026-08-10T11:08:39.491711"
   },
   {
     "id": "nyato_ebe9c61ff073b824",
@@ -51,7 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.147920"
+    "scrapedAt": "2026-08-10T11:08:39.492171"
   },
   {
     "id": "nyato_ab91898893322d17",
@@ -69,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.148370"
+    "scrapedAt": "2026-08-10T11:08:39.492609"
   },
   {
     "id": "nyato_01468711c178b3d8",
@@ -87,7 +105,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.149250"
+    "scrapedAt": "2026-08-10T11:08:39.493476"
   },
   {
     "id": "nyato_9fd7661a3731e02f",
@@ -105,7 +123,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.151770"
+    "scrapedAt": "2026-08-10T11:08:39.495635"
   },
   {
     "id": "nyato_e47698fde12dbad0",
@@ -123,7 +141,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.149797"
+    "scrapedAt": "2026-08-10T11:08:39.493891"
   },
   {
     "id": "nyato_203163ca418442f3",
@@ -141,7 +159,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.150398"
+    "scrapedAt": "2026-08-10T11:08:39.494383"
   },
   {
     "id": "nyato_16f8dc58721cb428",
@@ -159,7 +177,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.150903"
+    "scrapedAt": "2026-08-10T11:08:39.494801"
   },
   {
     "id": "nyato_c559f1bd327f4c90",
@@ -177,7 +195,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.151348"
+    "scrapedAt": "2026-08-10T11:08:39.495231"
   },
   {
     "id": "nyato_6486cca4de8992df",
@@ -195,7 +213,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.152239"
+    "scrapedAt": "2026-08-10T11:08:39.496035"
   },
   {
     "id": "nyato_17aba97ea347ca53",
@@ -213,7 +231,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.152683"
+    "scrapedAt": "2026-08-10T11:08:39.496454"
   },
   {
     "id": "nyato_9f527243c48f6a41",
@@ -231,7 +249,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:59.153147"
+    "scrapedAt": "2026-08-10T11:08:39.496844"
   },
   {
     "id": "bilibili_1004700",
@@ -249,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.306998"
+    "scrapedAt": "2026-08-10T11:08:26.894232"
   },
   {
     "id": "bilibili_1004053",
@@ -267,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.309574"
+    "scrapedAt": "2026-08-10T11:08:26.896645"
   },
   {
     "id": "bilibili_1003998",
@@ -285,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.310462"
+    "scrapedAt": "2026-08-10T11:08:26.897453"
   },
   {
     "id": "bilibili_1004009",
@@ -303,49 +321,13 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.318355"
+    "scrapedAt": "2026-08-10T11:08:26.904647"
   },
   {
-    "id": "bilibili_1004061",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "广州·少女前线同人Only交流会 余烬营火",
-    "category": "同人展",
-    "city": "广州",
-    "venue": "",
-    "startDate": "2026-08-15",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004061",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/WQtINJml1784275720_1784275720843.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.321462"
-  },
-  {
-    "id": "bilibili_1004112",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "新疆·NO7.初稚动漫游戏展",
-    "category": "漫展",
-    "city": "阿克苏地区",
-    "venue": "",
-    "startDate": "2026-08-15",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004112",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/YCY95VTC1784534657_1784534657215.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.321912"
-  },
-  {
-    "id": "weibo_ai_b2f350c91782489a",
+    "id": "weibo_ai_921de7a96e361001",
     "sourceType": "social",
     "sourceName": "weibo",
-    "title": "GA本子O x 北京二次元故事创作者大会",
+    "title": "北京GA本子only",
     "category": "同人展",
     "city": "北京",
     "venue": "BOM嘻番里",
@@ -357,7 +339,43 @@
     "status": "预告",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:22:21.858179"
+    "scrapedAt": "2026-08-10T11:10:22.637514"
+  },
+  {
+    "id": "weibo_ai_4cb9a20c6f13e70b",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "南宁第三届Comic Expo国风动漫展",
+    "category": "漫展",
+    "city": "南宁",
+    "venue": "五象汽车生活广场B座",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-16",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-10T11:10:22.637992"
+  },
+  {
+    "id": "bilibili_1004705",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "保山·8.16青春漫想（吃席狂欢）only同人展",
+    "category": "同人展",
+    "city": "保山",
+    "venue": "",
+    "startDate": "2026-08-16",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004705",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/kfpALsRK1786085728_1786085728660.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-10T11:08:26.893417"
   },
   {
     "id": "bilibili_1004168",
@@ -375,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.319244"
+    "scrapedAt": "2026-08-10T11:08:26.905456"
   },
   {
     "id": "bilibili_1004224",
@@ -393,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.320564"
+    "scrapedAt": "2026-08-10T11:08:26.906632"
   },
   {
     "id": "bilibili_1004677",
@@ -411,7 +429,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.307836"
+    "scrapedAt": "2026-08-10T11:08:26.895019"
+  },
+  {
+    "id": "bilibili_1004712",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "天津·萌次元游戏动漫嘉年华3.0",
+    "category": "漫展",
+    "city": "天津",
+    "venue": "",
+    "startDate": "2026-08-22",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004712",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/W7Wgkoqg1786350147_1786350147079.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-10T11:08:26.892997"
   },
   {
     "id": "bilibili_1004682",
@@ -429,7 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.307422"
+    "scrapedAt": "2026-08-10T11:08:26.894628"
   },
   {
     "id": "bilibili_1004227",
@@ -447,7 +483,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.310897"
+    "scrapedAt": "2026-08-10T11:08:26.897851"
   },
   {
     "id": "bilibili_1004279",
@@ -465,7 +501,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.314385"
+    "scrapedAt": "2026-08-10T11:08:26.901100"
   },
   {
     "id": "bilibili_1004322",
@@ -483,7 +519,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.315692"
+    "scrapedAt": "2026-08-10T11:08:26.902277"
   },
   {
     "id": "bilibili_1004701",
@@ -501,7 +537,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.306555"
+    "scrapedAt": "2026-08-10T11:08:26.893810"
   },
   {
     "id": "bilibili_1004345",
@@ -519,7 +555,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.311770"
+    "scrapedAt": "2026-08-10T11:08:26.898678"
   },
   {
     "id": "bilibili_1004463",
@@ -537,7 +573,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.312235"
+    "scrapedAt": "2026-08-10T11:08:26.899095"
   },
   {
     "id": "bilibili_1004073",
@@ -555,7 +591,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.313949"
+    "scrapedAt": "2026-08-10T11:08:26.900690"
   },
   {
     "id": "bilibili_1004179",
@@ -573,25 +609,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:20:47.317053"
+    "scrapedAt": "2026-08-10T11:08:26.903462"
   },
   {
-    "id": "weibo_ai_1b9bfa34c90d7b40",
+    "id": "weibo_ai_33bb18ee43c1335c",
     "sourceType": "social",
     "sourceName": "weibo",
-    "title": "合肥VH动漫展",
-    "category": "漫展",
-    "city": "合肥",
-    "venue": "祥源花世界花卉馆",
-    "startDate": "2026-09-25",
+    "title": "羽剑hatoken ONEMAN LIVE",
+    "category": "演唱会",
+    "city": "北京",
+    "venue": "",
+    "startDate": "2026-08-23",
     "endDate": null,
     "priceRange": null,
     "ticketUrl": null,
     "imageUrl": null,
     "status": "预告",
-    "confidence": 1.0,
+    "confidence": 0.8500000000000001,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:22:21.859020"
+    "scrapedAt": "2026-08-10T11:10:22.638483"
   },
   {
     "id": "weibo_ai_cabef0e70ed99397",
@@ -609,7 +645,7 @@
     "status": "预告",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:22:21.859549"
+    "scrapedAt": "2026-08-10T11:10:22.638904"
   },
   {
     "id": "weibo_ai_66c5ccfd2627ef73",
@@ -627,25 +663,7 @@
     "status": "预告",
     "confidence": 0.8500000000000001,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:22:21.860047"
-  },
-  {
-    "id": "weibo_ai_c146aec29325ac82",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "重庆第二十一届梦乡动漫展",
-    "category": "漫展",
-    "city": "重庆",
-    "venue": "",
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-04",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 0.8500000000000001,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:22:21.860502"
+    "scrapedAt": "2026-08-10T11:10:22.639363"
   },
   {
     "id": "weibo_ai_6ab44504ab7ca6b0",
@@ -654,7 +672,7 @@
     "title": "杭州第八届梦乡动漫展",
     "category": "漫展",
     "city": "杭州",
-    "venue": "杭州国际博览中心",
+    "venue": "杭州国际博览中心一期",
     "startDate": "2026-10-02",
     "endDate": "2026-10-04",
     "priceRange": null,
@@ -663,17 +681,17 @@
     "status": "预告",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:22:21.860958"
+    "scrapedAt": "2026-08-10T11:10:22.639772"
   },
   {
-    "id": "weibo_ai_52e68b32daee717d",
+    "id": "weibo_ai_33ab970f8ff4aa06",
     "sourceType": "social",
     "sourceName": "weibo",
     "title": "成都世界线动漫展",
     "category": "漫展",
     "city": "成都",
     "venue": "中国西部国际博览城",
-    "startDate": "2026-10-04",
+    "startDate": "2026-10-03",
     "endDate": null,
     "priceRange": null,
     "ticketUrl": null,
@@ -681,6 +699,6 @@
     "status": "预告",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-10T09:22:21.861404"
+    "scrapedAt": "2026-08-10T11:10:22.640234"
   }
 ]
