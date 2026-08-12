@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.760925"
+    "scrapedAt": "2026-08-12T13:08:26.872622"
   },
   {
     "id": "bilibili_1004381",
@@ -33,7 +33,7 @@
     "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.103971"
+    "scrapedAt": "2026-08-12T13:08:14.472223"
   },
   {
     "id": "nyato_16f8dc58721cb428",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.759866"
+    "scrapedAt": "2026-08-12T13:08:26.871571"
   },
   {
     "id": "nyato_c559f1bd327f4c90",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.760420"
+    "scrapedAt": "2026-08-12T13:08:26.872081"
   },
   {
     "id": "nyato_6486cca4de8992df",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.761466"
+    "scrapedAt": "2026-08-12T13:08:26.873124"
   },
   {
     "id": "nyato_17aba97ea347ca53",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.761955"
+    "scrapedAt": "2026-08-12T13:08:26.873672"
   },
   {
     "id": "nyato_9f527243c48f6a41",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.762497"
+    "scrapedAt": "2026-08-12T13:08:26.874154"
   },
   {
     "id": "nyato_f91ec31c566d3ffd",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.762976"
+    "scrapedAt": "2026-08-12T13:08:26.874676"
   },
   {
     "id": "nyato_ec14a4b5515f10ad",
@@ -159,25 +159,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.763560"
-  },
-  {
-    "id": "bilibili_1004053",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "沈阳·时光代理人「Dream Out！」LIVE丨2026音乐巡演",
-    "category": "演唱会",
-    "city": "沈阳",
-    "venue": "",
-    "startDate": "2026-08-15",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004053",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202606/3VL1l4YD1781250517_1781250517181.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.097628"
+    "scrapedAt": "2026-08-12T13:08:26.875195"
   },
   {
     "id": "nyato_324c4bab08927fd3",
@@ -195,7 +177,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.764085"
+    "scrapedAt": "2026-08-12T13:08:26.875703"
   },
   {
     "id": "nyato_6c45fc1428f31b08",
@@ -213,7 +195,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.764574"
+    "scrapedAt": "2026-08-12T13:08:26.876176"
   },
   {
     "id": "nyato_b87f5172048e495c",
@@ -231,7 +213,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.765089"
+    "scrapedAt": "2026-08-12T13:08:26.876712"
   },
   {
     "id": "nyato_d4cd510823b14f8f",
@@ -249,7 +231,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.765584"
+    "scrapedAt": "2026-08-12T13:08:26.877183"
   },
   {
     "id": "nyato_beb8130fc6c65db6",
@@ -267,7 +249,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:25.766094"
+    "scrapedAt": "2026-08-12T13:08:26.877681"
   },
   {
     "id": "bilibili_1004791",
@@ -285,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.090986"
+    "scrapedAt": "2026-08-12T13:08:14.458990"
   },
   {
     "id": "bilibili_1004705",
@@ -303,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.091488"
+    "scrapedAt": "2026-08-12T13:08:14.459557"
   },
   {
     "id": "bilibili_1004168",
@@ -321,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.103015"
+    "scrapedAt": "2026-08-12T13:08:14.471290"
   },
   {
     "id": "bilibili_1004224",
@@ -339,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.104473"
+    "scrapedAt": "2026-08-12T13:08:14.472718"
   },
   {
     "id": "bilibili_1004365",
@@ -357,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.105447"
+    "scrapedAt": "2026-08-12T13:08:14.473677"
   },
   {
     "id": "bilibili_1004677",
@@ -375,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.088593"
+    "scrapedAt": "2026-08-12T13:08:14.456552"
   },
   {
     "id": "bilibili_1004682",
@@ -393,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.087606"
+    "scrapedAt": "2026-08-12T13:08:14.455551"
   },
   {
     "id": "bilibili_1004712",
@@ -411,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.089557"
+    "scrapedAt": "2026-08-12T13:08:14.457539"
   },
   {
     "id": "bilibili_1004793",
@@ -429,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.090524"
+    "scrapedAt": "2026-08-12T13:08:14.458516"
   },
   {
     "id": "bilibili_1004227",
@@ -447,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.095679"
+    "scrapedAt": "2026-08-12T13:08:14.463991"
   },
   {
     "id": "bilibili_1004279",
@@ -465,7 +447,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.100084"
+    "scrapedAt": "2026-08-12T13:08:14.468384"
   },
   {
     "id": "bilibili_1004322",
@@ -483,7 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.100562"
+    "scrapedAt": "2026-08-12T13:08:14.468855"
   },
   {
     "id": "bilibili_1004333",
@@ -501,7 +483,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.106420"
+    "scrapedAt": "2026-08-12T13:08:14.474636"
   },
   {
     "id": "bilibili_1004701",
@@ -519,7 +501,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.089088"
+    "scrapedAt": "2026-08-12T13:08:14.457035"
   },
   {
     "id": "bilibili_1004463",
@@ -537,7 +519,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.096646"
+    "scrapedAt": "2026-08-12T13:08:14.464970"
   },
   {
     "id": "bilibili_1004345",
@@ -555,7 +537,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.098134"
+    "scrapedAt": "2026-08-12T13:08:14.466434"
   },
   {
     "id": "bilibili_1004073",
@@ -573,7 +555,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.098614"
+    "scrapedAt": "2026-08-12T13:08:14.466907"
   },
   {
     "id": "bilibili_1004179",
@@ -591,6 +573,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-12T11:46:13.101056"
+    "scrapedAt": "2026-08-12T13:08:14.469347"
   }
 ]
