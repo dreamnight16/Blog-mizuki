@@ -6,11 +6,11 @@ export const projectsSynced: Project[] = [
     id: 'blog-mizuki',
     title: 'Blog-mizuki',
     description: 'Personal blog — tech, essays, ACG events & weekly hotspot analysis. Built with Mizuki + Astro.',
-    image: 'https://opengraph.githubassets.com/1/sixtdreanight/Blog-mizuki',
+    image: 'https://opengraph.githubassets.com/1/dreamnight16/Blog-mizuki',
     category: 'web',
     techStack: [],
     status: 'in-progress',
-    sourceCode: 'https://github.com/sixtdreanight/Blog-mizuki',
+    sourceCode: 'https://github.com/dreamnight16/Blog-mizuki',
     startDate: '',
     tags: [],
   }
