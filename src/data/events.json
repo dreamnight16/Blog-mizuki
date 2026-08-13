@@ -1,57 +1,21 @@
 [
   {
-    "id": "nyato_9fd7661a3731e02f",
+    "id": "bilibili_1004371",
     "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "上海·2026 MankaLive漫卡音游展",
-    "category": "演唱会",
-    "city": "上海",
-    "venue": "上海市 闵行区虹桥品汇申昆路1988号A栋",
-    "startDate": "2026-08-11",
-    "endDate": "2026-08-13",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
+    "sourceName": "bilibili",
+    "title": "成都·BanGDream！Only同人展 4.0",
+    "category": "同人展",
+    "city": "成都",
+    "venue": "",
+    "startDate": "2026-08-14",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004371",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/Sn72tt8W1785211227_1785211227249.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.360758"
-  },
-  {
-    "id": "nyato_16f8dc58721cb428",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "襄阳·CU·国风动漫游戏嘉年华",
-    "category": "漫展",
-    "city": "襄阳",
-    "venue": "湖北省 襄阳市 襄城区襄阳市六〇三文创园盛丰路6号603号",
-    "startDate": "2026-08-13",
-    "endDate": "2026-08-13",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.359710"
-  },
-  {
-    "id": "nyato_c559f1bd327f4c90",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "舒兰·莓氨好锌第二届动漫嘉年华",
-    "category": "漫展",
-    "city": "吉林",
-    "venue": "吉林省 吉林市 舒兰市喜临门喜宴中心喜临门喜宴中心",
-    "startDate": "2026-08-13",
-    "endDate": "2026-08-13",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.360231"
+    "scrapedAt": "2026-08-13T10:06:01.265925"
   },
   {
     "id": "nyato_6486cca4de8992df",
@@ -69,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.361253"
+    "scrapedAt": "2026-08-13T10:06:13.389120"
   },
   {
     "id": "nyato_17aba97ea347ca53",
@@ -87,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.361766"
+    "scrapedAt": "2026-08-13T10:06:13.389697"
   },
   {
     "id": "nyato_9f527243c48f6a41",
@@ -105,7 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.362255"
+    "scrapedAt": "2026-08-13T10:06:13.390265"
   },
   {
     "id": "nyato_f91ec31c566d3ffd",
@@ -123,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.362763"
+    "scrapedAt": "2026-08-13T10:06:13.390787"
   },
   {
     "id": "nyato_ec14a4b5515f10ad",
@@ -141,7 +105,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.363291"
+    "scrapedAt": "2026-08-13T10:06:13.391338"
   },
   {
     "id": "nyato_324c4bab08927fd3",
@@ -159,7 +123,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.363802"
+    "scrapedAt": "2026-08-13T10:06:13.391847"
   },
   {
     "id": "nyato_6c45fc1428f31b08",
@@ -177,7 +141,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.364285"
+    "scrapedAt": "2026-08-13T10:06:13.392416"
   },
   {
     "id": "nyato_b87f5172048e495c",
@@ -195,7 +159,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.364799"
+    "scrapedAt": "2026-08-13T10:06:13.392914"
   },
   {
     "id": "nyato_d4cd510823b14f8f",
@@ -213,7 +177,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.365277"
+    "scrapedAt": "2026-08-13T10:06:13.393425"
   },
   {
     "id": "nyato_beb8130fc6c65db6",
@@ -231,7 +195,61 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:17.365787"
+    "scrapedAt": "2026-08-13T10:06:13.393907"
+  },
+  {
+    "id": "nyato_f1b7136418d5f0bf",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "兰州·2026稻米节暨子夜秘境盗笔同人only",
+    "category": "同人展",
+    "city": "兰州",
+    "venue": "甘肃省 兰州市 七里河区兰州葵艺术空间南滨河中路405号，岚沐文化产业园内，原兰州木器厂",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-15",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-13T10:06:13.394450"
+  },
+  {
+    "id": "nyato_524f46d2603b249d",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "郑州·原神×崩铁×绝区零郑州only同人展",
+    "category": "同人展",
+    "city": "郑州",
+    "venue": "河南省 郑州市 金水区曼玉·复合空间农业路豫博大厦东侧约140米",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-15",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-13T10:06:13.394940"
+  },
+  {
+    "id": "nyato_3f51156111e80ed7",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "沈阳·NH动漫展第八届重生之我在沈阳卖苞米",
+    "category": "漫展",
+    "city": "沈阳",
+    "venue": "辽宁省 沈阳市 沈河区中街·盛京龙城北中街路116号",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-15",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-13T10:06:13.395475"
   },
   {
     "id": "bilibili_1004791",
@@ -249,25 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.563482"
-  },
-  {
-    "id": "bilibili_1004705",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "保山·8.16青春漫想（吃席狂欢）only同人展",
-    "category": "同人展",
-    "city": "保山",
-    "venue": "",
-    "startDate": "2026-08-16",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004705",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/kfpALsRK1786085728_1786085728660.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.564468"
+    "scrapedAt": "2026-08-13T10:06:01.258695"
   },
   {
     "id": "bilibili_1004224",
@@ -285,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.574105"
+    "scrapedAt": "2026-08-13T10:06:01.268801"
   },
   {
     "id": "bilibili_1004820",
@@ -303,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.563986"
+    "scrapedAt": "2026-08-13T10:06:01.259183"
   },
   {
     "id": "bilibili_1004712",
@@ -321,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.561560"
+    "scrapedAt": "2026-08-13T10:06:01.257719"
   },
   {
     "id": "bilibili_1004793",
@@ -339,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.563020"
+    "scrapedAt": "2026-08-13T10:06:01.258213"
   },
   {
     "id": "bilibili_1004227",
@@ -357,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.568288"
+    "scrapedAt": "2026-08-13T10:06:01.263026"
   },
   {
     "id": "bilibili_1004322",
@@ -375,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.571643"
+    "scrapedAt": "2026-08-13T10:06:01.266416"
   },
   {
     "id": "bilibili_1004279",
@@ -393,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.572143"
+    "scrapedAt": "2026-08-13T10:06:01.266878"
   },
   {
     "id": "bilibili_1004333",
@@ -411,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.576993"
+    "scrapedAt": "2026-08-13T10:06:01.271645"
   },
   {
     "id": "bilibili_1004682",
@@ -429,25 +429,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.577946"
+    "scrapedAt": "2026-08-13T10:06:01.272590"
   },
   {
-    "id": "bilibili_1004701",
+    "id": "bilibili_1004290",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "沧州·次元之域",
-    "category": "其他",
-    "city": "沧州",
+    "title": "佛山·拾空暑期动漫展",
+    "category": "漫展",
+    "city": "佛山",
     "venue": "",
-    "startDate": "2026-08-23",
+    "startDate": "2026-08-22",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004701",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/CQSHApbw1786347800_1786347800814.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004290",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/Xc2Cl9QS1784710730_1784710730559.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.562522"
+    "scrapedAt": "2026-08-13T10:06:01.275424"
   },
   {
     "id": "bilibili_1004463",
@@ -465,7 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.568778"
+    "scrapedAt": "2026-08-13T10:06:01.263524"
   },
   {
     "id": "bilibili_1004345",
@@ -483,25 +483,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.569749"
-  },
-  {
-    "id": "bilibili_1004073",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·沪上香橙 BanG Dream 同人Only live",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-08-23",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004073",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/beegjP7K1784256698_1784256698407.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.570221"
+    "scrapedAt": "2026-08-13T10:06:01.264494"
   },
   {
     "id": "bilibili_1004179",
@@ -519,7 +501,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.572627"
+    "scrapedAt": "2026-08-13T10:06:01.267369"
   },
   {
     "id": "bilibili_1004263",
@@ -537,6 +519,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-13T08:21:03.579394"
+    "scrapedAt": "2026-08-13T10:06:01.273995"
   }
 ]
