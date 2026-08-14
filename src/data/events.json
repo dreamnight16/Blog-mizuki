@@ -1,23 +1,5 @@
 [
   {
-    "id": "nyato_6486cca4de8992df",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "调兵山·第二届哇酷哇酷动漫展",
-    "category": "漫展",
-    "city": "铁岭",
-    "venue": "辽宁省 铁岭市 调兵山市调兵山泓缘酒店中央大街与站前路交叉口西北方向42米左右",
-    "startDate": "2026-08-14",
-    "endDate": "2026-08-14",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.930663"
-  },
-  {
     "id": "nyato_17aba97ea347ca53",
     "sourceType": "ticketing",
     "sourceName": "nyato",
@@ -33,7 +15,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.931171"
+    "scrapedAt": "2026-08-14T08:16:15.500700"
   },
   {
     "id": "nyato_9f527243c48f6a41",
@@ -51,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.931625"
+    "scrapedAt": "2026-08-14T08:16:15.501188"
   },
   {
     "id": "nyato_f91ec31c566d3ffd",
@@ -69,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.932072"
+    "scrapedAt": "2026-08-14T08:16:15.501633"
   },
   {
     "id": "nyato_ec14a4b5515f10ad",
@@ -87,7 +69,25 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.932496"
+    "scrapedAt": "2026-08-14T08:16:15.502053"
+  },
+  {
+    "id": "bilibili_1004145",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "山西·明日方舟同人only03『晋波澜』",
+    "category": "同人展",
+    "city": "太原",
+    "venue": "",
+    "startDate": "2026-08-15",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004145",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/0sREyNQC1784520806_1784520806227.png",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-14T08:16:02.396204"
   },
   {
     "id": "nyato_324c4bab08927fd3",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.932911"
+    "scrapedAt": "2026-08-14T08:16:15.502523"
   },
   {
     "id": "nyato_6c45fc1428f31b08",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.933380"
+    "scrapedAt": "2026-08-14T08:16:15.502941"
   },
   {
     "id": "nyato_b87f5172048e495c",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.933836"
+    "scrapedAt": "2026-08-14T08:16:15.503446"
   },
   {
     "id": "nyato_d4cd510823b14f8f",
@@ -159,7 +159,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.934288"
+    "scrapedAt": "2026-08-14T08:16:15.503858"
   },
   {
     "id": "nyato_beb8130fc6c65db6",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.934699"
+    "scrapedAt": "2026-08-14T08:16:15.504315"
   },
   {
     "id": "nyato_f1b7136418d5f0bf",
@@ -195,7 +195,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.935149"
+    "scrapedAt": "2026-08-14T08:16:15.504748"
   },
   {
     "id": "nyato_524f46d2603b249d",
@@ -213,7 +213,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.935570"
+    "scrapedAt": "2026-08-14T08:16:15.505184"
   },
   {
     "id": "nyato_3f51156111e80ed7",
@@ -231,7 +231,25 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:14:02.936016"
+    "scrapedAt": "2026-08-14T08:16:15.505596"
+  },
+  {
+    "id": "nyato_0fdd9b793e1c4d0f",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "无锡·临界寻遗·明日方舟X终末地ONLY同人展",
+    "category": "同人展",
+    "city": "无锡",
+    "venue": "江苏省 无锡市 新吴区格乐利雅艺术中心长江北路259号",
+    "startDate": "2026-08-15",
+    "endDate": "2026-08-15",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-14T08:16:15.505996"
   },
   {
     "id": "bilibili_1004793",
@@ -249,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.634868"
+    "scrapedAt": "2026-08-14T08:16:02.386078"
   },
   {
     "id": "bilibili_1004227",
@@ -267,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.638894"
+    "scrapedAt": "2026-08-14T08:16:02.390139"
   },
   {
     "id": "bilibili_1004322",
@@ -285,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.641704"
+    "scrapedAt": "2026-08-14T08:16:02.393007"
   },
   {
     "id": "bilibili_1004279",
@@ -303,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.642112"
+    "scrapedAt": "2026-08-14T08:16:02.393425"
   },
   {
     "id": "bilibili_1004333",
@@ -321,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.645273"
+    "scrapedAt": "2026-08-14T08:16:02.396598"
   },
   {
     "id": "bilibili_1004682",
@@ -339,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.646070"
+    "scrapedAt": "2026-08-14T08:16:02.397389"
   },
   {
     "id": "bilibili_1004290",
@@ -357,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.648511"
+    "scrapedAt": "2026-08-14T08:16:02.399383"
   },
   {
     "id": "bilibili_1004585",
@@ -375,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.649708"
+    "scrapedAt": "2026-08-14T08:16:02.400581"
   },
   {
     "id": "bilibili_1004463",
@@ -393,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.639308"
+    "scrapedAt": "2026-08-14T08:16:02.390567"
   },
   {
     "id": "bilibili_1004345",
@@ -411,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.640102"
+    "scrapedAt": "2026-08-14T08:16:02.391398"
   },
   {
     "id": "bilibili_1004179",
@@ -429,7 +447,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.642499"
+    "scrapedAt": "2026-08-14T08:16:02.393811"
   },
   {
     "id": "bilibili_1004263",
@@ -447,24 +465,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:13:50.647306"
-  },
-  {
-    "id": "weibo_ai_9c28cc2671b221bb",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "第46届长沙ACC动漫展",
-    "category": "漫展",
-    "city": "长沙",
-    "venue": "长沙国际会展中心（光达）",
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-03",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-14T06:15:07.512138"
+    "scrapedAt": "2026-08-14T08:16:02.398181"
   }
 ]
