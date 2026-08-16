@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.122732"
+    "scrapedAt": "2026-08-16T01:16:55.939644"
   },
   {
     "id": "nyato_34aaacd8fe8ffdc4",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.123810"
+    "scrapedAt": "2026-08-16T01:16:55.940696"
   },
   {
     "id": "nyato_65342c867563b1c0",
@@ -51,97 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.126870"
-  },
-  {
-    "id": "bilibili_1004224",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·芳文社同人ONLY展2.0~街角兔屋",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-08-16",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004224",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/Uud1UgTX1784737994_1784737994456.png",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.445374"
-  },
-  {
-    "id": "bilibili_1004168",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "沛县·第十二届幻璃国潮动漫展·夏日返场",
-    "category": "漫展",
-    "city": "徐州",
-    "venue": "",
-    "startDate": "2026-08-16",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004168",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/UxC0g66o1784682274_1784682274669.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.445879"
-  },
-  {
-    "id": "bilibili_1004583",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "哈尔滨·世界计划·术力口同人only展",
-    "category": "同人展",
-    "city": "哈尔滨",
-    "venue": "",
-    "startDate": "2026-08-16",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004583",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/yELs8OhS1785853133_1785853133550.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.449146"
-  },
-  {
-    "id": "bilibili_1004543",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "永州·水世界X绘梦次元水上派对",
-    "category": "其他",
-    "city": "永州",
-    "venue": "",
-    "startDate": "2026-08-16",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004543",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/dgTEwTVp1785379703_1785379703046.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.452361"
-  },
-  {
-    "id": "bilibili_1004348",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·Tie-up 世界计划 Project Sekai 同人 ONLY展",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-08-16",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004348",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202607/sniOyzKO1785131873_1785131873910.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.452881"
+    "scrapedAt": "2026-08-16T01:16:55.943728"
   },
   {
     "id": "nyato_8d44f59fbed51640",
@@ -159,7 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.121511"
+    "scrapedAt": "2026-08-16T01:16:55.938610"
   },
   {
     "id": "nyato_a7e6f4deea8a03e8",
@@ -177,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.122124"
+    "scrapedAt": "2026-08-16T01:16:55.939140"
   },
   {
     "id": "nyato_89e16290184f2aa7",
@@ -195,7 +105,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.123258"
+    "scrapedAt": "2026-08-16T01:16:55.940199"
   },
   {
     "id": "nyato_97ac05d38baaf04e",
@@ -213,7 +123,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.124331"
+    "scrapedAt": "2026-08-16T01:16:55.941243"
   },
   {
     "id": "nyato_19ebeeb7fc1f9bcf",
@@ -231,7 +141,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.124842"
+    "scrapedAt": "2026-08-16T01:16:55.941728"
   },
   {
     "id": "nyato_c4cb6d096f5c18b9",
@@ -249,7 +159,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.125385"
+    "scrapedAt": "2026-08-16T01:16:55.942269"
   },
   {
     "id": "nyato_4ceb63cd7bc29684",
@@ -267,7 +177,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.125865"
+    "scrapedAt": "2026-08-16T01:16:55.942749"
   },
   {
     "id": "nyato_fa55ed532ddadf77",
@@ -285,7 +195,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.126379"
+    "scrapedAt": "2026-08-16T01:16:55.943253"
   },
   {
     "id": "nyato_8a0d09fa07a73e5e",
@@ -303,7 +213,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.127425"
+    "scrapedAt": "2026-08-16T01:16:55.944272"
   },
   {
     "id": "nyato_def2dcdf49ad2bd3",
@@ -321,7 +231,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:20:13.127914"
+    "scrapedAt": "2026-08-16T01:16:55.944752"
   },
   {
     "id": "bilibili_1004227",
@@ -339,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.439429"
+    "scrapedAt": "2026-08-16T01:16:44.429638"
   },
   {
     "id": "bilibili_1004322",
@@ -357,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.442704"
+    "scrapedAt": "2026-08-16T01:16:44.432600"
   },
   {
     "id": "bilibili_1004279",
@@ -375,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.443212"
+    "scrapedAt": "2026-08-16T01:16:44.433133"
   },
   {
     "id": "bilibili_1004333",
@@ -393,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.448107"
+    "scrapedAt": "2026-08-16T01:16:44.436657"
   },
   {
     "id": "bilibili_1004682",
@@ -411,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.448640"
+    "scrapedAt": "2026-08-16T01:16:44.437157"
   },
   {
     "id": "bilibili_1004290",
@@ -429,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.451833"
+    "scrapedAt": "2026-08-16T01:16:44.439599"
   },
   {
     "id": "bilibili_1004585",
@@ -447,7 +357,43 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.453419"
+    "scrapedAt": "2026-08-16T01:16:44.441083"
+  },
+  {
+    "id": "bilibili_1004152",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "武汉·星火梦幻偶像音乐会",
+    "category": "音乐会",
+    "city": "武汉",
+    "venue": "",
+    "startDate": "2026-08-22",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004152",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/I4AZ48pS1784609929_1784609929227.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-16T01:16:44.442539"
+  },
+  {
+    "id": "bilibili_1004280",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "遵义·拾空暑期动漫展",
+    "category": "漫展",
+    "city": "遵义",
+    "venue": "",
+    "startDate": "2026-08-22",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004280",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/ZOLB6JLu1784772595_1784772595104.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-16T01:16:44.443528"
   },
   {
     "id": "bilibili_1004463",
@@ -465,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.439967"
+    "scrapedAt": "2026-08-16T01:16:44.430149"
   },
   {
     "id": "bilibili_1004345",
@@ -483,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.441037"
+    "scrapedAt": "2026-08-16T01:16:44.431144"
   },
   {
     "id": "bilibili_1004179",
@@ -501,7 +447,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.443790"
+    "scrapedAt": "2026-08-16T01:16:44.433673"
   },
   {
     "id": "bilibili_1004263",
@@ -519,7 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.450242"
+    "scrapedAt": "2026-08-16T01:16:44.438138"
   },
   {
     "id": "bilibili_1004293",
@@ -537,7 +483,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.453929"
+    "scrapedAt": "2026-08-16T01:16:44.441558"
   },
   {
     "id": "bilibili_1004301",
@@ -555,7 +501,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.454458"
+    "scrapedAt": "2026-08-16T01:16:44.442060"
   },
   {
     "id": "bilibili_1004299",
@@ -573,6 +519,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-15T15:19:59.447594"
+    "scrapedAt": "2026-08-16T01:16:44.436180"
   }
 ]
