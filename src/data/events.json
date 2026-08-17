@@ -15,25 +15,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.234961"
-  },
-  {
-    "id": "nyato_bab6401314246396",
-    "sourceType": "ticketing",
-    "sourceName": "nyato",
-    "title": "楚雄·第八届水幻次元暑期动漫展",
-    "category": "漫展",
-    "city": "楚雄彝族自治州",
-    "venue": "云南省 楚雄彝族自治州 楚雄市紫月湾温泉花园酒店元双路15号汽车博览小镇一期B2区B07幢",
-    "startDate": "2026-08-16",
-    "endDate": "2026-08-17",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "售票中",
-    "confidence": 0.9,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.232228"
+    "scrapedAt": "2026-08-17T11:25:48.982555"
   },
   {
     "id": "nyato_4bf6e96bf3fd82a1",
@@ -51,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.232798"
+    "scrapedAt": "2026-08-17T11:25:48.980433"
   },
   {
     "id": "nyato_841349b2f0c6d770",
@@ -69,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.233320"
+    "scrapedAt": "2026-08-17T11:25:48.980952"
   },
   {
     "id": "nyato_561ab0128d3685bb",
@@ -87,7 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.233891"
+    "scrapedAt": "2026-08-17T11:25:48.981507"
   },
   {
     "id": "nyato_1f1b2b1f169f54ef",
@@ -105,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.234404"
+    "scrapedAt": "2026-08-17T11:25:48.982013"
   },
   {
     "id": "bilibili_1004227",
@@ -123,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.626499"
+    "scrapedAt": "2026-08-17T11:25:35.506467"
   },
   {
     "id": "bilibili_1004322",
@@ -141,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.629485"
+    "scrapedAt": "2026-08-17T11:25:35.509359"
   },
   {
     "id": "bilibili_1004279",
@@ -159,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.629995"
+    "scrapedAt": "2026-08-17T11:25:35.509834"
   },
   {
     "id": "bilibili_1004333",
@@ -177,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.632452"
+    "scrapedAt": "2026-08-17T11:25:35.512267"
   },
   {
     "id": "bilibili_1004682",
@@ -195,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.632962"
+    "scrapedAt": "2026-08-17T11:25:35.512737"
   },
   {
     "id": "bilibili_1004290",
@@ -213,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.634452"
+    "scrapedAt": "2026-08-17T11:25:35.514165"
   },
   {
     "id": "bilibili_1004152",
@@ -231,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.636427"
+    "scrapedAt": "2026-08-17T11:25:35.516097"
   },
   {
     "id": "bilibili_1004280",
@@ -249,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.636929"
+    "scrapedAt": "2026-08-17T11:25:35.516599"
   },
   {
     "id": "bilibili_1004248",
@@ -267,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.637925"
+    "scrapedAt": "2026-08-17T11:25:35.517564"
   },
   {
     "id": "bilibili_1004244",
@@ -285,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.638902"
+    "scrapedAt": "2026-08-17T11:25:35.518540"
   },
   {
     "id": "bilibili_1004254",
@@ -303,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.640889"
+    "scrapedAt": "2026-08-17T11:25:35.520493"
   },
   {
     "id": "bilibili_1004294",
@@ -321,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.641872"
+    "scrapedAt": "2026-08-17T11:25:35.521464"
   },
   {
     "id": "nyato_b75c4eecab1f8167",
@@ -339,7 +321,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.235464"
+    "scrapedAt": "2026-08-17T11:25:48.983051"
   },
   {
     "id": "nyato_a8c4583acdf3872b",
@@ -357,7 +339,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.236027"
+    "scrapedAt": "2026-08-17T11:25:48.983584"
   },
   {
     "id": "nyato_567b1e06badc8b6e",
@@ -375,7 +357,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.236533"
+    "scrapedAt": "2026-08-17T11:25:48.984113"
   },
   {
     "id": "nyato_94ed267b4b5ded8e",
@@ -393,7 +375,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.237064"
+    "scrapedAt": "2026-08-17T11:25:48.984649"
   },
   {
     "id": "nyato_584dbdd66bd11625",
@@ -411,7 +393,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.237587"
+    "scrapedAt": "2026-08-17T11:25:48.985137"
   },
   {
     "id": "nyato_9a3233f9343f7a72",
@@ -429,7 +411,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.238085"
+    "scrapedAt": "2026-08-17T11:25:48.985674"
   },
   {
     "id": "nyato_811ce67773df7c73",
@@ -447,7 +429,25 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:32:05.238621"
+    "scrapedAt": "2026-08-17T11:25:48.986159"
+  },
+  {
+    "id": "nyato_d8746ae6dcca156f",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "漳州·辰光动漫游戏嘉年华",
+    "category": "漫展",
+    "city": "漳州",
+    "venue": "福建省 漳州市 龙文区裕元大酒店小港北路28号",
+    "startDate": "2026-08-22",
+    "endDate": "2026-08-22",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-17T11:25:48.986688"
   },
   {
     "id": "bilibili_1004463",
@@ -465,7 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.627008"
+    "scrapedAt": "2026-08-17T11:25:35.506937"
   },
   {
     "id": "bilibili_1004345",
@@ -483,7 +483,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.628033"
+    "scrapedAt": "2026-08-17T11:25:35.507906"
   },
   {
     "id": "bilibili_1004263",
@@ -501,7 +501,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.633440"
+    "scrapedAt": "2026-08-17T11:25:35.513221"
   },
   {
     "id": "bilibili_1004293",
@@ -519,7 +519,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.635441"
+    "scrapedAt": "2026-08-17T11:25:35.515128"
   },
   {
     "id": "bilibili_1004301",
@@ -537,7 +537,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.635945"
+    "scrapedAt": "2026-08-17T11:25:35.515628"
   },
   {
     "id": "bilibili_1004172",
@@ -555,7 +555,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.638400"
+    "scrapedAt": "2026-08-17T11:25:35.518038"
   },
   {
     "id": "bilibili_1004304",
@@ -573,7 +573,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.640363"
+    "scrapedAt": "2026-08-17T11:25:35.519986"
   },
   {
     "id": "bilibili_1004464",
@@ -591,7 +591,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.639886"
+    "scrapedAt": "2026-08-17T11:25:35.519514"
   },
   {
     "id": "bilibili_1004299",
@@ -609,7 +609,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.631979"
+    "scrapedAt": "2026-08-17T11:25:35.511776"
   },
   {
     "id": "bilibili_1004346",
@@ -627,7 +627,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.630481"
+    "scrapedAt": "2026-08-17T11:25:35.510331"
   },
   {
     "id": "bilibili_1004317",
@@ -645,6 +645,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T10:31:54.641366"
+    "scrapedAt": "2026-08-17T11:25:35.520968"
   }
 ]
