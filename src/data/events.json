@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.662819"
+    "scrapedAt": "2026-08-17T14:27:44.110788"
   },
   {
     "id": "nyato_4bf6e96bf3fd82a1",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.661535"
+    "scrapedAt": "2026-08-17T14:27:44.108754"
   },
   {
     "id": "nyato_841349b2f0c6d770",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.661849"
+    "scrapedAt": "2026-08-17T14:27:44.109287"
   },
   {
     "id": "nyato_561ab0128d3685bb",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.662191"
+    "scrapedAt": "2026-08-17T14:27:44.109787"
   },
   {
     "id": "nyato_1f1b2b1f169f54ef",
@@ -87,25 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.662510"
-  },
-  {
-    "id": "bilibili_1004227",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "成都·「余夏微甜」Liyuu2026粉丝见面会",
-    "category": "演唱会",
-    "city": "成都",
-    "venue": "",
-    "startDate": "2026-08-22",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004227",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/wGEOnF661784718568_1784718568305.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.364311"
+    "scrapedAt": "2026-08-17T14:27:44.110301"
   },
   {
     "id": "bilibili_1004322",
@@ -123,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.365153"
+    "scrapedAt": "2026-08-17T14:27:32.157596"
   },
   {
     "id": "bilibili_1004279",
@@ -141,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.365700"
+    "scrapedAt": "2026-08-17T14:27:32.158620"
   },
   {
     "id": "bilibili_1004333",
@@ -159,7 +141,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.366540"
+    "scrapedAt": "2026-08-17T14:27:32.159634"
+  },
+  {
+    "id": "bilibili_1004227",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "成都·「余夏微甜」Liyuu2026粉丝见面会",
+    "category": "演唱会",
+    "city": "成都",
+    "venue": "",
+    "startDate": "2026-08-22",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004227",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/wGEOnF661784718568_1784718568305.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-17T14:27:32.160113"
   },
   {
     "id": "bilibili_1004682",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.367654"
+    "scrapedAt": "2026-08-17T14:27:32.162589"
   },
   {
     "id": "bilibili_1004290",
@@ -195,25 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.367935"
-  },
-  {
-    "id": "bilibili_1004152",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "武汉·星火梦幻偶像音乐会",
-    "category": "音乐会",
-    "city": "武汉",
-    "venue": "",
-    "startDate": "2026-08-22",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004152",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/I4AZ48pS1784609929_1784609929227.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.368776"
+    "scrapedAt": "2026-08-17T14:27:32.163069"
   },
   {
     "id": "bilibili_1004248",
@@ -231,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.369348"
+    "scrapedAt": "2026-08-17T14:27:32.165037"
   },
   {
     "id": "bilibili_1004280",
@@ -249,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.369953"
+    "scrapedAt": "2026-08-17T14:27:32.166026"
   },
   {
     "id": "bilibili_1004244",
@@ -267,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.370523"
+    "scrapedAt": "2026-08-17T14:27:32.167008"
   },
   {
     "id": "bilibili_1004254",
@@ -285,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.371371"
+    "scrapedAt": "2026-08-17T14:27:32.168503"
   },
   {
     "id": "bilibili_1004294",
@@ -303,7 +285,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.371638"
+    "scrapedAt": "2026-08-17T14:27:32.168995"
+  },
+  {
+    "id": "bilibili_1004712",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "天津·萌次元游戏动漫嘉年华3.0",
+    "category": "漫展",
+    "city": "天津",
+    "venue": "",
+    "startDate": "2026-08-22",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004712",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/W7Wgkoqg1786350147_1786350147079.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-17T14:27:32.169499"
   },
   {
     "id": "nyato_b75c4eecab1f8167",
@@ -321,7 +321,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.663150"
+    "scrapedAt": "2026-08-17T14:27:44.111310"
   },
   {
     "id": "nyato_a8c4583acdf3872b",
@@ -339,7 +339,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.663476"
+    "scrapedAt": "2026-08-17T14:27:44.111822"
   },
   {
     "id": "nyato_567b1e06badc8b6e",
@@ -357,7 +357,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.663769"
+    "scrapedAt": "2026-08-17T14:27:44.112339"
   },
   {
     "id": "nyato_94ed267b4b5ded8e",
@@ -375,7 +375,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.664073"
+    "scrapedAt": "2026-08-17T14:27:44.112819"
   },
   {
     "id": "nyato_584dbdd66bd11625",
@@ -393,7 +393,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.664367"
+    "scrapedAt": "2026-08-17T14:27:44.113332"
   },
   {
     "id": "nyato_9a3233f9343f7a72",
@@ -411,7 +411,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.664668"
+    "scrapedAt": "2026-08-17T14:27:44.113811"
   },
   {
     "id": "nyato_811ce67773df7c73",
@@ -429,7 +429,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.664964"
+    "scrapedAt": "2026-08-17T14:27:44.114304"
   },
   {
     "id": "nyato_d8746ae6dcca156f",
@@ -447,7 +447,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:22.665292"
+    "scrapedAt": "2026-08-17T14:27:44.114775"
   },
   {
     "id": "bilibili_1004463",
@@ -465,7 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.363474"
+    "scrapedAt": "2026-08-17T14:27:32.155055"
   },
   {
     "id": "bilibili_1004345",
@@ -483,7 +483,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.364029"
+    "scrapedAt": "2026-08-17T14:27:32.156078"
   },
   {
     "id": "bilibili_1004263",
@@ -501,7 +501,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.367388"
+    "scrapedAt": "2026-08-17T14:27:32.162084"
   },
   {
     "id": "bilibili_1004301",
@@ -519,7 +519,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.368508"
+    "scrapedAt": "2026-08-17T14:27:32.164049"
   },
   {
     "id": "bilibili_1004293",
@@ -537,7 +537,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.369668"
+    "scrapedAt": "2026-08-17T14:27:32.165546"
   },
   {
     "id": "bilibili_1004172",
@@ -555,7 +555,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.370246"
+    "scrapedAt": "2026-08-17T14:27:32.166530"
   },
   {
     "id": "bilibili_1004304",
@@ -573,7 +573,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.371092"
+    "scrapedAt": "2026-08-17T14:27:32.167995"
   },
   {
     "id": "bilibili_1004299",
@@ -591,7 +591,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.366825"
+    "scrapedAt": "2026-08-17T14:27:32.161098"
   },
   {
     "id": "bilibili_1004346",
@@ -609,24 +609,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:06.365430"
-  },
-  {
-    "id": "weibo_ai_046b929b166d2081",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "IDO动漫游戏嘉年华55th·拍拍宇宙主题馆",
-    "category": "漫展",
-    "city": "北京",
-    "venue": "北京展览馆·九号馆",
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-02",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-17T13:39:59.973945"
+    "scrapedAt": "2026-08-17T14:27:32.158092"
   }
 ]
