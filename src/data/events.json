@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.529255"
+    "scrapedAt": "2026-08-18T02:55:36.748141"
   },
   {
     "id": "nyato_4bf6e96bf3fd82a1",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.527382"
+    "scrapedAt": "2026-08-18T02:55:36.746190"
   },
   {
     "id": "nyato_841349b2f0c6d770",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.527858"
+    "scrapedAt": "2026-08-18T02:55:36.746669"
   },
   {
     "id": "nyato_561ab0128d3685bb",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.528344"
+    "scrapedAt": "2026-08-18T02:55:36.747184"
   },
   {
     "id": "nyato_1f1b2b1f169f54ef",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.528790"
+    "scrapedAt": "2026-08-18T02:55:36.747660"
   },
   {
     "id": "bilibili_1004322",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.770204"
+    "scrapedAt": "2026-08-18T02:55:23.800554"
   },
   {
     "id": "bilibili_1004279",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.770995"
+    "scrapedAt": "2026-08-18T02:55:23.802345"
   },
   {
     "id": "bilibili_1004333",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.771813"
+    "scrapedAt": "2026-08-18T02:55:23.803215"
   },
   {
     "id": "bilibili_1004227",
@@ -159,25 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.772229"
-  },
-  {
-    "id": "bilibili_1004682",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "杭州·碧蓝航线同人Only展",
-    "category": "同人展",
-    "city": "杭州",
-    "venue": "",
-    "startDate": "2026-08-22",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004682",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/UbUvfsDj1786247815_1786247815466.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.774254"
+    "scrapedAt": "2026-08-18T02:55:23.803631"
   },
   {
     "id": "bilibili_1004290",
@@ -195,7 +177,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.774657"
+    "scrapedAt": "2026-08-18T02:55:23.805411"
+  },
+  {
+    "id": "bilibili_1004682",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "杭州·碧蓝航线同人Only展",
+    "category": "同人展",
+    "city": "杭州",
+    "venue": "",
+    "startDate": "2026-08-22",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004682",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/UbUvfsDj1786247815_1786247815466.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-18T02:55:23.805827"
   },
   {
     "id": "bilibili_1004248",
@@ -213,79 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.776317"
-  },
-  {
-    "id": "bilibili_1004280",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "遵义·拾空暑期动漫展",
-    "category": "漫展",
-    "city": "遵义",
-    "venue": "",
-    "startDate": "2026-08-22",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004280",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/ZOLB6JLu1784772595_1784772595104.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.777149"
-  },
-  {
-    "id": "bilibili_1004244",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "漳州·辰光动漫游戏嘉年华",
-    "category": "漫展",
-    "city": "漳州",
-    "venue": "",
-    "startDate": "2026-08-22",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004244",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202607/BfCJSI211784778220_1784778220133.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.777955"
-  },
-  {
-    "id": "bilibili_1004254",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "金华·辰光动漫游戏嘉年华",
-    "category": "漫展",
-    "city": "金华",
-    "venue": "",
-    "startDate": "2026-08-22",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004254",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202607/AaRcPYTi1784777616_1784777616316.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.779224"
-  },
-  {
-    "id": "bilibili_1004294",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "绥化·万食屋干饭展",
-    "category": "其他",
-    "city": "绥化",
-    "venue": "",
-    "startDate": "2026-08-22",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004294",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/tGaVM9ME1784801866_1784801866889.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.779629"
+    "scrapedAt": "2026-08-18T02:55:23.808007"
   },
   {
     "id": "bilibili_1004712",
@@ -303,7 +231,79 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.780042"
+    "scrapedAt": "2026-08-18T02:55:23.808456"
+  },
+  {
+    "id": "bilibili_1004280",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "遵义·拾空暑期动漫展",
+    "category": "漫展",
+    "city": "遵义",
+    "venue": "",
+    "startDate": "2026-08-22",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004280",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/ZOLB6JLu1784772595_1784772595104.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-18T02:55:23.809347"
+  },
+  {
+    "id": "bilibili_1004244",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "漳州·辰光动漫游戏嘉年华",
+    "category": "漫展",
+    "city": "漳州",
+    "venue": "",
+    "startDate": "2026-08-22",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004244",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202607/BfCJSI211784778220_1784778220133.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-18T02:55:23.809766"
+  },
+  {
+    "id": "bilibili_1004294",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "绥化·万食屋干饭展",
+    "category": "其他",
+    "city": "绥化",
+    "venue": "",
+    "startDate": "2026-08-22",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004294",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/tGaVM9ME1784801866_1784801866889.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-18T02:55:23.811118"
+  },
+  {
+    "id": "bilibili_1004254",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "金华·辰光动漫游戏嘉年华",
+    "category": "漫展",
+    "city": "金华",
+    "venue": "",
+    "startDate": "2026-08-22",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004254",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202607/AaRcPYTi1784777616_1784777616316.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-18T02:55:23.811555"
   },
   {
     "id": "nyato_b75c4eecab1f8167",
@@ -321,7 +321,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.529687"
+    "scrapedAt": "2026-08-18T02:55:36.748585"
   },
   {
     "id": "nyato_a8c4583acdf3872b",
@@ -339,7 +339,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.530188"
+    "scrapedAt": "2026-08-18T02:55:36.749076"
   },
   {
     "id": "nyato_567b1e06badc8b6e",
@@ -357,7 +357,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.530622"
+    "scrapedAt": "2026-08-18T02:55:36.749537"
   },
   {
     "id": "nyato_94ed267b4b5ded8e",
@@ -375,7 +375,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.531056"
+    "scrapedAt": "2026-08-18T02:55:36.749995"
   },
   {
     "id": "nyato_584dbdd66bd11625",
@@ -393,7 +393,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.531478"
+    "scrapedAt": "2026-08-18T02:55:36.750447"
   },
   {
     "id": "nyato_9a3233f9343f7a72",
@@ -411,7 +411,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.531903"
+    "scrapedAt": "2026-08-18T02:55:36.750896"
   },
   {
     "id": "nyato_811ce67773df7c73",
@@ -429,7 +429,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.532346"
+    "scrapedAt": "2026-08-18T02:55:36.751390"
   },
   {
     "id": "nyato_d8746ae6dcca156f",
@@ -447,7 +447,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:13.532771"
+    "scrapedAt": "2026-08-18T02:55:36.751818"
   },
   {
     "id": "bilibili_1004463",
@@ -465,7 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.768174"
+    "scrapedAt": "2026-08-18T02:55:23.799250"
   },
   {
     "id": "bilibili_1004345",
@@ -483,7 +483,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.768969"
+    "scrapedAt": "2026-08-18T02:55:23.800107"
   },
   {
     "id": "bilibili_1004263",
@@ -501,7 +501,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.773836"
+    "scrapedAt": "2026-08-18T02:55:23.806268"
   },
   {
     "id": "bilibili_1004301",
@@ -519,7 +519,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.775493"
+    "scrapedAt": "2026-08-18T02:55:23.807583"
   },
   {
     "id": "bilibili_1004293",
@@ -537,25 +537,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.776727"
-  },
-  {
-    "id": "bilibili_1004172",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "长沙·湘韵四方-中文虚拟歌姬同人only展",
-    "category": "同人展",
-    "city": "长沙",
-    "venue": "",
-    "startDate": "2026-08-23",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004172",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/t7aIGLGL1784451854_1784451854251.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.777556"
+    "scrapedAt": "2026-08-18T02:55:23.810200"
   },
   {
     "id": "bilibili_1004304",
@@ -573,7 +555,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.778795"
+    "scrapedAt": "2026-08-18T02:55:23.810652"
   },
   {
     "id": "bilibili_1004299",
@@ -591,7 +573,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.773034"
+    "scrapedAt": "2026-08-18T02:55:23.804978"
   },
   {
     "id": "bilibili_1004346",
@@ -609,6 +591,24 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-18T01:12:00.770601"
+    "scrapedAt": "2026-08-18T02:55:23.801874"
+  },
+  {
+    "id": "bilibili_1004317",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·异形舞台ALIEN STAGE同人ONLY展",
+    "category": "同人展",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-08-30",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004317",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/sZOhVpaK1784877773_1784877773361.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-18T02:55:23.811987"
   }
 ]
