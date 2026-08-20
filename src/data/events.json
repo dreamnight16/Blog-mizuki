@@ -1,41 +1,5 @@
 [
   {
-    "id": "weibo_ai_148fa2f7cbe5277e",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "佛山CPG08",
-    "category": "漫展",
-    "city": "佛山",
-    "venue": "佛山潭州国际会展中心",
-    "startDate": "2026-08-22",
-    "endDate": "2026-08-23",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:46:17.114500"
-  },
-  {
-    "id": "bilibili_1004987",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "佳木斯·星韵国漫第四届动漫游戏展",
-    "category": "漫展",
-    "city": "佳木斯",
-    "venue": "",
-    "startDate": "2026-08-23",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004987",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/vcrdIHLd1787037781_1787037781540.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.086272"
-  },
-  {
     "id": "bilibili_1004463",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
@@ -51,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.088374"
+    "scrapedAt": "2026-08-20T07:40:26.334734"
   },
   {
     "id": "bilibili_1004345",
@@ -69,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.088582"
+    "scrapedAt": "2026-08-20T07:40:26.340125"
   },
   {
     "id": "bilibili_1004549",
@@ -87,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.092765"
+    "scrapedAt": "2026-08-20T07:40:26.344095"
   },
   {
     "id": "bilibili_1004343",
@@ -105,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.092969"
+    "scrapedAt": "2026-08-20T07:40:26.344571"
   },
   {
     "id": "bilibili_1004701",
@@ -123,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.093389"
+    "scrapedAt": "2026-08-20T07:40:26.345559"
   },
   {
     "id": "bilibili_1004464",
@@ -141,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.091275"
+    "scrapedAt": "2026-08-20T07:40:26.338152"
   },
   {
     "id": "bilibili_1005038",
@@ -159,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.086690"
+    "scrapedAt": "2026-08-20T07:40:26.330775"
   },
   {
     "id": "bilibili_1004713",
@@ -177,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.092560"
+    "scrapedAt": "2026-08-20T07:40:26.343587"
   },
   {
     "id": "bilibili_1004675",
@@ -195,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.094226"
+    "scrapedAt": "2026-08-20T07:40:26.347514"
   },
   {
     "id": "bilibili_1004477",
@@ -213,25 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.094641"
-  },
-  {
-    "id": "bilibili_1004346",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "广州·时光代理人「Dream Out！」LIVE丨2026音乐巡演",
-    "category": "演唱会",
-    "city": "广州",
-    "venue": "",
-    "startDate": "2026-08-30",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004346",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/l1Sj0gDT1782897803_1782897803338.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.088993"
+    "scrapedAt": "2026-08-20T07:40:26.348495"
   },
   {
     "id": "bilibili_1004712",
@@ -249,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.090228"
+    "scrapedAt": "2026-08-20T07:40:26.337673"
   },
   {
     "id": "bilibili_1004714",
@@ -267,7 +213,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.091480"
+    "scrapedAt": "2026-08-20T07:40:26.338653"
+  },
+  {
+    "id": "bilibili_1004346",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "广州·时光代理人「Dream Out！」LIVE丨2026音乐巡演",
+    "category": "演唱会",
+    "city": "广州",
+    "venue": "",
+    "startDate": "2026-08-30",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004346",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202607/l1Sj0gDT1782897803_1782897803338.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-20T07:40:26.341116"
   },
   {
     "id": "bilibili_1004663",
@@ -285,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.093800"
+    "scrapedAt": "2026-08-20T07:40:26.346535"
   },
   {
     "id": "bilibili_1004465",
@@ -303,78 +267,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.094436"
-  },
-  {
-    "id": "bilibili_1004317",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·异形舞台ALIEN STAGE同人ONLY展",
-    "category": "展览",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-08-30",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004317",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202607/sZOhVpaK1784877773_1784877773361.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:44:28.082597"
-  },
-  {
-    "id": "weibo_ai_046b929b166d2081",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "IDO动漫游戏嘉年华55th·拍拍宇宙主题馆",
-    "category": "漫展",
-    "city": "北京",
-    "venue": "北京展览馆·九号馆",
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-02",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:46:17.115108"
-  },
-  {
-    "id": "weibo_ai_445b224dd4308c07",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "第四十六届ACC动漫展",
-    "category": "漫展",
-    "city": "长沙",
-    "venue": "",
-    "startDate": "2026-10-01",
-    "endDate": null,
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 0.8500000000000001,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:46:17.115414"
-  },
-  {
-    "id": "weibo_ai_240905d4b5a1bea4",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "郑州ACC漫展",
-    "category": "漫展",
-    "city": "郑州",
-    "venue": "郑州国际会展中心",
-    "startDate": "2026-10-02",
-    "endDate": null,
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-20T06:46:17.115689"
+    "scrapedAt": "2026-08-20T07:40:26.348021"
   }
 ]
