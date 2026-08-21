@@ -23,7 +23,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "YouTube",
 			icon: "fa7-brands:youtube",
-			url: "https://youtube.com/@DreamNight",
+			url: "https://youtube.com/@sixtdreamnight",
 		},
 		{
 			name: "X",
