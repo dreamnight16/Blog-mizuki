@@ -14,7 +14,7 @@ tags: [Deep Learning, GAN, Fine-Tuning, PEFT, Physics-Informed, Topology Optimiz
 
 对预训练 TopologyGAN 做物理微调时，**99.5% 的物理梯度集中于 SVD 主子空间**（$\eta = 0.005$），而非按谱能量均匀分布所预测的 20%（$\eta = 0.20$）。这一 **40 倍集中异常**推翻了此前「梯度自然正交于主子空间」的推测，并揭示了一个更深刻的机制：物理损失梯度与 SVD 主方向存在**结构性对齐**——两者共同受弹性力学 PDE 的低阶本征模态支配。基于这一理论认识，我们推导出 OSFT：冻结主子空间以保护隐含的物理先验，将参数更新重定向至残差子空间以适配工况约束，最终以 0.7% 可训参数实现与全量微调相当的拓扑保真度。同时，我们证明 SVD 结构重要性（$\rho = 0.117$，与 Fisher 信息几乎正交）构成了一种独立于 EWC 的知识保护范式。
 
-**代码**: [github.com/sixtdreanight/osft](https://github.com/sixtdreanight/osft)
+**代码**: [github.com/dreamnight16/osft](https://github.com/dreamnight16/osft)
 
 ---
 
@@ -245,11 +245,11 @@ $\eta = 0.005$ 的 40 倍集中是本文最关键的定量发现，但其精确�
 
 ## 链接与资源
 
-- **代码仓库**: [github.com/sixtdreanight/osft](https://github.com/sixtdreanight/osft)
+- **代码仓库**: [github.com/dreamnight16/osft](https://github.com/dreamnight16/osft)
 - **前文（理论框架与验证方案）**: [《正交子空间微调：面向物理约束的轻量化拓扑生成对抗网络》](https://dreamnight.net.cn/posts/GAN)
 - **预训练权重 & 数据集**: [huggingface.co/DreamNight16/osft-weights](https://huggingface.co/DreamNight16/osft-weights)
 - **完整实验记录**: 见 repo `docs/notes/`
-- **讨论**: [GitHub Issues](https://github.com/sixtdreanight/osft/issues)
+- **讨论**: [GitHub Issues](https://github.com/dreamnight16/osft/issues)
 
 ---
 

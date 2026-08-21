@@ -29,6 +29,6 @@ comments: false
 
 ## 找到我
 
-- GitHub: [@sixtdreanight](https://github.com/sixtdreanight)
+- GitHub: [@dreamnight16](https://github.com/dreamnight16)
 - Bilibili: [@DreamNight](https://space.bilibili.com/)
 - Blog: [dreamnight.net.cn](https://dreamnight.net.cn)

@@ -217,4 +217,4 @@ tags: [热点, 周刊, 分析, 数字资本与国家权力的联合收网, 美�
 
 ---
 
-*本文由 [weekly-hotspot](https://github.com/sixtdreanight/weekly-hotspot) 分析系统自动生成，数据来自微博、知乎、Hacker News 实时热点。每期周刊基于 DeepSeek 模型进行马列毛主义阶级分析，力求在真实信息的基础上，讲清楚每件事背后的物质利益格局。*
+*本文由 [weekly-hotspot](https://github.com/dreamnight16/weekly-hotspot) 分析系统自动生成，数据来自微博、知乎、Hacker News 实时热点。每期周刊基于 DeepSeek 模型进行马列毛主义阶级分析，力求在真实信息的基础上，讲清楚每件事背后的物质利益格局。*

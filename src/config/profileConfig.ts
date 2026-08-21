@@ -13,12 +13,12 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/sixtdreanight",
+			url: "https://github.com/dreamnight16",
 		},
 		{
 			name: "Bilibili",
 			icon: "fa7-brands:bilibili",
-			url: "https://space.bilibili.com/",
+			url: "https://space.bilibili.com/514345038",
 		},
 		{
 			name: "YouTube",
@@ -28,7 +28,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "X",
 			icon: "fa7-brands:x-twitter",
-			url: "https://x.com/",
+			url: "https://x.com/sixtdreanight",
 		},
 		{
 			name: "npm",
@@ -38,7 +38,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "PyPI",
 			icon: "fa7-brands:python",
-			url: "https://pypi.org/user/sixtdreanight/",
+			url: "https://pypi.org/user/sixtdreamnight/",
 		},
 		{
 			name: "Vibe Coding 入门课",

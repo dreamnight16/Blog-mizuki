@@ -1,7 +1,7 @@
 import { readFile, writeFile } from 'node:fs/promises'
 import { join } from 'node:path'
 
-const USERNAME = 'sixtdreanight'
+const USERNAME = 'dreamnight16'
 const SYNCED_FILE = join(import.meta.dirname, '..', 'src', 'data', 'projects-synced.ts')
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN
 
