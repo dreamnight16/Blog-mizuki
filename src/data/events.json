@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.575403"
+    "scrapedAt": "2026-08-27T07:47:41.827093"
   },
   {
     "id": "nyato_c39865fb4a1b86dd",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.575900"
+    "scrapedAt": "2026-08-27T07:47:41.827586"
   },
   {
     "id": "nyato_f72c4d1105a13163",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.576408"
+    "scrapedAt": "2026-08-27T07:47:41.828150"
   },
   {
     "id": "nyato_34443316ec8b4cf9",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.576892"
+    "scrapedAt": "2026-08-27T07:47:41.828630"
   },
   {
     "id": "nyato_a101d4e6328e5854",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.577391"
+    "scrapedAt": "2026-08-27T07:47:41.829171"
   },
   {
     "id": "nyato_dc8c52729c41dbc5",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.577875"
+    "scrapedAt": "2026-08-27T07:47:41.829656"
   },
   {
     "id": "nyato_3236ebc789e47141",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.578378"
+    "scrapedAt": "2026-08-27T07:47:41.830157"
   },
   {
     "id": "nyato_b2e364c8317c8b82",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.578865"
+    "scrapedAt": "2026-08-27T07:47:41.830660"
   },
   {
     "id": "nyato_c9e54265e8279ad3",
@@ -159,7 +159,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.572683"
+    "scrapedAt": "2026-08-27T07:47:41.824455"
   },
   {
     "id": "nyato_fd11209176143aa2",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.573237"
+    "scrapedAt": "2026-08-27T07:47:41.825015"
   },
   {
     "id": "nyato_23108ada227e5829",
@@ -195,7 +195,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.573793"
+    "scrapedAt": "2026-08-27T07:47:41.825530"
   },
   {
     "id": "nyato_1976f64e914a405d",
@@ -213,25 +213,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.574325"
-  },
-  {
-    "id": "bilibili_1004712",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "天津·萌次元游戏动漫嘉年华3.0",
-    "category": "漫展",
-    "city": "天津",
-    "venue": "",
-    "startDate": "2026-08-30",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004712",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/okG9RSaC1787032371_1787032371043.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.087154"
+    "scrapedAt": "2026-08-27T07:47:41.826049"
   },
   {
     "id": "bilibili_1004714",
@@ -249,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.088150"
+    "scrapedAt": "2026-08-27T07:47:29.947179"
   },
   {
     "id": "nyato_faae02eb61f600df",
@@ -267,7 +249,7 @@
     "status": "售票中",
     "confidence": 0.9,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:56.574872"
+    "scrapedAt": "2026-08-27T07:47:41.826553"
   },
   {
     "id": "bilibili_1004887",
@@ -285,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.086660"
+    "scrapedAt": "2026-08-27T07:47:29.945700"
   },
   {
     "id": "bilibili_1004730",
@@ -303,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.088667"
+    "scrapedAt": "2026-08-27T07:47:29.947650"
   },
   {
     "id": "bilibili_1004658",
@@ -321,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.091163"
+    "scrapedAt": "2026-08-27T07:47:29.954923"
   },
   {
     "id": "bilibili_1005005",
@@ -339,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.086139"
+    "scrapedAt": "2026-08-27T07:47:29.945226"
   },
   {
     "id": "bilibili_1004752",
@@ -357,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.090680"
+    "scrapedAt": "2026-08-27T07:47:29.948622"
   },
   {
     "id": "bilibili_1005186",
@@ -371,29 +353,11 @@
     "endDate": null,
     "priceRange": "待定",
     "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005186",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/uIefWxda1787604100_1787604100592.jpg",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/zbHGfDhF1787716398_1787716398835.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.093986"
-  },
-  {
-    "id": "bilibili_1005143",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "昆明·碧蓝航线摄影会",
-    "category": "其他",
-    "city": "昆明",
-    "venue": "",
-    "startDate": "2026-09-12",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005143",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/441oa1DF1787217989_1787217989445.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.102891"
+    "scrapedAt": "2026-08-27T07:47:29.951066"
   },
   {
     "id": "bilibili_1005203",
@@ -411,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.101336"
+    "scrapedAt": "2026-08-27T07:47:29.959802"
   },
   {
     "id": "bilibili_1005218",
@@ -429,7 +393,43 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.100258"
+    "scrapedAt": "2026-08-27T07:47:29.951540"
+  },
+  {
+    "id": "bilibili_1005202",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "忻州·中秋次元联盟漫展摄影会",
+    "category": "漫展",
+    "city": "忻州",
+    "venue": "",
+    "startDate": "2026-09-26",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005202",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/Ynsb3EUX1787121415_1787121415731.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-27T07:47:29.952043"
+  },
+  {
+    "id": "bilibili_1005249",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "锦州·星月动漫展",
+    "category": "漫展",
+    "city": "锦州",
+    "venue": "",
+    "startDate": "2026-09-26",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005249",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/B70jqtSJ1787711006_1787711006697.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-27T07:47:29.961286"
   },
   {
     "id": "bilibili_1005197",
@@ -447,79 +447,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.101855"
-  },
-  {
-    "id": "bilibili_1005264",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "遵义·MINICOCO第十季",
-    "category": "其他",
-    "city": "遵义",
-    "venue": "",
-    "startDate": "2026-09-26",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005264",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/9LGM54gg1787735546_1787735546486.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.103923"
-  },
-  {
-    "id": "bilibili_1005261",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "天津·忘带眼镜3-3 第三届欧美ONLY同人展",
-    "category": "同人展",
-    "city": "天津",
-    "venue": "",
-    "startDate": "2026-09-26",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005261",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/Zp6z6Ct91787670700_1787670700417.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.104467"
-  },
-  {
-    "id": "bilibili_1005260",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "焦作·Lesty国风动漫嘉年华",
-    "category": "漫展",
-    "city": "焦作",
-    "venue": "",
-    "startDate": "2026-09-26",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005260",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/0Rp9UrTX1787724832_1787724832529.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.104975"
-  },
-  {
-    "id": "bilibili_1005187",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "邵阳·第五届星澜动漫展",
-    "category": "漫展",
-    "city": "邵阳",
-    "venue": "",
-    "startDate": "2026-10-01",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005187",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/CdpqCDJE1787568780_1787568780156.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.098172"
+    "scrapedAt": "2026-08-27T07:47:29.963218"
   },
   {
     "id": "bilibili_1005174",
@@ -537,7 +465,43 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.099222"
+    "scrapedAt": "2026-08-27T07:47:29.955420"
+  },
+  {
+    "id": "bilibili_1005244",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "怀化·花朝动漫展16th",
+    "category": "漫展",
+    "city": "怀化",
+    "venue": "",
+    "startDate": "2026-10-01",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005244",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/1pcGcauJ1787212948_1787212948570.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-27T07:47:29.956860"
+  },
+  {
+    "id": "bilibili_1005187",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "邵阳·第五届星澜动漫展",
+    "category": "漫展",
+    "city": "邵阳",
+    "venue": "",
+    "startDate": "2026-10-01",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005187",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/CdpqCDJE1787568780_1787568780156.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-27T07:47:29.957354"
   },
   {
     "id": "bilibili_1005171",
@@ -555,7 +519,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.099763"
+    "scrapedAt": "2026-08-27T07:47:29.959323"
+  },
+  {
+    "id": "bilibili_1005237",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "双鸭山·七十亿第十届动漫游戏展",
+    "category": "漫展",
+    "city": "双鸭山",
+    "venue": "",
+    "startDate": "2026-10-01",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005237",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/I0ffOWRh1787664400_1787664400534.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-27T07:47:29.962248"
   },
   {
     "id": "bilibili_1005165",
@@ -573,7 +555,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.092161"
+    "scrapedAt": "2026-08-27T07:47:29.949598"
   },
   {
     "id": "bilibili_1005188",
@@ -591,25 +573,61 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.094537"
+    "scrapedAt": "2026-08-27T07:47:29.952519"
   },
   {
-    "id": "bilibili_1005137",
+    "id": "bilibili_1005247",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "廊坊·胜芳无尽夏动漫游戏嘉年华国庆次元大狂欢",
+    "title": "酒泉·UACG特别企划3.0动漫游戏展",
     "category": "漫展",
-    "city": "廊坊",
+    "city": "酒泉",
     "venue": "",
     "startDate": "2026-10-02",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005137",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/1kHVBkFL1787501479_1787501479907.png",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005247",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/VGZPCIw61787664918_1787664918921.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.103420"
+    "scrapedAt": "2026-08-27T07:47:29.957843"
+  },
+  {
+    "id": "bilibili_1005196",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "大庆·2026墨韵动漫文化节5.0国庆吃席宴",
+    "category": "漫展",
+    "city": "大庆",
+    "venue": "",
+    "startDate": "2026-10-02",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005196",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/qNssRh9n1787561523_1787561523763.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-27T07:47:29.960304"
+  },
+  {
+    "id": "bilibili_1005238",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "鹤岗·七十亿第二十一届动漫游戏展",
+    "category": "漫展",
+    "city": "鹤岗",
+    "venue": "",
+    "startDate": "2026-10-02",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005238",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/CS6Guh8x1787665521_1787665521221.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-27T07:47:29.961755"
   },
   {
     "id": "bilibili_1005201",
@@ -627,7 +645,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.093426"
+    "scrapedAt": "2026-08-27T07:47:29.950571"
   },
   {
     "id": "bilibili_1005223",
@@ -645,7 +663,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.095046"
+    "scrapedAt": "2026-08-27T07:47:29.953014"
+  },
+  {
+    "id": "bilibili_1005252",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "安顺·DSY动漫嘉年华",
+    "category": "漫展",
+    "city": "安顺",
+    "venue": "",
+    "startDate": "2026-10-03",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005252",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/O7Hw8Cfv1786357493_1786357493856.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-08-27T07:47:29.960776"
   },
   {
     "id": "bilibili_1005185",
@@ -663,7 +699,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.102385"
+    "scrapedAt": "2026-08-27T07:47:29.958815"
   },
   {
     "id": "bilibili_1005178",
@@ -681,6 +717,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-08-26T16:17:44.098726"
+    "scrapedAt": "2026-08-27T07:47:29.956393"
   }
 ]
