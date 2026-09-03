@@ -1,5 +1,185 @@
 [
   {
+    "id": "nyato_842393a907ab855d",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "重庆·索尼X魔法少女小圆时光集章纪念之旅",
+    "category": "其他",
+    "city": "重庆",
+    "venue": "重庆市 九龙坡区Sony Store索尼(重庆万象城店)谢家湾正街45号万象城北区NL280号",
+    "startDate": "2026-07-10",
+    "endDate": "2026-09-06",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.431642"
+  },
+  {
+    "id": "nyato_c39865fb4a1b86dd",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "成都·索尼X魔法少女小圆时光集章纪念之旅",
+    "category": "其他",
+    "city": "成都",
+    "venue": "四川省 成都市 武侯区Sony Store索尼(来福士店)人民南路四段三号来福士广场L1层1055-1059",
+    "startDate": "2026-07-10",
+    "endDate": "2026-09-06",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.432149"
+  },
+  {
+    "id": "nyato_f72c4d1105a13163",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "武汉·索尼X魔法少女小圆时光集章纪念之旅",
+    "category": "其他",
+    "city": "武汉",
+    "venue": "湖北省 武汉市 武昌区Sony Store 索尼(武汉梦时代店)武珞路598号武汉梦时代广场负一楼A区A004/005/006",
+    "startDate": "2026-07-10",
+    "endDate": "2026-09-06",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.432669"
+  },
+  {
+    "id": "nyato_34443316ec8b4cf9",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "苏州·索尼X魔法少女小圆时光集章纪念之旅",
+    "category": "其他",
+    "city": "苏州",
+    "venue": "江苏省 苏州市 姑苏区Sony Store索尼（苏州万象天地店）广济南路369号苏州万象天地S180N+S253N",
+    "startDate": "2026-07-10",
+    "endDate": "2026-09-06",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.433153"
+  },
+  {
+    "id": "nyato_a101d4e6328e5854",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "深圳·索尼X魔法少女小圆时光集章纪念之旅",
+    "category": "其他",
+    "city": "深圳",
+    "venue": "广东省 深圳市 福田区Sony Store 索尼（深圳深业上城店）华富街道皇岗路5001号深业上城（南区）一期2层S224号商铺",
+    "startDate": "2026-07-10",
+    "endDate": "2026-09-06",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.433665"
+  },
+  {
+    "id": "nyato_dc8c52729c41dbc5",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "北京·索尼X魔法少女小圆时光集章纪念之旅",
+    "category": "其他",
+    "city": "北京",
+    "venue": "北京市 东城区Sony Store索尼(北京东方广场店)东长安街1号东方新天地商场首层AA06-AA08号商铺",
+    "startDate": "2026-07-10",
+    "endDate": "2026-09-06",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.434143"
+  },
+  {
+    "id": "nyato_3236ebc789e47141",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "南京·索尼X魔法少女小圆时光集章纪念之旅",
+    "category": "其他",
+    "city": "南京",
+    "venue": "江苏省 南京市 秦淮区Sony Store索尼（南京水游城店）建康路1号南京鹏欣水游城F1-W08商铺",
+    "startDate": "2026-07-10",
+    "endDate": "2026-09-06",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.434704"
+  },
+  {
+    "id": "nyato_b2e364c8317c8b82",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "杭州·索尼X魔法少女小圆时光集章纪念之旅",
+    "category": "其他",
+    "city": "杭州",
+    "venue": "浙江省 杭州市 上城区Sony Store索尼(杭州湖滨88店)平海路124号索尼直营店",
+    "startDate": "2026-07-10",
+    "endDate": "2026-09-06",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.435186"
+  },
+  {
+    "id": "nyato_b7740c7ade0f59a8",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "广州·索尼X魔法少女小圆时光集章纪念之旅",
+    "category": "其他",
+    "city": "广州",
+    "venue": "广东省 广州市 天河区Sony Store 索尼（广州正佳店）天河路228号正佳广场3楼3B035铺",
+    "startDate": "2026-07-10",
+    "endDate": "2026-09-06",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.435694"
+  },
+  {
+    "id": "nyato_a2d956ea6ec9948b",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "上海·索尼X魔法少女小圆时光集章纪念之旅",
+    "category": "其他",
+    "city": "上海",
+    "venue": "上海市 黄浦区Sony Store索尼(上海淮海中路店)淮海中路901-909号(陕西南路地铁站4号口步行90米)",
+    "startDate": "2026-07-10",
+    "endDate": "2026-09-06",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.436168"
+  },
+  {
     "id": "bilibili_1005005",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
@@ -15,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.221022"
+    "scrapedAt": "2026-09-03T03:11:49.027785"
   },
   {
     "id": "bilibili_1005565",
@@ -33,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.214194"
+    "scrapedAt": "2026-09-03T03:11:49.019539"
   },
   {
     "id": "bilibili_1005186",
@@ -51,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.215033"
+    "scrapedAt": "2026-09-03T03:11:49.020529"
   },
   {
     "id": "bilibili_1005420",
@@ -69,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.215849"
+    "scrapedAt": "2026-09-03T03:11:49.021503"
   },
   {
     "id": "bilibili_1005143",
@@ -87,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.217094"
+    "scrapedAt": "2026-09-03T03:11:49.022952"
   },
   {
     "id": "bilibili_1005515",
@@ -105,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.213716"
+    "scrapedAt": "2026-09-03T03:11:49.018524"
   },
   {
     "id": "bilibili_1005114",
@@ -123,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.214625"
+    "scrapedAt": "2026-09-03T03:11:49.020031"
   },
   {
     "id": "bilibili_1005508",
@@ -141,25 +321,79 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.223786"
+    "scrapedAt": "2026-09-03T03:11:49.034001"
   },
   {
-    "id": "bilibili_1005540",
+    "id": "nyato_31b9f81b7d8270de",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "西安·醉弈秦川 明日方舟only同人展",
+    "category": "同人展",
+    "city": "西安",
+    "venue": "陕西省 西安市 长安区常宁宫园林酒店王曲街道鱼鲍头村甲字1号",
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-25",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.436664"
+  },
+  {
+    "id": "nyato_79abe3bae3b225c4",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "西安·第4届VH动漫展-佳节盛典",
+    "category": "漫展",
+    "city": "西安",
+    "venue": "陕西省 西安市 新城区大华1935会展中心太华南路251号 大华1935会展中心",
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-26",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.437627"
+  },
+  {
+    "id": "weibo_ai_fe1de0316b9773c3",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "福州CP同人展",
+    "category": "同人展",
+    "city": "福州",
+    "venue": "",
+    "startDate": "2026-09-25",
+    "endDate": "2026-09-26",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 0.8500000000000001,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:14:40.168393"
+  },
+  {
+    "id": "bilibili_1005557",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "濮阳·第二届漫有趣异世界主题动漫展",
+    "title": "长春·漫次元帝湾潮玩动漫展",
     "category": "漫展",
-    "city": "濮阳",
+    "city": "长春",
     "venue": "",
     "startDate": "2026-09-26",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005540",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/rp7gjF9l1787885531_1787885531102.png",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005557",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/TVXS6ZKB1787895617_1787895617801.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.226525"
+    "scrapedAt": "2026-09-03T03:11:49.034455"
   },
   {
     "id": "bilibili_1005616",
@@ -177,7 +411,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.227710"
+    "scrapedAt": "2026-09-03T03:11:49.035906"
+  },
+  {
+    "id": "nyato_cbeef3692342fbf4",
+    "sourceType": "ticketing",
+    "sourceName": "nyato",
+    "title": "西安·明日方舟同人only【铳火序曲】",
+    "category": "同人展",
+    "city": "西安",
+    "venue": "陕西省 西安市 灞桥区西安浐灞丝路国际文化艺术中心美术馆金茂一路",
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-26",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "售票中",
+    "confidence": 0.9,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:12:03.437134"
   },
   {
     "id": "bilibili_1005513",
@@ -195,43 +447,61 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.225369"
+    "scrapedAt": "2026-09-03T03:11:49.032107"
   },
   {
-    "id": "bilibili_1005499",
+    "id": "bilibili_1005577",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "鞍山·星云漫研国庆嘉年华",
-    "category": "漫展",
-    "city": "鞍山",
+    "title": "北京·第30届IJOY漫展【郑希个人专场见面会】",
+    "category": "演唱会",
+    "city": "北京",
     "venue": "",
     "startDate": "2026-10-01",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005499",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/AxM0JAfl1788167982_1788167982851.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005577",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/CB9j5KkO1788319453_1788319453774.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.226144"
+    "scrapedAt": "2026-09-03T03:11:49.036869"
   },
   {
-    "id": "bilibili_1005613",
+    "id": "weibo_ai_155dce2713e7164f",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "济南幻樱动漫展",
+    "category": "漫展",
+    "city": "济南",
+    "venue": "山东国际会展中心",
+    "startDate": "2026-10-01",
+    "endDate": null,
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:14:40.169156"
+  },
+  {
+    "id": "bilibili_1005555",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "长治·JX动漫展1.0",
-    "category": "漫展",
-    "city": "长治",
+    "title": "上海·“悠悠长路”重返未来1999同人ONLY茶会",
+    "category": "同人展",
+    "city": "上海",
     "venue": "",
-    "startDate": "2026-10-02",
+    "startDate": "2026-10-03",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005613",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/0V9vJQRU1788165394_1788165394641.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005555",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/B2Mx5ECG1788164859_1788164859799.png",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.228501"
+    "scrapedAt": "2026-09-03T03:11:49.032592"
   },
   {
     "id": "bilibili_1005454",
@@ -249,25 +519,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.223400"
+    "scrapedAt": "2026-09-03T03:11:49.033534"
   },
   {
-    "id": "bilibili_1005501",
+    "id": "bilibili_1005572",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "葫芦岛·TZ动漫嘉年华（喜迎国庆）",
-    "category": "漫展",
-    "city": "葫芦岛",
+    "title": "上海·音乐番同人ONLY6.0",
+    "category": "同人展",
+    "city": "上海",
     "venue": "",
-    "startDate": "2026-10-04",
+    "startDate": "2026-10-03",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005501",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/uAY3bdRa1787925905_1787925905071.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005572",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/v01oSpq61788262788_1788262788434.png",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.222595"
+    "scrapedAt": "2026-09-03T03:11:49.036374"
   },
   {
     "id": "bilibili_1005479",
@@ -285,7 +555,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.222986"
+    "scrapedAt": "2026-09-03T03:11:49.024388"
+  },
+  {
+    "id": "bilibili_1005570",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "聊城·第八届YOGO动漫展",
+    "category": "漫展",
+    "city": "聊城",
+    "venue": "",
+    "startDate": "2026-10-04",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005570",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/CgWjTgq31787991154_1787991154269.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:11:49.028749"
   },
   {
     "id": "bilibili_1005545",
@@ -303,25 +591,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.225745"
+    "scrapedAt": "2026-09-03T03:11:49.030186"
   },
   {
-    "id": "bilibili_1005434",
+    "id": "bilibili_1005501",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "密山·东华黄泉摸金动漫展会",
+    "title": "葫芦岛·TZ动漫嘉年华（喜迎国庆）",
     "category": "漫展",
-    "city": "鸡西",
+    "city": "葫芦岛",
     "venue": "",
     "startDate": "2026-10-04",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005434",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/ZDn2JTKO1787814949_1787814949971.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005501",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/uAY3bdRa1787925905_1787925905071.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.226917"
+    "scrapedAt": "2026-09-03T03:11:49.031149"
   },
   {
     "id": "bilibili_1005524",
@@ -339,7 +627,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.219853"
+    "scrapedAt": "2026-09-03T03:11:49.027289"
   },
   {
     "id": "bilibili_1005526",
@@ -357,7 +645,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.224576"
+    "scrapedAt": "2026-09-03T03:11:49.034946"
   },
   {
     "id": "bilibili_1005456",
@@ -375,7 +663,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.220255"
+    "scrapedAt": "2026-09-03T03:11:49.028251"
   },
   {
     "id": "bilibili_1005477",
@@ -393,7 +681,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.217489"
+    "scrapedAt": "2026-09-03T03:11:49.023421"
   },
   {
     "id": "bilibili_1005478",
@@ -411,7 +699,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.218293"
+    "scrapedAt": "2026-09-03T03:11:49.024884"
   },
   {
     "id": "bilibili_1005432",
@@ -429,6 +717,42 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-02T17:38:30.222209"
+    "scrapedAt": "2026-09-03T03:11:49.031641"
+  },
+  {
+    "id": "bilibili_1005579",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "天津·阴阳师ONLY同人展-拾光共鸣",
+    "category": "同人展",
+    "city": "天津",
+    "venue": "",
+    "startDate": "2026-11-14",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005579",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/aIfnDujg1788327249_1788327249725.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:11:49.033052"
+  },
+  {
+    "id": "weibo_ai_07f1236a57d613f0",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "CP33",
+    "category": "同人展",
+    "city": "上海",
+    "venue": "上海国际会展中心",
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-27",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 0.8500000000000001,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-03T03:14:40.169704"
   }
 ]
