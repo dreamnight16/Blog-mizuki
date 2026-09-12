@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.151678"
+    "scrapedAt": "2026-09-12T08:24:24.147677"
   },
   {
     "id": "bilibili_1005508",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.153588"
+    "scrapedAt": "2026-09-12T08:24:24.149520"
   },
   {
     "id": "bilibili_1005768",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.154539"
+    "scrapedAt": "2026-09-12T08:24:24.150620"
   },
   {
     "id": "bilibili_1005705",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.154997"
+    "scrapedAt": "2026-09-12T08:24:24.151342"
   },
   {
     "id": "bilibili_1005915",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.146864"
+    "scrapedAt": "2026-09-12T08:24:24.144356"
   },
   {
     "id": "bilibili_1006044",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.147333"
+    "scrapedAt": "2026-09-12T08:24:24.144723"
   },
   {
     "id": "bilibili_1005800",
@@ -123,7 +123,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.150720"
+    "scrapedAt": "2026-09-12T08:24:24.146969"
+  },
+  {
+    "id": "bilibili_1005557",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "长春·漫次元帝湾潮玩动漫展",
+    "category": "漫展",
+    "city": "长春",
+    "venue": "",
+    "startDate": "2026-09-26",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005557",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/TVXS6ZKB1787895617_1787895617801.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-12T08:24:24.148444"
   },
   {
     "id": "bilibili_1005616",
@@ -141,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.152628"
+    "scrapedAt": "2026-09-12T08:24:24.148799"
   },
   {
     "id": "bilibili_1005540",
@@ -159,7 +177,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.154053"
+    "scrapedAt": "2026-09-12T08:24:24.149901"
+  },
+  {
+    "id": "bilibili_1005839",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "郑州·2026亦之紫F穿越声线来见你",
+    "category": "其他",
+    "city": "郑州",
+    "venue": "",
+    "startDate": "2026-09-26",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005839",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/38ngBY3v1788787812_1788787812958.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-12T08:24:24.150958"
   },
   {
     "id": "bilibili_1005422",
@@ -177,25 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.156435"
-  },
-  {
-    "id": "bilibili_1005874",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·王者荣耀同人Only·恋语甘风",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-09-27",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005874",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/Z8teymsX1788843707_1788843707517.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.164983"
+    "scrapedAt": "2026-09-12T08:24:24.152063"
   },
   {
     "id": "bilibili_1006031",
@@ -213,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.161643"
+    "scrapedAt": "2026-09-12T08:24:24.155665"
   },
   {
     "id": "bilibili_1005912",
@@ -231,7 +249,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.163066"
+    "scrapedAt": "2026-09-12T08:24:24.156375"
+  },
+  {
+    "id": "bilibili_1006042",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "深圳·次元茶话会-桌游主题",
+    "category": "其他",
+    "city": "深圳",
+    "venue": "",
+    "startDate": "2026-10-04",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006042",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/ofXIWHeo1788940171_1788940171947.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-12T08:24:24.158594"
   },
   {
     "id": "bilibili_1005967",
@@ -249,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.158326"
+    "scrapedAt": "2026-09-12T08:24:24.153096"
   },
   {
     "id": "bilibili_1005997",
@@ -267,25 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.158817"
-  },
-  {
-    "id": "bilibili_1005875",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·赛马娘同人only·心驰凯旋",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-10-06",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005875",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/wGDt5Izn1788519572_1788519572760.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.157865"
+    "scrapedAt": "2026-09-12T08:24:24.153488"
   },
   {
     "id": "bilibili_1005905",
@@ -303,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.160219"
+    "scrapedAt": "2026-09-12T08:24:24.154563"
   },
   {
     "id": "bilibili_1005911",
@@ -321,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.161157"
+    "scrapedAt": "2026-09-12T08:24:24.155296"
   },
   {
     "id": "bilibili_1005913",
@@ -339,7 +357,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.160702"
+    "scrapedAt": "2026-09-12T08:24:24.154900"
+  },
+  {
+    "id": "bilibili_1006024",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "南京·守望先锋Only同人",
+    "category": "同人展",
+    "city": "南京",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006024",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/MdnhoXXy1789005438_1789005438593.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-12T08:24:24.157847"
   },
   {
     "id": "bilibili_1005948",
@@ -357,25 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.156903"
-  },
-  {
-    "id": "bilibili_1005883",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "深圳·果动映像次元漫展2.0",
-    "category": "漫展",
-    "city": "深圳",
-    "venue": "",
-    "startDate": "2026-10-18",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005883",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/xrvMiIP01788578508_1788578508351.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.162108"
+    "scrapedAt": "2026-09-12T08:24:24.152762"
   },
   {
     "id": "bilibili_1005943",
@@ -393,25 +411,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.164019"
+    "scrapedAt": "2026-09-12T08:24:24.157088"
   },
   {
-    "id": "bilibili_1005871",
+    "id": "bilibili_1006043",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "南京·锦风绣韵·声溯金陵【日场】",
-    "category": "其他",
-    "city": "南京",
+    "title": "广州·月亮计划only同人·coffee-感恩节主题感恩之宴",
+    "category": "同人展",
+    "city": "广州",
     "venue": "",
-    "startDate": "2026-11-07",
+    "startDate": "2026-11-28",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005871",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/9ixXWJly1788758262_1788758262712.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006043",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/1vciPPo01789111156_1789111156422.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.157391"
+    "scrapedAt": "2026-09-12T08:24:24.158193"
   },
   {
     "id": "bilibili_1006001",
@@ -429,6 +447,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-12T03:22:26.164513"
+    "scrapedAt": "2026-09-12T08:24:24.157488"
   }
 ]
