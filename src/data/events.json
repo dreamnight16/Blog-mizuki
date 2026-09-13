@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.430301"
+    "scrapedAt": "2026-09-13T14:05:48.945922"
   },
   {
     "id": "bilibili_1005508",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.434584"
+    "scrapedAt": "2026-09-13T14:05:48.950716"
   },
   {
     "id": "bilibili_1005768",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.434967"
+    "scrapedAt": "2026-09-13T14:05:48.951206"
   },
   {
     "id": "bilibili_1005705",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.435372"
+    "scrapedAt": "2026-09-13T14:05:48.951667"
   },
   {
     "id": "bilibili_1006044",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.426211"
+    "scrapedAt": "2026-09-13T14:05:48.940589"
   },
   {
     "id": "bilibili_1005839",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.428724"
+    "scrapedAt": "2026-09-13T14:05:48.943521"
   },
   {
     "id": "bilibili_1005422",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.429112"
+    "scrapedAt": "2026-09-13T14:05:48.943985"
   },
   {
     "id": "bilibili_1005800",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.429903"
+    "scrapedAt": "2026-09-13T14:05:48.945454"
   },
   {
     "id": "bilibili_1005915",
@@ -159,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.431084"
+    "scrapedAt": "2026-09-13T14:05:48.946887"
   },
   {
     "id": "bilibili_1005557",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.431870"
+    "scrapedAt": "2026-09-13T14:05:48.947844"
   },
   {
     "id": "bilibili_1005616",
@@ -195,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.432265"
+    "scrapedAt": "2026-09-13T14:05:48.948340"
   },
   {
     "id": "bilibili_1005540",
@@ -213,25 +213,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.433420"
+    "scrapedAt": "2026-09-13T14:05:48.949765"
   },
   {
-    "id": "bilibili_1005549",
+    "id": "bilibili_1005786",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "天津·绝区零同人only展及南宫羽生日会",
+    "title": "上海·BanGDream only同人#6 SP",
     "category": "同人展",
-    "city": "天津",
+    "city": "上海",
     "venue": "",
     "startDate": "2026-09-27",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005549",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/RSZ7TU7S1788230473_1788230473511.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005786",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/k8pdA0mE1788749849_1788749849191.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.433024"
+    "scrapedAt": "2026-09-13T14:05:48.943046"
   },
   {
     "id": "bilibili_1005421",
@@ -249,7 +249,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.434180"
+    "scrapedAt": "2026-09-13T14:05:48.944959"
+  },
+  {
+    "id": "bilibili_1005549",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "天津·绝区零同人only展及南宫羽生日会",
+    "category": "同人展",
+    "city": "天津",
+    "venue": "",
+    "startDate": "2026-09-27",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005549",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/RSZ7TU7S1788230473_1788230473511.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-13T14:05:48.949302"
   },
   {
     "id": "bilibili_1005874",
@@ -267,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.436158"
+    "scrapedAt": "2026-09-13T14:05:48.952618"
   },
   {
     "id": "bilibili_1006031",
@@ -285,7 +303,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.438935"
+    "scrapedAt": "2026-09-13T14:05:48.954054"
+  },
+  {
+    "id": "bilibili_1005581",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "杭州·第三届IAGF·广播剧《绰约》专场票（需单独购买门票）",
+    "category": "其他",
+    "city": "杭州",
+    "venue": "",
+    "startDate": "2026-10-02",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005581",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/lkblfNSU1788331462_1788331462736.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-13T14:05:48.957406"
   },
   {
     "id": "bilibili_1006036",
@@ -303,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.439338"
+    "scrapedAt": "2026-09-13T14:05:48.954528"
   },
   {
     "id": "bilibili_1006042",
@@ -321,43 +357,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.440509"
+    "scrapedAt": "2026-09-13T14:05:48.955481"
   },
   {
-    "id": "bilibili_1005967",
+    "id": "bilibili_1006041",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "新疆·NO8.初稚动漫游戏展",
-    "category": "漫展",
-    "city": "阿克苏地区",
-    "venue": "",
-    "startDate": "2026-10-05",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005967",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/VkscVfJu1788949471_1788949471664.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.437382"
-  },
-  {
-    "id": "bilibili_1005997",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "武汉·明日方舟&BanGDream同人ONLY展～予我新生",
+    "title": "深圳·弹丸论破&百日战纪ONLY同人茶话会",
     "category": "同人展",
-    "city": "武汉",
+    "city": "深圳",
     "venue": "",
-    "startDate": "2026-10-05",
+    "startDate": "2026-10-06",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005997",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/n18oH1NC1789029364_1789029364138.png",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006041",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/MGV7yned1789026063_1789026063706.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.437775"
+    "scrapedAt": "2026-09-13T14:05:48.956440"
   },
   {
     "id": "bilibili_1006024",
@@ -375,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.438564"
+    "scrapedAt": "2026-09-13T14:05:48.953572"
   },
   {
     "id": "bilibili_1006017",
@@ -393,43 +411,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.440103"
+    "scrapedAt": "2026-09-13T14:05:48.954991"
   },
   {
-    "id": "bilibili_1005948",
+    "id": "bilibili_1005477",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "广州·卡拉彼丘同人ONLY·S1",
+    "title": "南京·MAX特摄同人only4.0",
     "category": "同人展",
-    "city": "广州",
-    "venue": "",
-    "startDate": "2026-10-18",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005948",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/67m4oeSz1789026784_1789026784402.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.436588"
-  },
-  {
-    "id": "bilibili_1005943",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "长沙·潮汐国漫only同人",
-    "category": "同人展",
-    "city": "长沙",
+    "city": "南京",
     "venue": "",
     "startDate": "2026-10-24",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005943",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/ZW6woFob1789002826_1789002826531.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005477",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/vaxXUmTU1787915346_1787915346266.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.441689"
+    "scrapedAt": "2026-09-13T14:05:48.958845"
   },
   {
     "id": "bilibili_1006043",
@@ -447,7 +447,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.436976"
+    "scrapedAt": "2026-09-13T14:05:48.953106"
+  },
+  {
+    "id": "bilibili_1005461",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "香港·藤本洸大粉絲見面會",
+    "category": "其他",
+    "city": "九龙城区",
+    "venue": "",
+    "startDate": "2026-12-05",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005461",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/O9kdmxm51788150949_1788150949254.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-13T14:05:48.959343"
   },
   {
     "id": "bilibili_1006001",
@@ -465,6 +483,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-13T03:27:54.440901"
+    "scrapedAt": "2026-09-13T14:05:48.955947"
   }
 ]
