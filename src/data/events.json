@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.443278"
+    "scrapedAt": "2026-09-15T03:39:26.098107"
   },
   {
     "id": "bilibili_1005768",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.448152"
+    "scrapedAt": "2026-09-15T03:39:26.101906"
   },
   {
     "id": "bilibili_1005508",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.449116"
+    "scrapedAt": "2026-09-15T03:39:26.102366"
   },
   {
     "id": "bilibili_1005705",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.450101"
+    "scrapedAt": "2026-09-15T03:39:26.103766"
   },
   {
     "id": "bilibili_1005839",
@@ -87,25 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.441854"
-  },
-  {
-    "id": "bilibili_1005800",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "宜春·静卿2026中秋国风动漫文化汉文化展",
-    "category": "漫展",
-    "city": "宜春",
-    "venue": "",
-    "startDate": "2026-09-26",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005800",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/hsBngc3v1788501994_1788501994421.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.442814"
+    "scrapedAt": "2026-09-15T03:39:26.095718"
   },
   {
     "id": "bilibili_1006044",
@@ -123,7 +105,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.444258"
+    "scrapedAt": "2026-09-15T03:39:26.096665"
+  },
+  {
+    "id": "bilibili_1005800",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "宜春·静卿2026中秋国风动漫文化汉文化展",
+    "category": "漫展",
+    "city": "宜春",
+    "venue": "",
+    "startDate": "2026-09-26",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005800",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/hsBngc3v1788501994_1788501994421.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-15T03:39:26.097154"
   },
   {
     "id": "bilibili_1005915",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.444766"
+    "scrapedAt": "2026-09-15T03:39:26.098568"
   },
   {
     "id": "bilibili_1005557",
@@ -159,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.445246"
+    "scrapedAt": "2026-09-15T03:39:26.099998"
   },
   {
     "id": "bilibili_1005616",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.446233"
+    "scrapedAt": "2026-09-15T03:39:26.100949"
   },
   {
     "id": "bilibili_1005540",
@@ -195,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.447689"
+    "scrapedAt": "2026-09-15T03:39:26.101415"
   },
   {
     "id": "bilibili_1005786",
@@ -213,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.441381"
+    "scrapedAt": "2026-09-15T03:39:26.095259"
   },
   {
     "id": "bilibili_1005549",
@@ -231,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.447194"
+    "scrapedAt": "2026-09-15T03:39:26.099512"
   },
   {
     "id": "bilibili_1005874",
@@ -249,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.450623"
+    "scrapedAt": "2026-09-15T03:39:26.104254"
   },
   {
     "id": "bilibili_1005581",
@@ -267,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.455951"
+    "scrapedAt": "2026-09-15T03:39:26.109471"
   },
   {
     "id": "bilibili_1006088",
@@ -285,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.452070"
+    "scrapedAt": "2026-09-15T03:39:26.107105"
   },
   {
     "id": "bilibili_1006048",
@@ -303,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.454515"
+    "scrapedAt": "2026-09-15T03:39:26.106160"
   },
   {
     "id": "bilibili_1006089",
@@ -321,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.451599"
+    "scrapedAt": "2026-09-15T03:39:26.107567"
   },
   {
     "id": "bilibili_1005672",
@@ -339,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.457425"
+    "scrapedAt": "2026-09-15T03:39:26.111369"
   },
   {
     "id": "bilibili_1005477",
@@ -357,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.456925"
+    "scrapedAt": "2026-09-15T03:39:26.110905"
   },
   {
     "id": "bilibili_1006079",
@@ -375,13 +375,13 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.452571"
+    "scrapedAt": "2026-09-15T03:39:26.104714"
   },
   {
     "id": "bilibili_1006091",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "深圳·穹屿第三届吃席漫展(88元炫十三道菜！万平古庄！)",
+    "title": "深圳·穹屿第三届吃席漫展(88元炫十三道菜！管饱！万平古庄！)",
     "category": "漫展",
     "city": "深圳",
     "venue": "",
@@ -393,25 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.451106"
-  },
-  {
-    "id": "bilibili_1005461",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "香港·藤本洸大粉絲見面會",
-    "category": "其他",
-    "city": "九龙城区",
-    "venue": "",
-    "startDate": "2026-12-05",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005461",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/O9kdmxm51788150949_1788150949254.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.457894"
+    "scrapedAt": "2026-09-15T03:39:26.105202"
   },
   {
     "id": "bilibili_1006075",
@@ -429,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.453046"
+    "scrapedAt": "2026-09-15T03:39:26.105666"
   },
   {
     "id": "bilibili_1006050",
@@ -447,6 +429,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-14T16:11:22.454019"
+    "scrapedAt": "2026-09-15T03:39:26.108055"
   }
 ]
