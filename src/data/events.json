@@ -1,5 +1,23 @@
 [
   {
+    "id": "bilibili_1006131",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "杭州·千绘次元摄影会第三届",
+    "category": "其他",
+    "city": "杭州",
+    "venue": "",
+    "startDate": "2026-09-19",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006131",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/PTHbMNpq1789099910_1789099910787.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-15T09:14:21.027067"
+  },
+  {
     "id": "bilibili_1005832",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
@@ -15,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.098107"
+    "scrapedAt": "2026-09-15T09:14:21.031394"
   },
   {
     "id": "bilibili_1005768",
@@ -33,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.101906"
+    "scrapedAt": "2026-09-15T09:14:21.034279"
   },
   {
     "id": "bilibili_1005508",
@@ -51,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.102366"
+    "scrapedAt": "2026-09-15T09:14:21.034638"
   },
   {
     "id": "bilibili_1005705",
@@ -69,7 +87,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.103766"
+    "scrapedAt": "2026-09-15T09:14:21.035709"
+  },
+  {
+    "id": "bilibili_1006101",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "佳木斯·闪耀恒星动漫节",
+    "category": "漫展",
+    "city": "佳木斯",
+    "venue": "",
+    "startDate": "2026-09-26",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006101",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/LnL5jNnl1789378936_1789378936886.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-15T09:14:21.027421"
   },
   {
     "id": "bilibili_1005839",
@@ -87,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.095718"
+    "scrapedAt": "2026-09-15T09:14:21.029607"
   },
   {
     "id": "bilibili_1006044",
@@ -105,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.096665"
+    "scrapedAt": "2026-09-15T09:14:21.030337"
   },
   {
     "id": "bilibili_1005800",
@@ -123,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.097154"
+    "scrapedAt": "2026-09-15T09:14:21.030707"
   },
   {
     "id": "bilibili_1005915",
@@ -141,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.098568"
+    "scrapedAt": "2026-09-15T09:14:21.031773"
   },
   {
     "id": "bilibili_1005557",
@@ -159,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.099998"
+    "scrapedAt": "2026-09-15T09:14:21.032853"
   },
   {
     "id": "bilibili_1005616",
@@ -177,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.100949"
+    "scrapedAt": "2026-09-15T09:14:21.033533"
   },
   {
     "id": "bilibili_1005540",
@@ -195,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.101415"
+    "scrapedAt": "2026-09-15T09:14:21.033920"
   },
   {
     "id": "bilibili_1005786",
@@ -213,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.095259"
+    "scrapedAt": "2026-09-15T09:14:21.029242"
   },
   {
     "id": "bilibili_1005549",
@@ -231,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.099512"
+    "scrapedAt": "2026-09-15T09:14:21.032492"
   },
   {
     "id": "bilibili_1005874",
@@ -249,25 +285,97 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.104254"
+    "scrapedAt": "2026-09-15T09:14:21.036068"
   },
   {
-    "id": "bilibili_1005581",
+    "id": "weibo_ai_4501d69cc66062da",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "济南幻樱动漫游戏嘉年华",
+    "category": "漫展",
+    "city": "济南",
+    "venue": "山东国际会展中心",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-02",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-15T09:15:44.253824"
+  },
+  {
+    "id": "weibo_ai_4e99585aa355f669",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "武汉梦乡动漫展",
+    "category": "漫展",
+    "city": "武汉",
+    "venue": "武汉国际博览中心",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-02",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-15T09:15:44.254190"
+  },
+  {
+    "id": "weibo_ai_e465fbbbebb3f31f",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "成都世界线动漫展",
+    "category": "漫展",
+    "city": "成都",
+    "venue": "中国西部国际博览城",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-04",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-15T09:15:44.254563"
+  },
+  {
+    "id": "weibo_ai_3b0072ca57848657",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "IAGF国际动漫周边展",
+    "category": "展览",
+    "city": "杭州",
+    "venue": "杭州国际博览中心二期",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-02",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-15T09:15:44.254911"
+  },
+  {
+    "id": "bilibili_1006132",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "杭州·第三届IAGF·广播剧《绰约》专场票（需单独购买门票）",
-    "category": "其他",
-    "city": "杭州",
+    "title": "巴中·CL动漫游戏展国庆次元盛典",
+    "category": "漫展",
+    "city": "巴中",
     "venue": "",
     "startDate": "2026-10-02",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005581",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/lkblfNSU1788331462_1788331462736.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006132",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/yaDvqWCy1789310086_1789310086147.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.109471"
+    "scrapedAt": "2026-09-15T09:14:21.038878"
   },
   {
     "id": "bilibili_1006088",
@@ -285,7 +393,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.107105"
+    "scrapedAt": "2026-09-15T09:14:21.038184"
+  },
+  {
+    "id": "bilibili_1006133",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "恩阳·CL次元漫游记",
+    "category": "其他",
+    "city": "巴中",
+    "venue": "",
+    "startDate": "2026-10-03",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006133",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/2p54l65C1789309875_1789309875735.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-15T09:14:21.038535"
   },
   {
     "id": "bilibili_1006048",
@@ -303,7 +429,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.106160"
+    "scrapedAt": "2026-09-15T09:14:21.037437"
+  },
+  {
+    "id": "bilibili_1006111",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "厦门·首届正太同人only",
+    "category": "同人展",
+    "city": "厦门",
+    "venue": "",
+    "startDate": "2026-10-04",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006111",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/WI8S3WPm1789381362_1789381362896.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-15T09:14:21.039973"
   },
   {
     "id": "bilibili_1006089",
@@ -321,43 +465,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.107567"
-  },
-  {
-    "id": "bilibili_1005672",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·BanG Dream！同人ONLY#7",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-10-05",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005672",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/i1n5YIXP1788426258_1788426258671.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.111369"
-  },
-  {
-    "id": "bilibili_1005477",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "南京·MAX特摄同人only4.0",
-    "category": "同人展",
-    "city": "南京",
-    "venue": "",
-    "startDate": "2026-10-24",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005477",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/vaxXUmTU1787915346_1787915346266.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.110905"
+    "scrapedAt": "2026-09-15T09:14:21.040316"
   },
   {
     "id": "bilibili_1006079",
@@ -375,7 +483,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.104714"
+    "scrapedAt": "2026-09-15T09:14:21.036414"
   },
   {
     "id": "bilibili_1006091",
@@ -393,7 +501,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.105202"
+    "scrapedAt": "2026-09-15T09:14:21.036770"
+  },
+  {
+    "id": "bilibili_1006114",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "广州· 祈Inory 2026个人巡演「祈航的风」 律动狂潮此声唯一系列",
+    "category": "其他",
+    "city": "广州",
+    "venue": "",
+    "startDate": "2026-11-08",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006114",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/zvjuX4IY1789378977_1789378977993.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-15T09:14:21.039617"
   },
   {
     "id": "bilibili_1006075",
@@ -411,7 +537,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.105666"
+    "scrapedAt": "2026-09-15T09:14:21.037107"
   },
   {
     "id": "bilibili_1006050",
@@ -429,6 +555,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-15T03:39:26.108055"
+    "scrapedAt": "2026-09-15T09:14:21.040670"
   }
 ]
