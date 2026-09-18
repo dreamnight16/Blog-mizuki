@@ -1,5 +1,41 @@
 [
   {
+    "id": "bilibili_1006090",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·世界花山奇计划 2026",
+    "category": "其他",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-09-19",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006090",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/TEZddR7O1789329633_1789329633113.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-18T13:25:40.951459"
+  },
+  {
+    "id": "bilibili_1005832",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·次元派对·无尽组合",
+    "category": "其他",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-09-19",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005832",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/QHvvKq081788669904_1788669904642.png",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-18T13:25:40.954669"
+  },
+  {
     "id": "bilibili_1006131",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
@@ -15,7 +51,7 @@
     "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.063826"
+    "scrapedAt": "2026-09-18T13:25:40.964039"
   },
   {
     "id": "bilibili_1006109",
@@ -33,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.056471"
+    "scrapedAt": "2026-09-18T13:25:40.949184"
   },
   {
     "id": "bilibili_1005768",
@@ -51,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.062419"
+    "scrapedAt": "2026-09-18T13:25:40.960947"
   },
   {
     "id": "bilibili_1005705",
@@ -69,25 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.064098"
-  },
-  {
-    "id": "bilibili_1006214",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "重庆·月满中秋  次元集结",
-    "category": "其他",
-    "city": "重庆",
-    "venue": "",
-    "startDate": "2026-09-26",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006214",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/2Wg6YMKs1789581616_1789581616945.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.057132"
+    "scrapedAt": "2026-09-18T13:25:40.964481"
   },
   {
     "id": "bilibili_1005839",
@@ -105,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.058169"
+    "scrapedAt": "2026-09-18T13:25:40.952380"
   },
   {
     "id": "bilibili_1006044",
@@ -123,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.058986"
+    "scrapedAt": "2026-09-18T13:25:40.954205"
   },
   {
     "id": "bilibili_1005800",
@@ -141,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.059984"
+    "scrapedAt": "2026-09-18T13:25:40.956455"
   },
   {
     "id": "bilibili_1005915",
@@ -159,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.061197"
+    "scrapedAt": "2026-09-18T13:25:40.958264"
   },
   {
     "id": "bilibili_1005616",
@@ -177,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.061398"
+    "scrapedAt": "2026-09-18T13:25:40.958740"
   },
   {
     "id": "bilibili_1006101",
@@ -195,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.063630"
+    "scrapedAt": "2026-09-18T13:25:40.963609"
   },
   {
     "id": "bilibili_1005786",
@@ -213,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.057964"
+    "scrapedAt": "2026-09-18T13:25:40.951917"
   },
   {
     "id": "bilibili_1005874",
@@ -231,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.064704"
+    "scrapedAt": "2026-09-18T13:25:40.965400"
   },
   {
     "id": "bilibili_1005801",
@@ -249,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.059379"
+    "scrapedAt": "2026-09-18T13:25:40.955128"
   },
   {
     "id": "bilibili_1005695",
@@ -267,25 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.059574"
-  },
-  {
-    "id": "bilibili_1005591",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "邳州·第三届幻璃国潮动漫展-秋日物语",
-    "category": "漫展",
-    "city": "徐州",
-    "venue": "",
-    "startDate": "2026-10-01",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005591",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/3VWxyu1K1788160564_1788160564605.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.060770"
+    "scrapedAt": "2026-09-18T13:25:40.955578"
   },
   {
     "id": "bilibili_1006031",
@@ -303,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.061596"
+    "scrapedAt": "2026-09-18T13:25:40.959208"
   },
   {
     "id": "bilibili_1005824",
@@ -321,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.061792"
+    "scrapedAt": "2026-09-18T13:25:40.959649"
   },
   {
     "id": "bilibili_1005698",
@@ -339,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.057542"
+    "scrapedAt": "2026-09-18T13:25:40.950990"
   },
   {
     "id": "bilibili_1005634",
@@ -357,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.058570"
+    "scrapedAt": "2026-09-18T13:25:40.953269"
   },
   {
     "id": "bilibili_1005757",
@@ -375,25 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.058769"
-  },
-  {
-    "id": "bilibili_1005589",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "杭州·第三届IAGF·卢力峰DK 专场票（需单独购买门票）",
-    "category": "其他",
-    "city": "杭州",
-    "venue": "",
-    "startDate": "2026-10-02",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005589",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/rQixlYmq1788333200_1788333200704.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.060576"
+    "scrapedAt": "2026-09-18T13:25:40.953695"
   },
   {
     "id": "bilibili_1005861",
@@ -411,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.062221"
+    "scrapedAt": "2026-09-18T13:25:40.960528"
   },
   {
     "id": "bilibili_1005912",
@@ -429,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.063038"
+    "scrapedAt": "2026-09-18T13:25:40.962304"
   },
   {
     "id": "bilibili_1005613",
@@ -447,6 +429,42 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-18T08:48:40.063433"
+    "scrapedAt": "2026-09-18T13:25:40.963182"
+  },
+  {
+    "id": "bilibili_1006132",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "巴中·CL动漫游戏展国庆次元盛典",
+    "category": "漫展",
+    "city": "巴中",
+    "venue": "",
+    "startDate": "2026-10-02",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006132",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/yaDvqWCy1789310086_1789310086147.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-18T13:25:40.965839"
+  },
+  {
+    "id": "bilibili_1006168",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·YorushikaxVaundy歌合战·双厨狂喜派对",
+    "category": "其他",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-10-07",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006168",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/7pFgU3DM1789499196_1789499196379.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-18T13:25:40.966762"
   }
 ]
