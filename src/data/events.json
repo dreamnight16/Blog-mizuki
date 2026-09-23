@@ -15,25 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.284675"
-  },
-  {
-    "id": "bilibili_1005839",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "郑州·2026亦之紫F穿越声线来见你",
-    "category": "其他",
-    "city": "郑州",
-    "venue": "",
-    "startDate": "2026-09-26",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005839",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/38ngBY3v1788787812_1788787812958.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.290423"
+    "scrapedAt": "2026-09-23T09:07:25.118501"
   },
   {
     "id": "bilibili_1006072",
@@ -51,25 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.291442"
-  },
-  {
-    "id": "bilibili_1005800",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "宜春·静卿2026中秋国风动漫文化汉文化展",
-    "category": "漫展",
-    "city": "宜春",
-    "venue": "",
-    "startDate": "2026-09-26",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005800",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/hsBngc3v1788501994_1788501994421.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.295544"
+    "scrapedAt": "2026-09-23T09:07:25.124872"
   },
   {
     "id": "bilibili_1005786",
@@ -87,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.285200"
+    "scrapedAt": "2026-09-23T09:07:25.118985"
   },
   {
     "id": "bilibili_1006341",
@@ -105,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.276505"
+    "scrapedAt": "2026-09-23T09:07:25.110363"
   },
   {
     "id": "bilibili_1006397",
@@ -123,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.279462"
+    "scrapedAt": "2026-09-23T09:07:25.113530"
   },
   {
     "id": "bilibili_1005818",
@@ -141,7 +105,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.283199"
+    "scrapedAt": "2026-09-23T09:07:25.116946"
+  },
+  {
+    "id": "bilibili_1005801",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "宜春·静卿2026国庆动漫盛典",
+    "category": "漫展",
+    "city": "宜春",
+    "venue": "",
+    "startDate": "2026-10-01",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005801",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/X2Pi7usS1788737966_1788737966449.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-23T09:07:25.129289"
   },
   {
     "id": "bilibili_1006333",
@@ -159,25 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.276993"
-  },
-  {
-    "id": "bilibili_1005698",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "广州·LoveLive！学园偶像纪3.0同人ONLY",
-    "category": "同人展",
-    "city": "广州",
-    "venue": "",
-    "startDate": "2026-10-02",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005698",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/UkZMp7d21788428944_1788428944860.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.286229"
+    "scrapedAt": "2026-09-23T09:07:25.110896"
   },
   {
     "id": "bilibili_1005757",
@@ -195,25 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.291943"
-  },
-  {
-    "id": "bilibili_1006297",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "保定·10.3INF预热展",
-    "category": "其他",
-    "city": "保定",
-    "venue": "",
-    "startDate": "2026-10-03",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006297",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/WGdnKYZ91789649492_1789649492962.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.276007"
+    "scrapedAt": "2026-09-23T09:07:25.125377"
   },
   {
     "id": "bilibili_1006322",
@@ -231,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.277965"
+    "scrapedAt": "2026-09-23T09:07:25.111975"
   },
   {
     "id": "bilibili_1005737",
@@ -249,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.283680"
+    "scrapedAt": "2026-09-23T09:07:25.117487"
   },
   {
     "id": "bilibili_1006265",
@@ -267,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.290922"
+    "scrapedAt": "2026-09-23T09:07:25.124401"
   },
   {
     "id": "bilibili_1006385",
@@ -285,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.277496"
+    "scrapedAt": "2026-09-23T09:07:25.111455"
   },
   {
     "id": "bilibili_1006111",
@@ -303,7 +249,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.292958"
+    "scrapedAt": "2026-09-23T09:07:25.126364"
+  },
+  {
+    "id": "bilibili_1006235",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·keykey甜星幻梦生日会",
+    "category": "其他",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-10-04",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006235",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/zIj75l4D1789631637_1789631637224.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-23T09:07:25.129760"
   },
   {
     "id": "bilibili_1006323",
@@ -321,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.278496"
+    "scrapedAt": "2026-09-23T09:07:25.112510"
   },
   {
     "id": "bilibili_1005831",
@@ -339,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.284177"
+    "scrapedAt": "2026-09-23T09:07:25.117976"
   },
   {
     "id": "bilibili_1005997",
@@ -357,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.288874"
+    "scrapedAt": "2026-09-23T09:07:25.122441"
   },
   {
     "id": "bilibili_1005715",
@@ -375,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.292465"
+    "scrapedAt": "2026-09-23T09:07:25.125862"
   },
   {
     "id": "bilibili_1005967",
@@ -393,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.293994"
+    "scrapedAt": "2026-09-23T09:07:25.127339"
   },
   {
     "id": "bilibili_1005805",
@@ -411,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.286788"
+    "scrapedAt": "2026-09-23T09:07:25.119492"
   },
   {
     "id": "bilibili_1005799",
@@ -429,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.287845"
+    "scrapedAt": "2026-09-23T09:07:25.121461"
   },
   {
     "id": "bilibili_1005875",
@@ -447,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.289394"
+    "scrapedAt": "2026-09-23T09:07:25.122916"
   },
   {
     "id": "bilibili_1005905",
@@ -465,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.293498"
+    "scrapedAt": "2026-09-23T09:07:25.126839"
   },
   {
     "id": "bilibili_1005700",
@@ -483,6 +447,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-23T03:34:23.288372"
+    "scrapedAt": "2026-09-23T09:07:25.121935"
   }
 ]
