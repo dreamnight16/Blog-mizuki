@@ -15,25 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.967666"
-  },
-  {
-    "id": "bilibili_1005786",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·BanGDream only同人#6 SP",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-09-27",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005786",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/k8pdA0mE1788749849_1788749849191.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.967962"
+    "scrapedAt": "2026-09-24T09:02:28.409088"
   },
   {
     "id": "bilibili_1006341",
@@ -51,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.963527"
+    "scrapedAt": "2026-09-24T09:02:28.403738"
   },
   {
     "id": "bilibili_1006397",
@@ -69,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.964404"
+    "scrapedAt": "2026-09-24T09:02:28.404697"
   },
   {
     "id": "bilibili_1005818",
@@ -87,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.966754"
+    "scrapedAt": "2026-09-24T09:02:28.408050"
   },
   {
     "id": "bilibili_1005801",
@@ -105,25 +87,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.973629"
+    "scrapedAt": "2026-09-24T09:02:28.418162"
   },
   {
-    "id": "bilibili_1006333",
+    "id": "bilibili_1006413",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "黑河·晴空语漫展",
+    "title": "保山·10月2日华光绮梦·国风动漫展",
     "category": "漫展",
-    "city": "黑河",
+    "city": "保山",
     "venue": "",
     "startDate": "2026-10-02",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006333",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/HaeGuzal1789902916_1789902916680.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006413",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/dkAvA9lX1790153829_1790153829890.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.963818"
+    "scrapedAt": "2026-09-24T09:02:28.405652"
   },
   {
     "id": "bilibili_1005757",
@@ -141,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.971284"
+    "scrapedAt": "2026-09-24T09:02:28.414859"
   },
   {
     "id": "bilibili_1005737",
@@ -159,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.967064"
+    "scrapedAt": "2026-09-24T09:02:28.411987"
   },
   {
     "id": "bilibili_1006265",
@@ -177,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.970385"
+    "scrapedAt": "2026-09-24T09:02:28.413433"
   },
   {
     "id": "bilibili_1006385",
@@ -195,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.963226"
+    "scrapedAt": "2026-09-24T09:02:28.403236"
   },
   {
     "id": "bilibili_1006111",
@@ -213,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.971856"
+    "scrapedAt": "2026-09-24T09:02:28.415340"
   },
   {
     "id": "bilibili_1006235",
@@ -231,25 +213,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.973922"
+    "scrapedAt": "2026-09-24T09:02:28.418652"
   },
   {
-    "id": "bilibili_1006323",
+    "id": "bilibili_1006048",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "昆明·胜利女神NIKKE主题摄影会",
-    "category": "其他",
-    "city": "昆明",
+    "title": "阿拉尔·破晓第三届漫展",
+    "category": "漫展",
+    "city": "阿拉尔",
     "venue": "",
-    "startDate": "2026-10-05",
+    "startDate": "2026-10-04",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006323",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/CQ4oERgA1789908364_1789908364899.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006048",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/Q75YDnJt1789357081_1789357081084.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.964685"
+    "scrapedAt": "2026-09-24T09:02:28.420079"
   },
   {
     "id": "bilibili_1006361",
@@ -267,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.964968"
+    "scrapedAt": "2026-09-24T09:02:28.405162"
   },
   {
     "id": "bilibili_1005831",
@@ -285,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.967374"
+    "scrapedAt": "2026-09-24T09:02:28.408607"
   },
   {
     "id": "bilibili_1005997",
@@ -303,25 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.969482"
-  },
-  {
-    "id": "bilibili_1005715",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "广州·M2U 20TH FANS PARTY 粉丝派对",
-    "category": "其他",
-    "city": "广州",
-    "venue": "",
-    "startDate": "2026-10-05",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005715",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/OHp5ARPl1788432914_1788432914687.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.971572"
+    "scrapedAt": "2026-09-24T09:02:28.412480"
   },
   {
     "id": "bilibili_1005967",
@@ -339,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.972732"
+    "scrapedAt": "2026-09-24T09:02:28.416759"
   },
   {
     "id": "bilibili_1005805",
@@ -357,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.968870"
+    "scrapedAt": "2026-09-24T09:02:28.410553"
   },
   {
     "id": "bilibili_1005799",
@@ -375,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.969185"
+    "scrapedAt": "2026-09-24T09:02:28.411020"
   },
   {
     "id": "bilibili_1005875",
@@ -393,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.969774"
+    "scrapedAt": "2026-09-24T09:02:28.412941"
   },
   {
     "id": "bilibili_1005905",
@@ -411,6 +375,42 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T03:24:55.972443"
+    "scrapedAt": "2026-09-24T09:02:28.416272"
+  },
+  {
+    "id": "bilibili_1006264",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·【幻想茶会】疯帽子茶会×幻想诗篇合同LIVE with东方Project Festival Zero【东方LivePartySP】",
+    "category": "演唱会",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-10-06",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006264",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/Tnn3EWvd1789633000_1789633000863.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-24T09:02:28.419119"
+  },
+  {
+    "id": "bilibili_1006241",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·东方Project Festival Zero only同人",
+    "category": "同人展",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-10-06",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006241",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/HwFqFHMJ1789143871_1789143871185.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-24T09:02:28.419614"
   }
 ]
