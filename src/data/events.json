@@ -15,25 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.409088"
-  },
-  {
-    "id": "bilibili_1006341",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "潍坊·swg动漫同好会",
-    "category": "漫展",
-    "city": "潍坊",
-    "venue": "",
-    "startDate": "2026-10-01",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006341",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/Q2rltUEn1789976585_1789976585418.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.403738"
+    "scrapedAt": "2026-09-24T14:39:39.019385"
   },
   {
     "id": "bilibili_1006397",
@@ -51,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.404697"
+    "scrapedAt": "2026-09-24T14:39:39.015397"
   },
   {
     "id": "bilibili_1005818",
@@ -69,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.408050"
+    "scrapedAt": "2026-09-24T14:39:39.018585"
   },
   {
     "id": "bilibili_1005801",
@@ -87,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.418162"
+    "scrapedAt": "2026-09-24T14:39:39.026994"
   },
   {
     "id": "bilibili_1006413",
@@ -105,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.405652"
+    "scrapedAt": "2026-09-24T14:39:39.016584"
   },
   {
     "id": "bilibili_1005757",
@@ -123,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.414859"
+    "scrapedAt": "2026-09-24T14:39:39.024213"
   },
   {
     "id": "bilibili_1005737",
@@ -141,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.411987"
+    "scrapedAt": "2026-09-24T14:39:39.022153"
   },
   {
     "id": "bilibili_1006265",
@@ -159,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.413433"
+    "scrapedAt": "2026-09-24T14:39:39.023008"
   },
   {
     "id": "bilibili_1006385",
@@ -177,7 +159,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.403236"
+    "scrapedAt": "2026-09-24T14:39:39.014586"
+  },
+  {
+    "id": "bilibili_1006444",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "嘉峪关·KXWx橙核10.4第一届漫展",
+    "category": "漫展",
+    "city": "嘉峪关",
+    "venue": "",
+    "startDate": "2026-10-04",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006444",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/bxBDETkZ1790241256_1790241256201.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-24T14:39:39.016177"
   },
   {
     "id": "bilibili_1006111",
@@ -195,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.415340"
+    "scrapedAt": "2026-09-24T14:39:39.024621"
   },
   {
     "id": "bilibili_1006235",
@@ -213,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.418652"
+    "scrapedAt": "2026-09-24T14:39:39.027391"
   },
   {
     "id": "bilibili_1006048",
@@ -231,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.420079"
+    "scrapedAt": "2026-09-24T14:39:39.028590"
   },
   {
     "id": "bilibili_1006361",
@@ -249,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.405162"
+    "scrapedAt": "2026-09-24T14:39:39.015790"
   },
   {
     "id": "bilibili_1005831",
@@ -267,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.408607"
+    "scrapedAt": "2026-09-24T14:39:39.018974"
   },
   {
     "id": "bilibili_1005997",
@@ -285,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.412480"
+    "scrapedAt": "2026-09-24T14:39:39.021379"
   },
   {
     "id": "bilibili_1005967",
@@ -303,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.416759"
+    "scrapedAt": "2026-09-24T14:39:39.025822"
   },
   {
     "id": "bilibili_1005805",
@@ -321,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.410553"
+    "scrapedAt": "2026-09-24T14:39:39.020585"
   },
   {
     "id": "bilibili_1005799",
@@ -339,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.411020"
+    "scrapedAt": "2026-09-24T14:39:39.020974"
   },
   {
     "id": "bilibili_1005875",
@@ -357,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.412941"
+    "scrapedAt": "2026-09-24T14:39:39.022600"
   },
   {
     "id": "bilibili_1005905",
@@ -375,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.416272"
+    "scrapedAt": "2026-09-24T14:39:39.025426"
   },
   {
     "id": "bilibili_1006264",
@@ -393,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.419119"
+    "scrapedAt": "2026-09-24T14:39:39.027785"
   },
   {
     "id": "bilibili_1006241",
@@ -411,6 +411,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-24T09:02:28.419614"
+    "scrapedAt": "2026-09-24T14:39:39.028173"
   }
 ]
