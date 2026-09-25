@@ -15,7 +15,61 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.226722"
+    "scrapedAt": "2026-09-25T09:25:33.246754"
+  },
+  {
+    "id": "bilibili_1005839",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "郑州·2026亦之紫F穿越声线来见你",
+    "category": "其他",
+    "city": "郑州",
+    "venue": "",
+    "startDate": "2026-09-26",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005839",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/38ngBY3v1788787812_1788787812958.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-25T09:25:33.251074"
+  },
+  {
+    "id": "bilibili_1005800",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "宜春·静卿2026中秋国风动漫文化汉文化展",
+    "category": "漫展",
+    "city": "宜春",
+    "venue": "",
+    "startDate": "2026-09-26",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005800",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/hsBngc3v1788501994_1788501994421.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-25T09:25:33.255254"
+  },
+  {
+    "id": "bilibili_1006101",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "佳木斯·闪耀恒星动漫节",
+    "category": "漫展",
+    "city": "佳木斯",
+    "venue": "",
+    "startDate": "2026-09-26",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006101",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/LnL5jNnl1789378936_1789378936886.png",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-25T09:25:33.258529"
   },
   {
     "id": "bilibili_1006397",
@@ -33,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.223435"
+    "scrapedAt": "2026-09-25T09:25:33.243262"
   },
   {
     "id": "bilibili_1005818",
@@ -51,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.226324"
+    "scrapedAt": "2026-09-25T09:25:33.246261"
   },
   {
     "id": "bilibili_1005801",
@@ -69,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.237415"
+    "scrapedAt": "2026-09-25T09:25:33.257724"
   },
   {
     "id": "bilibili_1006413",
@@ -87,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.224256"
+    "scrapedAt": "2026-09-25T09:25:33.244121"
   },
   {
     "id": "bilibili_1005757",
@@ -105,25 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.232132"
-  },
-  {
-    "id": "bilibili_1005737",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·冲击波【碧蓝航线.胜利女神.棕色尘埃】同人Only展5",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-10-03",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005737",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/W6Dr1UlB1789716348_1789716348866.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.230473"
+    "scrapedAt": "2026-09-25T09:25:33.252792"
   },
   {
     "id": "bilibili_1006265",
@@ -141,25 +177,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.230905"
+    "scrapedAt": "2026-09-25T09:25:33.250681"
   },
   {
-    "id": "bilibili_1006385",
+    "id": "bilibili_1005737",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "厦门·明日方舟×BanG Dream! 同人ONLY",
+    "title": "上海·冲击波【碧蓝航线.胜利女神.棕色尘埃】同人Only展5",
     "category": "同人展",
-    "city": "厦门",
+    "city": "上海",
     "venue": "",
-    "startDate": "2026-10-04",
+    "startDate": "2026-10-03",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006385",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/OzTAqmsd1790056899_1790056899019.png",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005737",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/W6Dr1UlB1789716348_1789716348866.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.222597"
+    "scrapedAt": "2026-09-25T09:25:33.251909"
   },
   {
     "id": "bilibili_1006444",
@@ -177,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.223857"
+    "scrapedAt": "2026-09-25T09:25:33.243703"
   },
   {
     "id": "bilibili_1006111",
@@ -195,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.232950"
+    "scrapedAt": "2026-09-25T09:25:33.253641"
   },
   {
     "id": "bilibili_1006235",
@@ -213,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.236585"
+    "scrapedAt": "2026-09-25T09:25:33.256908"
   },
   {
     "id": "bilibili_1006048",
@@ -231,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.237015"
+    "scrapedAt": "2026-09-25T09:25:33.257296"
   },
   {
     "id": "bilibili_1005831",
@@ -249,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.227156"
+    "scrapedAt": "2026-09-25T09:25:33.247648"
   },
   {
     "id": "bilibili_1005997",
@@ -267,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.229224"
+    "scrapedAt": "2026-09-25T09:25:33.249857"
   },
   {
     "id": "bilibili_1005967",
@@ -285,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.234161"
+    "scrapedAt": "2026-09-25T09:25:33.254871"
   },
   {
     "id": "bilibili_1005805",
@@ -303,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.228398"
+    "scrapedAt": "2026-09-25T09:25:33.248975"
   },
   {
     "id": "bilibili_1005799",
@@ -321,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.228818"
+    "scrapedAt": "2026-09-25T09:25:33.249453"
   },
   {
     "id": "bilibili_1005875",
@@ -339,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.229621"
+    "scrapedAt": "2026-09-25T09:25:33.250256"
   },
   {
     "id": "bilibili_1005905",
@@ -357,7 +393,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.233349"
+    "scrapedAt": "2026-09-25T09:25:33.254031"
   },
   {
     "id": "bilibili_1006264",
@@ -375,7 +411,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.235789"
+    "scrapedAt": "2026-09-25T09:25:33.256514"
   },
   {
     "id": "bilibili_1006241",
@@ -393,6 +429,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-25T03:42:07.237850"
+    "scrapedAt": "2026-09-25T09:25:33.258113"
   }
 ]
