@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.745720"
+    "scrapedAt": "2026-09-27T03:57:49.227706"
   },
   {
     "id": "bilibili_1005818",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.745914"
+    "scrapedAt": "2026-09-27T03:57:49.228560"
   },
   {
     "id": "bilibili_1005801",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.749106"
+    "scrapedAt": "2026-09-27T03:57:49.236078"
   },
   {
     "id": "bilibili_1006031",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.750335"
+    "scrapedAt": "2026-09-27T03:57:49.239380"
   },
   {
     "id": "bilibili_1005824",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.750505"
+    "scrapedAt": "2026-09-27T03:57:49.239784"
   },
   {
     "id": "bilibili_1006413",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.744635"
+    "scrapedAt": "2026-09-27T03:57:49.225154"
   },
   {
     "id": "bilibili_1005757",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.747684"
+    "scrapedAt": "2026-09-27T03:57:49.232730"
   },
   {
     "id": "bilibili_1005861",
@@ -141,25 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.750865"
-  },
-  {
-    "id": "bilibili_1006132",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "巴中·CL动漫游戏展国庆次元盛典",
-    "category": "漫展",
-    "city": "巴中",
-    "venue": "",
-    "startDate": "2026-10-02",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006132",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/yaDvqWCy1789310086_1789310086147.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.751392"
+    "scrapedAt": "2026-09-27T03:57:49.240217"
   },
   {
     "id": "bilibili_1005737",
@@ -177,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.746093"
+    "scrapedAt": "2026-09-27T03:57:49.228142"
   },
   {
     "id": "bilibili_1006265",
@@ -195,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.747511"
+    "scrapedAt": "2026-09-27T03:57:49.232325"
   },
   {
     "id": "bilibili_1006297",
@@ -213,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.751039"
+    "scrapedAt": "2026-09-27T03:57:49.240632"
   },
   {
     "id": "bilibili_1006444",
@@ -231,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.744455"
+    "scrapedAt": "2026-09-27T03:57:49.224707"
   },
   {
     "id": "bilibili_1006111",
@@ -249,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.747881"
+    "scrapedAt": "2026-09-27T03:57:49.234822"
   },
   {
     "id": "bilibili_1006048",
@@ -267,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.749623"
+    "scrapedAt": "2026-09-27T03:57:49.236480"
   },
   {
     "id": "bilibili_1006235",
@@ -285,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.749805"
+    "scrapedAt": "2026-09-27T03:57:49.238135"
   },
   {
     "id": "bilibili_1006385",
@@ -303,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.751216"
+    "scrapedAt": "2026-09-27T03:57:49.241064"
   },
   {
     "id": "bilibili_1005831",
@@ -321,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.746447"
+    "scrapedAt": "2026-09-27T03:57:49.229404"
   },
   {
     "id": "bilibili_1005997",
@@ -339,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.746988"
+    "scrapedAt": "2026-09-27T03:57:49.231075"
   },
   {
     "id": "bilibili_1005715",
@@ -357,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.748404"
+    "scrapedAt": "2026-09-27T03:57:49.234010"
   },
   {
     "id": "bilibili_1005967",
@@ -375,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.748933"
+    "scrapedAt": "2026-09-27T03:57:49.235655"
   },
   {
     "id": "bilibili_1005805",
@@ -393,25 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.746810"
-  },
-  {
-    "id": "bilibili_1005799",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·龙与地下城同人ONLY4",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-10-06",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005799",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/VzCuz3081788753469_1788753469193.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.747164"
+    "scrapedAt": "2026-09-27T03:57:49.230244"
   },
   {
     "id": "bilibili_1005875",
@@ -429,7 +393,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.747336"
+    "scrapedAt": "2026-09-27T03:57:49.231487"
+  },
+  {
+    "id": "bilibili_1005799",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·龙与地下城同人ONLY4",
+    "category": "同人展",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-10-06",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005799",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/VzCuz3081788753469_1788753469193.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-27T03:57:49.231891"
   },
   {
     "id": "bilibili_1005905",
@@ -447,7 +429,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.748759"
+    "scrapedAt": "2026-09-27T03:57:49.235252"
   },
   {
     "id": "bilibili_1006264",
@@ -465,7 +447,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.749451"
+    "scrapedAt": "2026-09-27T03:57:49.237705"
   },
   {
     "id": "bilibili_1006241",
@@ -483,6 +465,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-26T18:22:20.750162"
+    "scrapedAt": "2026-09-27T03:57:49.238948"
   }
 ]
