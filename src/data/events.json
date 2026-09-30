@@ -15,7 +15,43 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.618534"
+    "scrapedAt": "2026-09-30T04:15:05.913569"
+  },
+  {
+    "id": "bilibili_1006031",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "濮阳·薪火国漫嘉年华",
+    "category": "漫展",
+    "city": "濮阳",
+    "venue": "",
+    "startDate": "2026-10-01",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006031",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/V8WnIHHS1788511620_1788511620764.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-30T04:15:05.921162"
+  },
+  {
+    "id": "bilibili_1006513",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "佳木斯·星韵国漫第五届动漫游戏展",
+    "category": "漫展",
+    "city": "佳木斯",
+    "venue": "",
+    "startDate": "2026-10-03",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006513",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/uudVQ2LH1790687331_1790687331570.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-30T04:15:05.911405"
   },
   {
     "id": "bilibili_1006265",
@@ -33,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.621306"
+    "scrapedAt": "2026-09-30T04:15:05.916942"
   },
   {
     "id": "bilibili_1006297",
@@ -51,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.627237"
+    "scrapedAt": "2026-09-30T04:15:05.924058"
   },
   {
     "id": "bilibili_1006111",
@@ -69,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.621621"
+    "scrapedAt": "2026-09-30T04:15:05.917391"
   },
   {
     "id": "bilibili_1006048",
@@ -87,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.624448"
+    "scrapedAt": "2026-09-30T04:15:05.920328"
   },
   {
     "id": "bilibili_1006235",
@@ -105,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.625890"
+    "scrapedAt": "2026-09-30T04:15:05.922408"
   },
   {
     "id": "bilibili_1006385",
@@ -123,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.627596"
+    "scrapedAt": "2026-09-30T04:15:05.923638"
   },
   {
     "id": "bilibili_1006158",
@@ -141,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.627954"
+    "scrapedAt": "2026-09-30T04:15:05.924475"
   },
   {
     "id": "bilibili_1005794",
@@ -159,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.628603"
+    "scrapedAt": "2026-09-30T04:15:05.925719"
   },
   {
     "id": "bilibili_1006499",
@@ -177,7 +213,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.616738"
+    "scrapedAt": "2026-09-30T04:15:05.910158"
+  },
+  {
+    "id": "bilibili_1006520",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "息县·第十届梦起国风动漫嘉年华",
+    "category": "漫展",
+    "city": "信阳",
+    "venue": "",
+    "startDate": "2026-10-05",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006520",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/VeyD3hH21790580543_1790580543034.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-09-30T04:15:05.910976"
   },
   {
     "id": "bilibili_1005831",
@@ -195,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.619598"
+    "scrapedAt": "2026-09-30T04:15:05.914827"
   },
   {
     "id": "bilibili_1005997",
@@ -213,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.620291"
+    "scrapedAt": "2026-09-30T04:15:05.915664"
   },
   {
     "id": "bilibili_1005967",
@@ -231,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.623720"
+    "scrapedAt": "2026-09-30T04:15:05.919492"
   },
   {
     "id": "bilibili_1005805",
@@ -249,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.619935"
+    "scrapedAt": "2026-09-30T04:15:05.915256"
   },
   {
     "id": "bilibili_1005875",
@@ -267,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.620632"
+    "scrapedAt": "2026-09-30T04:15:05.916095"
   },
   {
     "id": "bilibili_1005799",
@@ -285,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.620980"
+    "scrapedAt": "2026-09-30T04:15:05.916505"
   },
   {
     "id": "bilibili_1005905",
@@ -303,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.622359"
+    "scrapedAt": "2026-09-30T04:15:05.919075"
   },
   {
     "id": "bilibili_1006264",
@@ -321,6 +375,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-29T17:44:36.625543"
+    "scrapedAt": "2026-09-30T04:15:05.921572"
   }
 ]
