@@ -15,79 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.905961"
-  },
-  {
-    "id": "bilibili_1005757",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "阿克苏·第一届梦屿计划漫展",
-    "category": "漫展",
-    "city": "阿克苏地区",
-    "venue": "",
-    "startDate": "2026-10-02",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005757",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/4taDcOun1788439716_1788439716857.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.910414"
-  },
-  {
-    "id": "bilibili_1005861",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "临汾·JM鲸梦/HP 联合动漫展2.0",
-    "category": "漫展",
-    "city": "临汾",
-    "venue": "",
-    "startDate": "2026-10-02",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005861",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/fVepmCqV1788861232_1788861232698.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.913494"
-  },
-  {
-    "id": "bilibili_1006132",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "巴中·CL动漫游戏展国庆次元盛典",
-    "category": "漫展",
-    "city": "巴中",
-    "venue": "",
-    "startDate": "2026-10-02",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006132",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/yaDvqWCy1789310086_1789310086147.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.915549"
-  },
-  {
-    "id": "bilibili_1006333",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "黑河·晴空语漫展",
-    "category": "漫展",
-    "city": "黑河",
-    "venue": "",
-    "startDate": "2026-10-02",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006333",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/HaeGuzal1789902916_1789902916680.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.915915"
+    "scrapedAt": "2026-10-01T18:06:55.710624"
   },
   {
     "id": "bilibili_1006520",
@@ -105,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.902825"
+    "scrapedAt": "2026-10-01T18:06:55.707482"
   },
   {
     "id": "bilibili_1006499",
@@ -123,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.903534"
+    "scrapedAt": "2026-10-01T18:06:55.708206"
   },
   {
     "id": "bilibili_1005831",
@@ -141,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.906630"
+    "scrapedAt": "2026-10-01T18:06:55.711326"
   },
   {
     "id": "bilibili_1005997",
@@ -159,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.906985"
+    "scrapedAt": "2026-10-01T18:06:55.711687"
   },
   {
     "id": "bilibili_1005967",
@@ -177,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.911448"
+    "scrapedAt": "2026-10-01T18:06:55.716138"
   },
   {
     "id": "bilibili_1006527",
@@ -195,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.903185"
+    "scrapedAt": "2026-10-01T18:06:55.707859"
   },
   {
     "id": "bilibili_1005805",
@@ -213,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.907315"
+    "scrapedAt": "2026-10-01T18:06:55.712027"
   },
   {
     "id": "bilibili_1005875",
@@ -231,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.907678"
+    "scrapedAt": "2026-10-01T18:06:55.712362"
   },
   {
     "id": "bilibili_1005799",
@@ -249,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.908037"
+    "scrapedAt": "2026-10-01T18:06:55.712713"
   },
   {
     "id": "bilibili_1005905",
@@ -267,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.910745"
+    "scrapedAt": "2026-10-01T18:06:55.715444"
   },
   {
     "id": "bilibili_1006264",
@@ -285,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.913166"
+    "scrapedAt": "2026-10-01T18:06:55.718000"
   },
   {
     "id": "bilibili_1005911",
@@ -303,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.912143"
+    "scrapedAt": "2026-10-01T18:06:55.716888"
   },
   {
     "id": "bilibili_1006168",
@@ -321,6 +249,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T11:24:27.914508"
+    "scrapedAt": "2026-10-01T18:06:55.719351"
   }
 ]
