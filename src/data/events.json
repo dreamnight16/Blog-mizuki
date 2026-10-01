@@ -15,7 +15,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.080794"
+    "scrapedAt": "2026-10-01T04:27:07.653773"
+  },
+  {
+    "id": "bilibili_1006333",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "黑河·晴空语漫展",
+    "category": "漫展",
+    "city": "黑河",
+    "venue": "",
+    "startDate": "2026-10-02",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006333",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/HaeGuzal1789902916_1789902916680.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-01T04:27:07.664428"
   },
   {
     "id": "bilibili_1006111",
@@ -33,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.083376"
+    "scrapedAt": "2026-10-01T04:27:07.656031"
   },
   {
     "id": "bilibili_1006048",
@@ -51,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.086767"
+    "scrapedAt": "2026-10-01T04:27:07.657105"
   },
   {
     "id": "bilibili_1006385",
@@ -69,25 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.090597"
-  },
-  {
-    "id": "bilibili_1006499",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·Anikura音乐派对·Umamusume篇",
-    "category": "其他",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-10-05",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006499",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/mKH8Jc3O1790738849_1790738849668.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.076953"
+    "scrapedAt": "2026-10-01T04:27:07.661895"
   },
   {
     "id": "bilibili_1006520",
@@ -105,7 +105,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.078259"
+    "scrapedAt": "2026-10-01T04:27:07.650213"
+  },
+  {
+    "id": "bilibili_1006499",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·Anikura音乐派对·Umamusume篇",
+    "category": "其他",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-10-05",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006499",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/mKH8Jc3O1790738849_1790738849668.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-01T04:27:07.650923"
   },
   {
     "id": "bilibili_1005831",
@@ -123,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.081655"
+    "scrapedAt": "2026-10-01T04:27:07.654481"
   },
   {
     "id": "bilibili_1005997",
@@ -141,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.082088"
+    "scrapedAt": "2026-10-01T04:27:07.654892"
   },
   {
     "id": "bilibili_1005967",
@@ -159,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.084654"
+    "scrapedAt": "2026-10-01T04:27:07.659295"
   },
   {
     "id": "bilibili_1006527",
@@ -177,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.077818"
+    "scrapedAt": "2026-10-01T04:27:07.650565"
   },
   {
     "id": "bilibili_1005875",
@@ -195,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.082521"
+    "scrapedAt": "2026-10-01T04:27:07.655274"
   },
   {
     "id": "bilibili_1005905",
@@ -213,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.084242"
+    "scrapedAt": "2026-10-01T04:27:07.656737"
   },
   {
     "id": "bilibili_1005805",
@@ -231,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.085501"
+    "scrapedAt": "2026-10-01T04:27:07.657846"
   },
   {
     "id": "bilibili_1005799",
@@ -249,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.085909"
+    "scrapedAt": "2026-10-01T04:27:07.658197"
   },
   {
     "id": "bilibili_1006264",
@@ -267,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.088461"
+    "scrapedAt": "2026-10-01T04:27:07.661165"
   },
   {
     "id": "bilibili_1005911",
@@ -285,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.087202"
+    "scrapedAt": "2026-10-01T04:27:07.660071"
   },
   {
     "id": "bilibili_1006168",
@@ -303,6 +321,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-09-30T16:41:19.091852"
+    "scrapedAt": "2026-10-01T04:27:07.662975"
   }
 ]
