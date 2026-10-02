@@ -15,43 +15,79 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.589848"
+    "scrapedAt": "2026-10-02T10:54:19.762462"
   },
   {
-    "id": "bilibili_1006520",
+    "id": "bilibili_1006513",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "息县·第十届梦起国风动漫嘉年华",
+    "title": "佳木斯·星韵国漫第五届动漫游戏展",
     "category": "漫展",
-    "city": "信阳",
+    "city": "佳木斯",
     "venue": "",
-    "startDate": "2026-10-05",
+    "startDate": "2026-10-03",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006520",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/VeyD3hH21790580543_1790580543034.jpg",
-    "status": "售票中",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006513",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/uudVQ2LH1790687331_1790687331570.png",
+    "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.585994"
+    "scrapedAt": "2026-10-02T10:54:19.760576"
   },
   {
-    "id": "bilibili_1006499",
+    "id": "bilibili_1005737",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "上海·Anikura音乐派对·Umamusume篇",
-    "category": "其他",
+    "title": "上海·冲击波【碧蓝航线.胜利女神.棕色尘埃】同人Only展5",
+    "category": "同人展",
     "city": "上海",
     "venue": "",
-    "startDate": "2026-10-05",
+    "startDate": "2026-10-03",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006499",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/mKH8Jc3O1790738849_1790738849668.jpg",
-    "status": "售票中",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005737",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/W6Dr1UlB1789716348_1789716348866.jpg",
+    "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.586862"
+    "scrapedAt": "2026-10-02T10:54:19.762755"
+  },
+  {
+    "id": "bilibili_1006265",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·AXG · Vivid BAD SQUAD 同人only · 世界计划之宝宝巴士勇闯魔都~",
+    "category": "同人展",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-10-03",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006265",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/NqsOiL7Q1789707869_1789707869756.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-02T10:54:19.765878"
+  },
+  {
+    "id": "bilibili_1006297",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "保定·10.3INF预热展",
+    "category": "其他",
+    "city": "保定",
+    "venue": "",
+    "startDate": "2026-10-03",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006297",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/WGdnKYZ91789649492_1789649492962.png",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-02T10:54:19.771812"
   },
   {
     "id": "bilibili_1005831",
@@ -69,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.590682"
+    "scrapedAt": "2026-10-02T10:54:19.763725"
   },
   {
     "id": "bilibili_1005997",
@@ -87,25 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.591127"
-  },
-  {
-    "id": "bilibili_1005967",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "新疆·NO8.初稚动漫游戏展",
-    "category": "漫展",
-    "city": "阿克苏地区",
-    "venue": "",
-    "startDate": "2026-10-05",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005967",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/VkscVfJu1788949471_1788949471664.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.596643"
+    "scrapedAt": "2026-10-02T10:54:19.764329"
   },
   {
     "id": "bilibili_1006527",
@@ -123,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.586421"
+    "scrapedAt": "2026-10-02T10:54:19.760265"
   },
   {
     "id": "bilibili_1005805",
@@ -141,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.591549"
+    "scrapedAt": "2026-10-02T10:54:19.764656"
   },
   {
     "id": "bilibili_1005875",
@@ -159,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.592402"
+    "scrapedAt": "2026-10-02T10:54:19.765290"
   },
   {
     "id": "bilibili_1005799",
@@ -177,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.592841"
+    "scrapedAt": "2026-10-02T10:54:19.765587"
   },
   {
     "id": "bilibili_1005905",
@@ -195,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.595815"
+    "scrapedAt": "2026-10-02T10:54:19.768729"
   },
   {
     "id": "bilibili_1006264",
@@ -213,7 +231,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.599213"
+    "scrapedAt": "2026-10-02T10:54:19.770857"
+  },
+  {
+    "id": "bilibili_1005700",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "长春·明日方舟同人only展4.0·同心颂诗",
+    "category": "同人展",
+    "city": "长春",
+    "venue": "",
+    "startDate": "2026-10-07",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005700",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/rgkFrxHI1788432790_1788432790205.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-02T10:54:19.767181"
   },
   {
     "id": "bilibili_1005911",
@@ -231,78 +267,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.597494"
-  },
-  {
-    "id": "bilibili_1006168",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·YorushikaxVaundy歌合战·双厨狂喜派对",
-    "category": "其他",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-10-07",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006168",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/7pFgU3DM1789499196_1789499196379.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:20:22.602708"
-  },
-  {
-    "id": "weibo_ai_ee33452938878b85",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "秋日·落音送秋 ACG LIVE",
-    "category": "音乐会",
-    "city": "",
-    "venue": "葵艺术空间",
-    "startDate": "2026-10-31",
-    "endDate": null,
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 0.75,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:23:23.489862"
-  },
-  {
-    "id": "weibo_ai_2c09cf5924e110b7",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "白金交响乐团·动漫交响音乐会",
-    "category": "音乐会",
-    "city": "广州",
-    "venue": "星海音乐厅·交响乐演奏大厅",
-    "startDate": "2026-11-22",
-    "endDate": null,
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:23:23.490306"
-  },
-  {
-    "id": "weibo_ai_07f1236a57d613f0",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "CP33",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "上海国家会展中心",
-    "startDate": "2026-12-26",
-    "endDate": "2026-12-27",
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 0.8500000000000001,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-02T04:23:23.490754"
+    "scrapedAt": "2026-10-02T10:54:19.769944"
   }
 ]
