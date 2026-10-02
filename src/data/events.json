@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.710624"
+    "scrapedAt": "2026-10-02T04:20:22.589848"
   },
   {
     "id": "bilibili_1006520",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.707482"
+    "scrapedAt": "2026-10-02T04:20:22.585994"
   },
   {
     "id": "bilibili_1006499",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.708206"
+    "scrapedAt": "2026-10-02T04:20:22.586862"
   },
   {
     "id": "bilibili_1005831",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.711326"
+    "scrapedAt": "2026-10-02T04:20:22.590682"
   },
   {
     "id": "bilibili_1005997",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.711687"
+    "scrapedAt": "2026-10-02T04:20:22.591127"
   },
   {
     "id": "bilibili_1005967",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.716138"
+    "scrapedAt": "2026-10-02T04:20:22.596643"
   },
   {
     "id": "bilibili_1006527",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.707859"
+    "scrapedAt": "2026-10-02T04:20:22.586421"
   },
   {
     "id": "bilibili_1005805",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.712027"
+    "scrapedAt": "2026-10-02T04:20:22.591549"
   },
   {
     "id": "bilibili_1005875",
@@ -159,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.712362"
+    "scrapedAt": "2026-10-02T04:20:22.592402"
   },
   {
     "id": "bilibili_1005799",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.712713"
+    "scrapedAt": "2026-10-02T04:20:22.592841"
   },
   {
     "id": "bilibili_1005905",
@@ -195,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.715444"
+    "scrapedAt": "2026-10-02T04:20:22.595815"
   },
   {
     "id": "bilibili_1006264",
@@ -213,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.718000"
+    "scrapedAt": "2026-10-02T04:20:22.599213"
   },
   {
     "id": "bilibili_1005911",
@@ -231,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.716888"
+    "scrapedAt": "2026-10-02T04:20:22.597494"
   },
   {
     "id": "bilibili_1006168",
@@ -249,6 +249,60 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-01T18:06:55.719351"
+    "scrapedAt": "2026-10-02T04:20:22.602708"
+  },
+  {
+    "id": "weibo_ai_ee33452938878b85",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "秋日·落音送秋 ACG LIVE",
+    "category": "音乐会",
+    "city": "",
+    "venue": "葵艺术空间",
+    "startDate": "2026-10-31",
+    "endDate": null,
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 0.75,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-02T04:23:23.489862"
+  },
+  {
+    "id": "weibo_ai_2c09cf5924e110b7",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "白金交响乐团·动漫交响音乐会",
+    "category": "音乐会",
+    "city": "广州",
+    "venue": "星海音乐厅·交响乐演奏大厅",
+    "startDate": "2026-11-22",
+    "endDate": null,
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-02T04:23:23.490306"
+  },
+  {
+    "id": "weibo_ai_07f1236a57d613f0",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "CP33",
+    "category": "同人展",
+    "city": "上海",
+    "venue": "上海国家会展中心",
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-27",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 0.8500000000000001,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-02T04:23:23.490754"
   }
 ]
