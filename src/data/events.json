@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T16:30:50.459559"
+    "scrapedAt": "2026-10-03T04:01:52.961094"
   },
   {
     "id": "bilibili_1006527",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T16:30:50.458483"
+    "scrapedAt": "2026-10-03T04:01:52.958470"
   },
   {
     "id": "bilibili_1005805",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T16:30:50.460795"
+    "scrapedAt": "2026-10-03T04:01:52.964105"
   },
   {
     "id": "bilibili_1005875",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T16:30:50.461146"
+    "scrapedAt": "2026-10-03T04:01:52.964559"
   },
   {
     "id": "bilibili_1005799",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T16:30:50.461352"
+    "scrapedAt": "2026-10-03T04:01:52.964981"
   },
   {
     "id": "bilibili_1006264",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T16:30:50.464167"
+    "scrapedAt": "2026-10-03T04:01:52.974067"
   },
   {
     "id": "bilibili_1005700",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T16:30:50.462240"
+    "scrapedAt": "2026-10-03T04:01:52.968002"
   },
   {
     "id": "bilibili_1005911",
@@ -141,24 +141,96 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T16:30:50.463649"
+    "scrapedAt": "2026-10-03T04:01:52.972338"
   },
   {
-    "id": "bilibili_1006168",
+    "id": "bilibili_1006148",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "上海·YorushikaxVaundy歌合战·双厨狂喜派对",
-    "category": "其他",
-    "city": "上海",
+    "title": "北京·剑网3同人only主题展2.0·此间枫华",
+    "category": "同人展",
+    "city": "北京",
     "venue": "",
-    "startDate": "2026-10-07",
+    "startDate": "2026-10-17",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006168",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/7pFgU3DM1789499196_1789499196379.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006148",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/SHalULik1789462537_1789462537357.jpg",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-02T16:30:50.465066"
+    "scrapedAt": "2026-10-03T04:01:52.966716"
+  },
+  {
+    "id": "bilibili_1006435",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "武汉·谐律星奏 少女音乐番同人Only展",
+    "category": "同人展",
+    "city": "武汉",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006435",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/g3et1Sec1790235784_1790235784099.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-03T04:01:52.970565"
+  },
+  {
+    "id": "bilibili_1006024",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "南京·守望先锋Only同人",
+    "category": "同人展",
+    "city": "南京",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006024",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/MdnhoXXy1789005438_1789005438593.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-03T04:01:52.971903"
+  },
+  {
+    "id": "bilibili_1006236",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "广州·金牌得主同人only",
+    "category": "同人展",
+    "city": "广州",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006236",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/jl07f46h1789631462_1789631462796.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-03T04:01:52.973193"
+  },
+  {
+    "id": "bilibili_1006202",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "天津·忘带眼镜3-3 第一届海贼王同人ONLY展",
+    "category": "同人展",
+    "city": "天津",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006202",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/GeDn2L0X1789563907_1789563907348.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-03T04:01:52.975364"
   }
 ]
