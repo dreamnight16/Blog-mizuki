@@ -15,25 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.839498"
-  },
-  {
-    "id": "weibo_ai_00b3d0af4f0a5301",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "Galaxy Reception live 星遇现场 Vol.62",
-    "category": "演唱会",
-    "city": "北京",
-    "venue": "梦久Muku",
-    "startDate": "2026-10-01",
-    "endDate": null,
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 0.7000000000000001,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:16:05.467933"
+    "scrapedAt": "2026-10-03T15:03:49.979737"
   },
   {
     "id": "bilibili_1006111",
@@ -51,7 +33,7 @@
     "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.844726"
+    "scrapedAt": "2026-10-03T15:03:49.984134"
   },
   {
     "id": "bilibili_1006048",
@@ -69,7 +51,7 @@
     "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.846480"
+    "scrapedAt": "2026-10-03T15:03:49.985521"
   },
   {
     "id": "bilibili_1006385",
@@ -87,7 +69,7 @@
     "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.850835"
+    "scrapedAt": "2026-10-03T15:03:49.989000"
   },
   {
     "id": "bilibili_1006210",
@@ -105,25 +87,7 @@
     "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.853013"
-  },
-  {
-    "id": "bilibili_1006264",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·【幻想茶会】疯帽子茶会×幻想诗篇合同LIVE with东方Project Festival Zero【东方LivePartySP】",
-    "category": "演唱会",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-10-06",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006264",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/Tnn3EWvd1789633000_1789633000863.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.851286"
+    "scrapedAt": "2026-10-03T15:03:49.991160"
   },
   {
     "id": "bilibili_1005700",
@@ -141,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.842987"
+    "scrapedAt": "2026-10-03T15:03:49.982720"
   },
   {
     "id": "bilibili_1005911",
@@ -159,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.849540"
+    "scrapedAt": "2026-10-03T15:03:49.987961"
   },
   {
     "id": "bilibili_1006168",
@@ -177,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.854810"
+    "scrapedAt": "2026-10-03T15:03:49.992220"
   },
   {
     "id": "bilibili_1006148",
@@ -195,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.846029"
+    "scrapedAt": "2026-10-03T15:03:49.985181"
   },
   {
     "id": "bilibili_1006179",
@@ -213,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.847346"
+    "scrapedAt": "2026-10-03T15:03:49.986206"
   },
   {
     "id": "bilibili_1006435",
@@ -231,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.848183"
+    "scrapedAt": "2026-10-03T15:03:49.986884"
   },
   {
     "id": "bilibili_1006024",
@@ -249,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.849091"
+    "scrapedAt": "2026-10-03T15:03:49.987621"
   },
   {
     "id": "bilibili_1006236",
@@ -267,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.850405"
+    "scrapedAt": "2026-10-03T15:03:49.988660"
   },
   {
     "id": "bilibili_1006202",
@@ -285,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.852131"
+    "scrapedAt": "2026-10-03T15:03:49.990091"
   },
   {
     "id": "bilibili_1005913",
@@ -303,7 +267,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.852586"
+    "scrapedAt": "2026-10-03T15:03:49.990448"
+  },
+  {
+    "id": "bilibili_1006017",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "北京· 祈Inory 2026个人巡演「祈航的风」 律动狂潮此声唯一系列",
+    "category": "其他",
+    "city": "北京",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006017",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/gvMjNmRq1789377951_1789377951598.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-03T15:03:49.990796"
   },
   {
     "id": "bilibili_1006466",
@@ -321,24 +303,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:14:03.853465"
-  },
-  {
-    "id": "weibo_ai_ee33452938878b85",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "秋日·落音送秋 ACG LIVE",
-    "category": "音乐会",
-    "city": "",
-    "venue": "葵艺术空间",
-    "startDate": "2026-10-31",
-    "endDate": null,
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 0.75,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-03T10:16:05.468377"
+    "scrapedAt": "2026-10-03T15:03:49.991506"
   }
 ]
