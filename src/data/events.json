@@ -15,25 +15,43 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.266318"
+    "scrapedAt": "2026-10-04T15:41:50.460906"
   },
   {
-    "id": "weibo_ai_b77a5e77b3b16112",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "动漫展",
-    "category": "漫展",
+    "id": "bilibili_1005831",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "广州·Phigros 7周年线下纪念演出「新黎明 [NEW DAWN]」",
+    "category": "其他",
     "city": "广州",
-    "venue": "保利世贸D座",
-    "startDate": "2026-10-04",
+    "venue": "",
+    "startDate": "2026-10-05",
     "endDate": null,
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005831",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/zDSU4jUT1788832881_1788832881823.png",
+    "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:57:39.961437"
+    "scrapedAt": "2026-10-04T15:41:50.461426"
+  },
+  {
+    "id": "bilibili_1005997",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "武汉·明日方舟&BanGDream同人ONLY展～予我诞生",
+    "category": "同人展",
+    "city": "武汉",
+    "venue": "",
+    "startDate": "2026-10-05",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005997",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/v2gHg4Aq1789990989_1789990989124.png",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-04T15:41:50.461787"
   },
   {
     "id": "bilibili_1005715",
@@ -51,7 +69,7 @@
     "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.270856"
+    "scrapedAt": "2026-10-04T15:41:50.463896"
   },
   {
     "id": "bilibili_1005967",
@@ -69,7 +87,7 @@
     "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.271646"
+    "scrapedAt": "2026-10-04T15:41:50.464413"
   },
   {
     "id": "bilibili_1006520",
@@ -87,25 +105,7 @@
     "status": "即将开票",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.274830"
-  },
-  {
-    "id": "bilibili_1005911",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·禁電夜派对3.0",
-    "category": "其他",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-10-07",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005911",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/KwrjIma61788849571_1788849571169.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.273486"
+    "scrapedAt": "2026-10-04T15:41:50.466526"
   },
   {
     "id": "bilibili_1005576",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.270340"
+    "scrapedAt": "2026-10-04T15:41:50.463534"
   },
   {
     "id": "bilibili_1006148",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.271390"
+    "scrapedAt": "2026-10-04T15:41:50.464241"
   },
   {
     "id": "bilibili_1006179",
@@ -159,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.271905"
+    "scrapedAt": "2026-10-04T15:41:50.464599"
   },
   {
     "id": "bilibili_1006435",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.272185"
+    "scrapedAt": "2026-10-04T15:41:50.464776"
   },
   {
     "id": "bilibili_1005456",
@@ -195,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.272443"
+    "scrapedAt": "2026-10-04T15:41:50.464949"
   },
   {
     "id": "bilibili_1005513",
@@ -213,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.272697"
+    "scrapedAt": "2026-10-04T15:41:50.465123"
   },
   {
     "id": "bilibili_1006024",
@@ -231,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.273230"
+    "scrapedAt": "2026-10-04T15:41:50.465471"
   },
   {
     "id": "bilibili_1006236",
@@ -249,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.273741"
+    "scrapedAt": "2026-10-04T15:41:50.465832"
   },
   {
     "id": "bilibili_1006202",
@@ -267,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.274308"
+    "scrapedAt": "2026-10-04T15:41:50.466183"
   },
   {
     "id": "bilibili_1005913",
@@ -285,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.274569"
+    "scrapedAt": "2026-10-04T15:41:50.466354"
   },
   {
     "id": "bilibili_1006466",
@@ -303,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.275109"
+    "scrapedAt": "2026-10-04T15:41:50.466714"
   },
   {
     "id": "bilibili_1006017",
@@ -321,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.275374"
+    "scrapedAt": "2026-10-04T15:41:50.466893"
   },
   {
     "id": "bilibili_1005663",
@@ -339,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.267957"
+    "scrapedAt": "2026-10-04T15:41:50.461961"
   },
   {
     "id": "bilibili_1005948",
@@ -357,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.269791"
+    "scrapedAt": "2026-10-04T15:41:50.463186"
   },
   {
     "id": "bilibili_1006116",
@@ -375,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:56:29.272963"
+    "scrapedAt": "2026-10-04T15:41:50.465296"
   },
   {
     "id": "weibo_ai_ee33452938878b85",
@@ -384,7 +384,7 @@
     "title": "秋日·落音送秋 ACG LIVE",
     "category": "音乐会",
     "city": "",
-    "venue": "葵艺术空间",
+    "venue": "葵艺术空间（南滨河路岚沐文创园内）",
     "startDate": "2026-10-31",
     "endDate": null,
     "priceRange": null,
@@ -393,6 +393,6 @@
     "status": "预告",
     "confidence": 0.75,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T10:57:39.961785"
+    "scrapedAt": "2026-10-04T15:43:21.015572"
   }
 ]
