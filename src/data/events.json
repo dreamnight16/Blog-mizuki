@@ -15,25 +15,79 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.429012"
+    "scrapedAt": "2026-10-04T10:56:29.266318"
   },
   {
-    "id": "bilibili_1005700",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "长春·明日方舟同人only展4.0·同心颂诗",
-    "category": "同人展",
-    "city": "长春",
-    "venue": "",
-    "startDate": "2026-10-07",
+    "id": "weibo_ai_b77a5e77b3b16112",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "动漫展",
+    "category": "漫展",
+    "city": "广州",
+    "venue": "保利世贸D座",
+    "startDate": "2026-10-04",
     "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005700",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/rgkFrxHI1788432790_1788432790205.png",
-    "status": "售票中",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.432125"
+    "scrapedAt": "2026-10-04T10:57:39.961437"
+  },
+  {
+    "id": "bilibili_1005715",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "广州·M2U 20TH FANS PARTY 粉丝派对",
+    "category": "其他",
+    "city": "广州",
+    "venue": "",
+    "startDate": "2026-10-05",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005715",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/OHp5ARPl1788432914_1788432914687.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-04T10:56:29.270856"
+  },
+  {
+    "id": "bilibili_1005967",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "新疆·NO8.初稚动漫游戏展",
+    "category": "漫展",
+    "city": "阿克苏地区",
+    "venue": "",
+    "startDate": "2026-10-05",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005967",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/VkscVfJu1788949471_1788949471664.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-04T10:56:29.271646"
+  },
+  {
+    "id": "bilibili_1006520",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "息县·第十届梦起国风动漫嘉年华",
+    "category": "漫展",
+    "city": "信阳",
+    "venue": "",
+    "startDate": "2026-10-05",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006520",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/VeyD3hH21790580543_1790580543034.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-04T10:56:29.274830"
   },
   {
     "id": "bilibili_1005911",
@@ -51,7 +105,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.438301"
+    "scrapedAt": "2026-10-04T10:56:29.273486"
+  },
+  {
+    "id": "bilibili_1005576",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "武汉·少女番ONLY同人 2.5",
+    "category": "同人展",
+    "city": "武汉",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005576",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/AZU1hoNN1788192327_1788192327624.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-04T10:56:29.270340"
   },
   {
     "id": "bilibili_1006148",
@@ -69,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.435534"
+    "scrapedAt": "2026-10-04T10:56:29.271390"
   },
   {
     "id": "bilibili_1006179",
@@ -87,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.436289"
+    "scrapedAt": "2026-10-04T10:56:29.271905"
   },
   {
     "id": "bilibili_1006435",
@@ -105,7 +177,43 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.436625"
+    "scrapedAt": "2026-10-04T10:56:29.272185"
+  },
+  {
+    "id": "bilibili_1005456",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·飞向晴空排球少年同人only",
+    "category": "同人展",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005456",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/Uvh2bIBR1788149135_1788149135436.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-04T10:56:29.272443"
+  },
+  {
+    "id": "bilibili_1005513",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "杭州·第69届 中二病 动漫游戏展",
+    "category": "漫展",
+    "city": "杭州",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005513",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/s0keGJR71790148457_1790148457128.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-04T10:56:29.272697"
   },
   {
     "id": "bilibili_1006024",
@@ -123,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.437962"
+    "scrapedAt": "2026-10-04T10:56:29.273230"
   },
   {
     "id": "bilibili_1006236",
@@ -141,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.438626"
+    "scrapedAt": "2026-10-04T10:56:29.273741"
   },
   {
     "id": "bilibili_1006202",
@@ -159,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.439641"
+    "scrapedAt": "2026-10-04T10:56:29.274308"
   },
   {
     "id": "bilibili_1005913",
@@ -177,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.439973"
+    "scrapedAt": "2026-10-04T10:56:29.274569"
   },
   {
     "id": "bilibili_1006466",
@@ -195,7 +303,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.441061"
+    "scrapedAt": "2026-10-04T10:56:29.275109"
+  },
+  {
+    "id": "bilibili_1006017",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "北京· 祈Inory 2026个人巡演「祈航的风」 律动狂潮此声唯一系列",
+    "category": "其他",
+    "city": "北京",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006017",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/gvMjNmRq1789377951_1789377951598.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-04T10:56:29.275374"
   },
   {
     "id": "bilibili_1005663",
@@ -213,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.431114"
+    "scrapedAt": "2026-10-04T10:56:29.267957"
   },
   {
     "id": "bilibili_1005948",
@@ -231,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.433144"
+    "scrapedAt": "2026-10-04T10:56:29.269791"
   },
   {
     "id": "bilibili_1006116",
@@ -249,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:35:12.437640"
+    "scrapedAt": "2026-10-04T10:56:29.272963"
   },
   {
     "id": "weibo_ai_ee33452938878b85",
@@ -267,6 +393,6 @@
     "status": "预告",
     "confidence": 0.75,
     "canonicalId": null,
-    "scrapedAt": "2026-10-04T04:36:30.695069"
+    "scrapedAt": "2026-10-04T10:57:39.961785"
   }
 ]
