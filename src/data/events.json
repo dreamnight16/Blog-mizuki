@@ -15,79 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.330666"
-  },
-  {
-    "id": "bilibili_1005805",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "北京·中文虚拟歌手同人ONLY展",
-    "category": "同人展",
-    "city": "北京",
-    "venue": "",
-    "startDate": "2026-10-06",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005805",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/PUi99tW81788768799_1788768799611.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.332763"
-  },
-  {
-    "id": "bilibili_1005875",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·赛马娘同人only·心驰凯旋",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-10-06",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005875",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/wGDt5Izn1788519572_1788519572760.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.334029"
-  },
-  {
-    "id": "bilibili_1005799",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·龙与地下城同人ONLY4",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-10-06",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005799",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/VzCuz3081788753469_1788753469193.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.335298"
-  },
-  {
-    "id": "bilibili_1005331",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "杭州·葱韵环京2026秋季VOCALOID ONLY同人展",
-    "category": "同人展",
-    "city": "杭州",
-    "venue": "",
-    "startDate": "2026-10-06",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005331",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/wWu8Hwwf1787822811_1787822811107.jpg",
-    "status": "即将开票",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.336156"
+    "scrapedAt": "2026-10-05T21:04:51.532737"
   },
   {
     "id": "bilibili_1005576",
@@ -105,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.339536"
+    "scrapedAt": "2026-10-05T21:04:51.538178"
   },
   {
     "id": "bilibili_1006148",
@@ -123,61 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.340391"
-  },
-  {
-    "id": "bilibili_1006435",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "武汉·谐律星奏 少女音乐番同人Only展",
-    "category": "同人展",
-    "city": "武汉",
-    "venue": "",
-    "startDate": "2026-10-17",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006435",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/g3et1Sec1790235784_1790235784099.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.340808"
-  },
-  {
-    "id": "bilibili_1006179",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "香港·樱川惠见面会2026",
-    "category": "演唱会",
-    "city": "沙田区",
-    "venue": "",
-    "startDate": "2026-10-17",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006179",
-    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/IeBphq5b1789538982_1789538982317.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.341216"
-  },
-  {
-    "id": "bilibili_1005456",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "上海·飞向晴空排球少年同人only",
-    "category": "同人展",
-    "city": "上海",
-    "venue": "",
-    "startDate": "2026-10-17",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005456",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/Uvh2bIBR1788149135_1788149135436.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.341654"
+    "scrapedAt": "2026-10-05T21:04:51.538720"
   },
   {
     "id": "bilibili_1005513",
@@ -195,7 +69,61 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.342067"
+    "scrapedAt": "2026-10-05T21:04:51.539000"
+  },
+  {
+    "id": "bilibili_1006435",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "武汉·谐律星奏 少女音乐番同人Only展",
+    "category": "同人展",
+    "city": "武汉",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006435",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/g3et1Sec1790235784_1790235784099.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-05T21:04:51.539531"
+  },
+  {
+    "id": "bilibili_1006179",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "香港·樱川惠见面会2026",
+    "category": "演唱会",
+    "city": "沙田区",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006179",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/IeBphq5b1789538982_1789538982317.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-05T21:04:51.539787"
+  },
+  {
+    "id": "bilibili_1005456",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·飞向晴空排球少年同人only",
+    "category": "同人展",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005456",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/Uvh2bIBR1788149135_1788149135436.png",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-05T21:04:51.540066"
   },
   {
     "id": "bilibili_1006024",
@@ -213,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.343325"
+    "scrapedAt": "2026-10-05T21:04:51.540595"
   },
   {
     "id": "bilibili_1006236",
@@ -231,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.343762"
+    "scrapedAt": "2026-10-05T21:04:51.540857"
   },
   {
     "id": "bilibili_1005913",
@@ -249,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.344174"
+    "scrapedAt": "2026-10-05T21:04:51.541143"
   },
   {
     "id": "bilibili_1006202",
@@ -267,7 +195,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.345040"
+    "scrapedAt": "2026-10-05T21:04:51.541672"
+  },
+  {
+    "id": "bilibili_1006466",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "烟台·极昼次元8.0·二次元全女伪夜场",
+    "category": "漫展",
+    "city": "烟台",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006466",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/We8NyRQL1790528945_1790528945365.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-05T21:04:51.541958"
   },
   {
     "id": "bilibili_1005663",
@@ -285,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.333178"
+    "scrapedAt": "2026-10-05T21:04:51.535661"
   },
   {
     "id": "bilibili_1005310",
@@ -303,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.334464"
+    "scrapedAt": "2026-10-05T21:04:51.535976"
   },
   {
     "id": "bilibili_1005948",
@@ -321,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.335740"
+    "scrapedAt": "2026-10-05T21:04:51.536799"
   },
   {
     "id": "bilibili_1006116",
@@ -339,6 +285,42 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T12:04:22.342507"
+    "scrapedAt": "2026-10-05T21:04:51.539268"
+  },
+  {
+    "id": "bilibili_1005430",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "厦门·漫秋-定江墟·农only同人展3.0",
+    "category": "同人展",
+    "city": "厦门",
+    "venue": "",
+    "startDate": "2026-10-18",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005430",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/ZvoTtVx31787904355_1787904355288.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-05T21:04:51.542237"
+  },
+  {
+    "id": "weibo_ai_d089724f489108a7",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "『多厨狂喜』白金交响乐团·动漫交响音乐会",
+    "category": "音乐会",
+    "city": "广州",
+    "venue": "星海音乐厅·交响乐演奏大厅",
+    "startDate": "2026-11-22",
+    "endDate": null,
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-05T21:06:12.553619"
   }
 ]
