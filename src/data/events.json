@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.532737"
+    "scrapedAt": "2026-10-06T05:08:45.556772"
   },
   {
     "id": "bilibili_1005576",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.538178"
+    "scrapedAt": "2026-10-06T05:08:45.561963"
   },
   {
     "id": "bilibili_1006148",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.538720"
+    "scrapedAt": "2026-10-06T05:08:45.562521"
   },
   {
     "id": "bilibili_1005513",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.539000"
+    "scrapedAt": "2026-10-06T05:08:45.562788"
   },
   {
     "id": "bilibili_1006435",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.539531"
+    "scrapedAt": "2026-10-06T05:08:45.563341"
   },
   {
     "id": "bilibili_1006179",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.539787"
+    "scrapedAt": "2026-10-06T05:08:45.563599"
   },
   {
     "id": "bilibili_1005456",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.540066"
+    "scrapedAt": "2026-10-06T05:08:45.563856"
   },
   {
     "id": "bilibili_1006024",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.540595"
+    "scrapedAt": "2026-10-06T05:08:45.564393"
   },
   {
     "id": "bilibili_1006236",
@@ -159,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.540857"
+    "scrapedAt": "2026-10-06T05:08:45.564656"
   },
   {
     "id": "bilibili_1005913",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.541143"
+    "scrapedAt": "2026-10-06T05:08:45.564940"
   },
   {
     "id": "bilibili_1006202",
@@ -195,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.541672"
+    "scrapedAt": "2026-10-06T05:08:45.565531"
   },
   {
     "id": "bilibili_1006466",
@@ -213,7 +213,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.541958"
+    "scrapedAt": "2026-10-06T05:08:45.565799"
+  },
+  {
+    "id": "bilibili_1006017",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "北京· 祈Inory 2026个人巡演「祈航的风」 律动狂潮此声唯一系列",
+    "category": "其他",
+    "city": "北京",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006017",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/gvMjNmRq1789377951_1789377951598.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-06T05:08:45.566359"
   },
   {
     "id": "bilibili_1005663",
@@ -231,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.535661"
+    "scrapedAt": "2026-10-06T05:08:45.559484"
   },
   {
     "id": "bilibili_1005310",
@@ -249,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.535976"
+    "scrapedAt": "2026-10-06T05:08:45.559752"
   },
   {
     "id": "bilibili_1005948",
@@ -267,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.536799"
+    "scrapedAt": "2026-10-06T05:08:45.560570"
   },
   {
     "id": "bilibili_1006116",
@@ -285,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.539268"
+    "scrapedAt": "2026-10-06T05:08:45.563051"
   },
   {
     "id": "bilibili_1005430",
@@ -303,24 +321,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:04:51.542237"
-  },
-  {
-    "id": "weibo_ai_d089724f489108a7",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "『多厨狂喜』白金交响乐团·动漫交响音乐会",
-    "category": "音乐会",
-    "city": "广州",
-    "venue": "星海音乐厅·交响乐演奏大厅",
-    "startDate": "2026-11-22",
-    "endDate": null,
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-05T21:06:12.553619"
+    "scrapedAt": "2026-10-06T05:08:45.566063"
   }
 ]
