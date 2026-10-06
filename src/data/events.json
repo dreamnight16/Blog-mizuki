@@ -15,7 +15,61 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.556772"
+    "scrapedAt": "2026-10-06T12:51:36.862695"
+  },
+  {
+    "id": "bilibili_1005700",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "长春·明日方舟同人only展4.0·同心颂诗",
+    "category": "同人展",
+    "city": "长春",
+    "venue": "",
+    "startDate": "2026-10-07",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005700",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/rgkFrxHI1788432790_1788432790205.png",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-06T12:51:36.865372"
+  },
+  {
+    "id": "bilibili_1005193",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "北京·银魂only秋游会同人展",
+    "category": "同人展",
+    "city": "北京",
+    "venue": "",
+    "startDate": "2026-10-07",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005193",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202608/0RM7e07m1787587983_1787587983664.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-06T12:51:36.868517"
+  },
+  {
+    "id": "bilibili_1006168",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "上海·YorushikaxVaundy歌合战·双厨狂喜派对",
+    "category": "其他",
+    "city": "上海",
+    "venue": "",
+    "startDate": "2026-10-07",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006168",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/7pFgU3DM1789499196_1789499196379.jpg",
+    "status": "即将开票",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-06T12:51:36.876917"
   },
   {
     "id": "bilibili_1005576",
@@ -33,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.561963"
+    "scrapedAt": "2026-10-06T12:51:36.869411"
   },
   {
     "id": "bilibili_1006148",
@@ -51,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.562521"
+    "scrapedAt": "2026-10-06T12:51:36.870299"
   },
   {
     "id": "bilibili_1005513",
@@ -69,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.562788"
+    "scrapedAt": "2026-10-06T12:51:36.870755"
   },
   {
     "id": "bilibili_1006435",
@@ -87,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.563341"
+    "scrapedAt": "2026-10-06T12:51:36.871641"
   },
   {
     "id": "bilibili_1006179",
@@ -105,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.563599"
+    "scrapedAt": "2026-10-06T12:51:36.872081"
   },
   {
     "id": "bilibili_1005456",
@@ -123,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.563856"
+    "scrapedAt": "2026-10-06T12:51:36.872512"
   },
   {
     "id": "bilibili_1006024",
@@ -141,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.564393"
+    "scrapedAt": "2026-10-06T12:51:36.873380"
   },
   {
     "id": "bilibili_1006236",
@@ -159,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.564656"
+    "scrapedAt": "2026-10-06T12:51:36.873833"
   },
   {
     "id": "bilibili_1005913",
@@ -177,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.564940"
+    "scrapedAt": "2026-10-06T12:51:36.874263"
   },
   {
     "id": "bilibili_1006202",
@@ -195,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.565531"
+    "scrapedAt": "2026-10-06T12:51:36.875160"
   },
   {
     "id": "bilibili_1006466",
@@ -213,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.565799"
+    "scrapedAt": "2026-10-06T12:51:36.875607"
   },
   {
     "id": "bilibili_1006017",
@@ -231,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.566359"
+    "scrapedAt": "2026-10-06T12:51:36.876465"
   },
   {
     "id": "bilibili_1005663",
@@ -249,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.559484"
+    "scrapedAt": "2026-10-06T12:51:36.865837"
   },
   {
     "id": "bilibili_1005310",
@@ -267,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.559752"
+    "scrapedAt": "2026-10-06T12:51:36.866729"
   },
   {
     "id": "bilibili_1005948",
@@ -285,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.560570"
+    "scrapedAt": "2026-10-06T12:51:36.867648"
   },
   {
     "id": "bilibili_1006116",
@@ -303,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.563051"
+    "scrapedAt": "2026-10-06T12:51:36.871187"
   },
   {
     "id": "bilibili_1005430",
@@ -321,6 +375,60 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-06T05:08:45.566063"
+    "scrapedAt": "2026-10-06T12:51:36.876038"
+  },
+  {
+    "id": "bilibili_1005883",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "深圳·果动映像次元漫展2.0",
+    "category": "漫展",
+    "city": "深圳",
+    "venue": "",
+    "startDate": "2026-10-18",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005883",
+    "imageUrl": "https://i0.hdslb.com/bfs/openplatform/202609/xrvMiIP01788578508_1788578508351.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-06T12:51:36.878264"
+  },
+  {
+    "id": "weibo_ai_d089724f489108a7",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "『多厨狂喜』白金交响乐团·动漫交响音乐会",
+    "category": "音乐会",
+    "city": "广州",
+    "venue": "星海音乐厅·交响乐演奏大厅",
+    "startDate": "2026-11-22",
+    "endDate": null,
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-06T12:54:48.749914"
+  },
+  {
+    "id": "weibo_ai_b638ed5a701bacb6",
+    "sourceType": "social",
+    "sourceName": "weibo",
+    "title": "LoveLive! 管弦乐音乐会",
+    "category": "音乐会",
+    "city": "",
+    "venue": "",
+    "startDate": "2027-01-10",
+    "endDate": "2027-01-11",
+    "priceRange": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "status": "预告",
+    "confidence": 0.6,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-06T12:54:48.750348"
   }
 ]
