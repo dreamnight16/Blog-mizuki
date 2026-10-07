@@ -15,25 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.288277"
-  },
-  {
-    "id": "bilibili_1005576",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "武汉·少女番ONLY同人 2.5",
-    "category": "同人展",
-    "city": "武汉",
-    "venue": "",
-    "startDate": "2026-10-17",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005576",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/AZU1hoNN1788192327_1788192327624.png",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.293342"
+    "scrapedAt": "2026-10-07T18:30:24.943956"
   },
   {
     "id": "bilibili_1006435",
@@ -51,25 +33,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.293708"
+    "scrapedAt": "2026-10-07T18:30:24.949060"
   },
   {
-    "id": "bilibili_1006148",
+    "id": "bilibili_1005576",
     "sourceType": "ticketing",
     "sourceName": "bilibili",
-    "title": "北京·剑网3同人only主题展2.0·此间枫华",
+    "title": "武汉·少女番ONLY同人 2.5",
     "category": "同人展",
-    "city": "北京",
+    "city": "武汉",
     "venue": "",
     "startDate": "2026-10-17",
     "endDate": null,
     "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006148",
-    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/SHalULik1789462537_1789462537357.jpg",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005576",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/AZU1hoNN1788192327_1788192327624.png",
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.294871"
+    "scrapedAt": "2026-10-07T18:30:24.949917"
   },
   {
     "id": "bilibili_1005513",
@@ -87,7 +69,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.295249"
+    "scrapedAt": "2026-10-07T18:30:24.950330"
+  },
+  {
+    "id": "bilibili_1006148",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "北京·剑网3同人only主题展2.0·此间枫华",
+    "category": "同人展",
+    "city": "北京",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006148",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/SHalULik1789462537_1789462537357.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-07T18:30:24.952076"
   },
   {
     "id": "bilibili_1005456",
@@ -105,7 +105,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.295638"
+    "scrapedAt": "2026-10-07T18:30:24.952948"
   },
   {
     "id": "bilibili_1004873",
@@ -123,7 +123,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.296008"
+    "scrapedAt": "2026-10-07T18:30:24.953365"
   },
   {
     "id": "bilibili_1006179",
@@ -141,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.296431"
+    "scrapedAt": "2026-10-07T18:30:24.953802"
   },
   {
     "id": "bilibili_1006024",
@@ -159,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.297205"
+    "scrapedAt": "2026-10-07T18:30:24.954217"
   },
   {
     "id": "bilibili_1005913",
@@ -177,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.297594"
+    "scrapedAt": "2026-10-07T18:30:24.954628"
   },
   {
     "id": "bilibili_1006236",
@@ -195,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.297960"
+    "scrapedAt": "2026-10-07T18:30:24.955063"
   },
   {
     "id": "bilibili_1006202",
@@ -213,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.298334"
+    "scrapedAt": "2026-10-07T18:30:24.955478"
   },
   {
     "id": "bilibili_1006466",
@@ -231,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.298740"
+    "scrapedAt": "2026-10-07T18:30:24.955919"
   },
   {
     "id": "bilibili_1006017",
@@ -249,7 +249,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.299521"
+    "scrapedAt": "2026-10-07T18:30:24.956768"
   },
   {
     "id": "bilibili_1006254",
@@ -267,7 +267,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.301080"
+    "scrapedAt": "2026-10-07T18:30:24.958450"
   },
   {
     "id": "bilibili_1006445",
@@ -285,7 +285,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.302216"
+    "scrapedAt": "2026-10-07T18:30:24.959306"
   },
   {
     "id": "bilibili_1005663",
@@ -303,25 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.290648"
-  },
-  {
-    "id": "bilibili_1005310",
-    "sourceType": "ticketing",
-    "sourceName": "bilibili",
-    "title": "武汉·RE：0 同人only",
-    "category": "同人展",
-    "city": "武汉",
-    "venue": "",
-    "startDate": "2026-10-18",
-    "endDate": null,
-    "priceRange": "待定",
-    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005310",
-    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/C5RYGiVM1787615844_1787615844392.jpg",
-    "status": "售票中",
-    "confidence": 1.0,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.291439"
+    "scrapedAt": "2026-10-07T18:30:24.946487"
   },
   {
     "id": "bilibili_1005948",
@@ -339,7 +321,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.291834"
+    "scrapedAt": "2026-10-07T18:30:24.947355"
+  },
+  {
+    "id": "bilibili_1005310",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "武汉·RE：0 同人only",
+    "category": "同人展",
+    "city": "武汉",
+    "venue": "",
+    "startDate": "2026-10-18",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1005310",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202608/C5RYGiVM1787615844_1787615844392.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-07T18:30:24.948222"
   },
   {
     "id": "bilibili_1006116",
@@ -357,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.294095"
+    "scrapedAt": "2026-10-07T18:30:24.950784"
   },
   {
     "id": "bilibili_1005430",
@@ -375,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.299124"
+    "scrapedAt": "2026-10-07T18:30:24.956335"
   },
   {
     "id": "bilibili_1005883",
@@ -393,6 +393,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T11:33:08.299894"
+    "scrapedAt": "2026-10-07T18:30:24.957179"
   }
 ]
