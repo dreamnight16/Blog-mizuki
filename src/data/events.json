@@ -15,7 +15,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.649961"
+    "scrapedAt": "2026-10-07T11:33:08.288277"
   },
   {
     "id": "bilibili_1005576",
@@ -33,7 +33,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.653936"
+    "scrapedAt": "2026-10-07T11:33:08.293342"
   },
   {
     "id": "bilibili_1006435",
@@ -51,7 +51,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.654192"
+    "scrapedAt": "2026-10-07T11:33:08.293708"
   },
   {
     "id": "bilibili_1006148",
@@ -69,7 +69,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.654991"
+    "scrapedAt": "2026-10-07T11:33:08.294871"
   },
   {
     "id": "bilibili_1005513",
@@ -87,7 +87,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.655249"
+    "scrapedAt": "2026-10-07T11:33:08.295249"
   },
   {
     "id": "bilibili_1005456",
@@ -105,7 +105,25 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.655504"
+    "scrapedAt": "2026-10-07T11:33:08.295638"
+  },
+  {
+    "id": "bilibili_1004873",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "厦门·首届公主舞会only同人展",
+    "category": "同人展",
+    "city": "厦门",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1004873",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202608/ebNi2tv11786600789_1786600789660.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-07T11:33:08.296008"
   },
   {
     "id": "bilibili_1006179",
@@ -123,7 +141,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.655783"
+    "scrapedAt": "2026-10-07T11:33:08.296431"
   },
   {
     "id": "bilibili_1006024",
@@ -141,7 +159,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.656309"
+    "scrapedAt": "2026-10-07T11:33:08.297205"
   },
   {
     "id": "bilibili_1005913",
@@ -159,7 +177,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.656570"
+    "scrapedAt": "2026-10-07T11:33:08.297594"
   },
   {
     "id": "bilibili_1006236",
@@ -177,7 +195,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.656848"
+    "scrapedAt": "2026-10-07T11:33:08.297960"
   },
   {
     "id": "bilibili_1006202",
@@ -195,7 +213,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.657118"
+    "scrapedAt": "2026-10-07T11:33:08.298334"
   },
   {
     "id": "bilibili_1006466",
@@ -213,7 +231,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.657376"
+    "scrapedAt": "2026-10-07T11:33:08.298740"
   },
   {
     "id": "bilibili_1006017",
@@ -231,7 +249,43 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.658178"
+    "scrapedAt": "2026-10-07T11:33:08.299521"
+  },
+  {
+    "id": "bilibili_1006254",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "南京·发电·「草」← 一种生物·地下偶像音乐节",
+    "category": "演唱会",
+    "city": "南京",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006254",
+    "imageUrl": "https://i2.hdslb.com/bfs/openplatform/202609/1wNb5SlW1789468833_1789468833468.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-07T11:33:08.301080"
+  },
+  {
+    "id": "bilibili_1006445",
+    "sourceType": "ticketing",
+    "sourceName": "bilibili",
+    "title": "杭州·千绘次元摄影会第四届",
+    "category": "其他",
+    "city": "杭州",
+    "venue": "",
+    "startDate": "2026-10-17",
+    "endDate": null,
+    "priceRange": "待定",
+    "ticketUrl": "https://show.bilibili.com/platform/detail.html?id=1006445",
+    "imageUrl": "https://i1.hdslb.com/bfs/openplatform/202609/LOORwPum1790241389_1790241389900.jpg",
+    "status": "售票中",
+    "confidence": 1.0,
+    "canonicalId": null,
+    "scrapedAt": "2026-10-07T11:33:08.302216"
   },
   {
     "id": "bilibili_1005663",
@@ -249,7 +303,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.651830"
+    "scrapedAt": "2026-10-07T11:33:08.290648"
   },
   {
     "id": "bilibili_1005310",
@@ -267,7 +321,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.652356"
+    "scrapedAt": "2026-10-07T11:33:08.291439"
   },
   {
     "id": "bilibili_1005948",
@@ -285,7 +339,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.652614"
+    "scrapedAt": "2026-10-07T11:33:08.291834"
   },
   {
     "id": "bilibili_1006116",
@@ -303,7 +357,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.654450"
+    "scrapedAt": "2026-10-07T11:33:08.294095"
   },
   {
     "id": "bilibili_1005430",
@@ -321,7 +375,7 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.657647"
+    "scrapedAt": "2026-10-07T11:33:08.299124"
   },
   {
     "id": "bilibili_1005883",
@@ -339,24 +393,6 @@
     "status": "售票中",
     "confidence": 1.0,
     "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:35:37.658439"
-  },
-  {
-    "id": "weibo_ai_d833a2d1ffd7a34e",
-    "sourceType": "social",
-    "sourceName": "weibo",
-    "title": "SWEET HALLOWEEN FES 2026",
-    "category": "同人展",
-    "city": "大阪",
-    "venue": "",
-    "startDate": "2026-10-25",
-    "endDate": null,
-    "priceRange": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "status": "预告",
-    "confidence": 0.44999999999999996,
-    "canonicalId": null,
-    "scrapedAt": "2026-10-07T04:37:05.277245"
+    "scrapedAt": "2026-10-07T11:33:08.299894"
   }
 ]
