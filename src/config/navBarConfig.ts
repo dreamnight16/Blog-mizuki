@@ -134,16 +134,6 @@ export const navBarConfig: NavBarConfig = {
 			LinkPreset.Projects,
 			LinkPreset.Friends,
 			{
-				name: "动漫演出",
-				url: "/anime-events/",
-				icon: "material-symbols:confirmation-number",
-			},
-			{
-				name: "每周热点",
-				url: "/weekly/",
-				icon: "material-symbols:trending-up",
-			},
-			{
 				name: "更多",
 				url: "#",
 				icon: "material-symbols:more-horiz",
