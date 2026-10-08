@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>梦夜の小窝</title>
   <subtitle>DreamNight's Blog</subtitle>
-  <link href="https://dreamnight.net.cn/" rel="alternate" type="text/html"/>
-  <link href="https://dreamnight.net.cn/atom.xml" rel="self" type="application/atom+xml"/>
-  <id>https://dreamnight.net.cn/</id>
-  <updated>2026-10-08T14:01:07.722Z</updated>
+  <link href="https://blog.dreamnight.net.cn/" rel="alternate" type="text/html"/>
+  <link href="https://blog.dreamnight.net.cn/atom.xml" rel="self" type="application/atom+xml"/>
+  <id>https://blog.dreamnight.net.cn/</id>
+  <updated>2026-10-08T14:55:46.767Z</updated>
   <language>zh_CN</language>
   <entry>
     <title>每周热点分析 2026-W41</title>
-    <link href="https://dreamnight.net.cn/posts/2026-w41/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/2026-w41/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/2026-w41/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/2026-w41/</id>
     <published>2026-10-11T00:00:00.000Z</published>
     <updated>2026-10-11T00:00:00.000Z</updated>
     <summary>本周素材共81条，微博热搜51条，Hacker News 30条。微博热搜以娱乐八卦、社会新闻、商业营销为主，部分事件涉及具体物质利益关系（如烟草行业策略、汽车质量安全、景区动物伤害、消费欺诈、公共卫生响应、官员纪律等），但大量为个人生活、</summary>
@@ -607,8 +607,8 @@ OpenAI分享其在数学领域的AI进展，宣称促进学术合作。
   </entry>
   <entry>
     <title>每周热点分析 2026-W39</title>
-    <link href="https://dreamnight.net.cn/posts/2026-w39/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/2026-w39/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/2026-w39/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/2026-w39/</id>
     <published>2026-09-27T00:00:00.000Z</published>
     <updated>2026-09-27T00:00:00.000Z</updated>
     <summary>本周素材包含微博热搜和 Hacker News 两类来源，共82条。微博热搜以娱乐、体育、社会事件为主，HN以科技、经济、学术话题为主。经物质内容初判，筛选出30个具有具体物质利益关系的事件，涉及平台监管、消费者权益、公共卫生、教育腐败、产</summary>
@@ -1169,8 +1169,8 @@ Google 发布开源智能体编排器 AX。
   </entry>
   <entry>
     <title>每周热点分析 2026-W38</title>
-    <link href="https://dreamnight.net.cn/posts/2026-w38/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/2026-w38/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/2026-w38/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/2026-w38/</id>
     <published>2026-09-20T00:00:00.000Z</published>
     <updated>2026-09-20T00:00:00.000Z</updated>
     <summary>本周素材涵盖微博热搜与Hacker News技术社区，微博以娱乐八卦、社会事件、商业营销为主，HN以技术、商业、安全为主。整体上，具物质利益矛盾的事件集中在劳动权益、企业资本运作、数据隐私、技术竞争、政策活动等领域；大量娱乐八卦和个人生活话</summary>
@@ -1715,8 +1715,8 @@ Chess.com数据泄露，730万用户信息被暴露。
   </entry>
   <entry>
     <title>每周热点分析 2026-W37</title>
-    <link href="https://dreamnight.net.cn/posts/2026-w37/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/2026-w37/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/2026-w37/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/2026-w37/</id>
     <published>2026-09-13T00:00:00.000Z</published>
     <updated>2026-09-13T00:00:00.000Z</updated>
     <summary>本周素材混合微博热搜与 Hacker News 技术帖。微博部分多为娱乐消费、社会个案，部分涉及政策执行、劳资纠纷、企业管理等具体物质利益；HN 部分多为技术开发、开源项目、安全研究，其中募捐、隐私对抗、AI 竞争等事件具有直接利益关系。总</summary>
@@ -2329,8 +2329,8 @@ GrapheneOS 更新默认应用和安全剪贴板。
   </entry>
   <entry>
     <title>每周热点分析 2026-W34</title>
-    <link href="https://dreamnight.net.cn/posts/2026-w34/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/2026-w34/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/2026-w34/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/2026-w34/</id>
     <published>2026-08-23T00:00:00.000Z</published>
     <updated>2026-08-23T00:00:00.000Z</updated>
     <summary>本周素材共81个，其中微博热搜51个，Hacker News 30个。微博热搜以娱乐消费和个体事件为主，物质内容稀薄，但部分经济民生、国际政治话题暴露出具体利益冲突；Hacker News以技术商业为主，部分涉及企业策略、监管和资本运作。整</summary>
@@ -2953,8 +2953,8 @@ AI服务涨价可能向各行业传导成本，反映科技领域资本压力。
   </entry>
   <entry>
     <title>每周热点分析 2026-W33</title>
-    <link href="https://dreamnight.net.cn/posts/2026-w33/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/2026-w33/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/2026-w33/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/2026-w33/</id>
     <published>2026-08-16T00:00:00.000Z</published>
     <updated>2026-08-16T00:00:00.000Z</updated>
     <summary>本周素材覆盖微博热搜和Hacker News两处来源，前者以社会突发事件、娱乐八卦、自然灾害信息为主，后者偏向技术、商业和社会议题。经初步筛选，具有物质利益分析价值的事件集中在社会管理冲突（城管摊贩互殴）、科技产业竞争（苹果供应链布局、人才</summary>
@@ -3448,8 +3448,8 @@ LGD事件暴露博彩对电竞的腐蚀，后续案件量反映行业治理效�
   </entry>
   <entry>
     <title>每周热点分析 2026-W32</title>
-    <link href="https://dreamnight.net.cn/posts/2026-w32/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/2026-w32/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/2026-w32/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/2026-w32/</id>
     <published>2026-08-09T00:00:00.000Z</published>
     <updated>2026-08-09T00:00:00.000Z</updated>
     <summary>本周热点素材来源混杂，微博热搜以娱乐消费、个体生活、商业推广为主，物质内容稀薄；Hacker News技术话题较多，部分涉及开源商业模式、数据隐私、硬件价格等具体利益。整体上，直接反映社会利益矛盾的事件较少，多数现象需透过表面叙述挖掘深层物</summary>
@@ -3978,8 +3978,8 @@ LGD事件暴露博彩对电竞的腐蚀，后续案件量反映行业治理效�
   </entry>
   <entry>
     <title>每周热点分析 2026-W31</title>
-    <link href="https://dreamnight.net.cn/posts/2026-w31/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/2026-w31/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/2026-w31/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/2026-w31/</id>
     <published>2026-08-02T00:00:00.000Z</published>
     <updated>2026-08-02T00:00:00.000Z</updated>
     <summary>本周热点话题主要来自微博热搜和Hacker News。微博素材以消费娱乐、社会新闻为主，多数缺乏深层物质利益分析价值；Hacker News素材多为科技商业动态，部分涉及具体技术产品竞争和产业变革，有分析价值。整体呈现为感性具体大量涌现，但</summary>
@@ -4567,8 +4567,8 @@ YC旗下机器人创业公司Mbodi AI招聘。
   </entry>
   <entry>
     <title>每周热点分析 2026-W29</title>
-    <link href="https://dreamnight.net.cn/posts/2026-w29/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/2026-w29/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/2026-w29/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/2026-w29/</id>
     <published>2026-07-19T00:00:00.000Z</published>
     <updated>2026-07-19T00:00:00.000Z</updated>
     <summary>本周两起事件分别发生在美国和中国，但共同指向资本主义体系下，资本利用技术和金融手段调整利益分配以管理阶级矛盾。在阿勒格尼县，十年财产税评估冻结造成税负不公，政府试图以开源技术重估财产，这将在有产者内部及有产者与国家间触发冲突，若缺乏对租客的</summary>
@@ -4684,8 +4684,8 @@ YC旗下机器人创业公司Mbodi AI招聘。
   </entry>
   <entry>
     <title>每周热点分析 2026-W27</title>
-    <link href="https://dreamnight.net.cn/posts/2026-w27/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/2026-w27/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/2026-w27/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/2026-w27/</id>
     <published>2026-07-05T00:00:00.000Z</published>
     <updated>2026-07-05T00:00:00.000Z</updated>
     <summary>本周事件从不同侧面揭示了数字资本主义下资本与国家权力的协同扩张。科技白领大规模裁员（evt-2）暴露了AI技术被垄断资本用作替代劳动、压榨剩余价值的工具，无产阶级化浪潮已席卷高技能领域。与此同时，美国KIDS法案（evt-4）及其催生的言论</summary>
@@ -4859,8 +4859,8 @@ AI年龄验证的偏见和可规避性（tl-2）表明，技术方案非但不�
   </entry>
   <entry>
     <title>每周热点分析 2026-W26</title>
-    <link href="https://dreamnight.net.cn/posts/2026-w26/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/2026-w26/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/2026-w26/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/2026-w26/</id>
     <published>2026-06-28T00:00:00.000Z</published>
     <updated>2026-06-28T00:00:00.000Z</updated>
     <summary>本周事件展现了资本在多条战线同步推进积累的图景：技术资本借DeepSeek扩张吸纳高端知识工人，加剧劳动力市场两极分化；苹果、Google等垄断资本分别通过产品涨价和数字标准私有化，将成本转嫁给消费者并控制公共资源；国际金融资本制造亚洲股市</summary>
@@ -5119,8 +5119,8 @@ Google AMP的威胁（tl-2）直接触发了开源社区的集体反抗（tl-3�
   </entry>
   <entry>
     <title>99.5% 的梯度去哪了？——物理微调中 GAN 结构知识的遗忘与保护</title>
-    <link href="https://dreamnight.net.cn/posts/osft/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/osft/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/osft/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/osft/</id>
     <published>2026-06-12T00:00:00.000Z</published>
     <updated>2026-06-12T00:00:00.000Z</updated>
     <summary>物理微调 GAN 时，99.5% 的梯度冲向了编码结构知识的主子空间——推翻之前「梯度自然正交于主子空间」的推测。本文构建了从 PDE 本征模态到 SVD 谱结构的理论框架，解释这一 40 倍异常，并推导出 OSFT 作为自然的保护策略。</summary>
@@ -5462,8 +5462,8 @@ $$</p>
   </entry>
   <entry>
     <title>公共系统为什么看起来总是在向你索取？</title>
-    <link href="https://dreamnight.net.cn/posts/from-a-grumble-about-public-system/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/from-a-grumble-about-public-system/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/from-a-grumble-about-public-system/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/from-a-grumble-about-public-system/</id>
     <published>2026-05-31T00:00:00.000Z</published>
     <updated>2026-05-31T00:00:00.000Z</updated>
     <summary>以国债为入口，层层剖析"成本可见、收益不可见"的感知不对称如何制造出公共冷漠、宣传失效与简单归因，最终追问个体如何在复杂社会中重建与系统的真实连接。</summary>
@@ -5600,8 +5600,8 @@ $$</p>
   </entry>
   <entry>
     <title>为什么"想象中的亲密关系"会演化成执念</title>
-    <link href="https://dreamnight.net.cn/posts/imagined-intimacy-obsession/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/imagined-intimacy-obsession/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/imagined-intimacy-obsession/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/imagined-intimacy-obsession/</id>
     <published>2026-05-29T00:00:00.000Z</published>
     <updated>2026-05-29T00:00:00.000Z</updated>
     <summary>从预测加工理论出发，层层剖析"反复想一个人却停不下来"背后的认知机制——为什么大脑会把想象关系变成一个无法收敛的自我证明系统。</summary>
@@ -5727,8 +5727,8 @@ $$</p>
   </entry>
   <entry>
     <title>谈谈标签化讨论</title>
-    <link href="https://dreamnight.net.cn/posts/labeling-discourse/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/labeling-discourse/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/labeling-discourse/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/labeling-discourse/</id>
     <published>2026-05-29T00:00:00.000Z</published>
     <updated>2026-05-29T00:00:00.000Z</updated>
     <summary>从认知局限、传播结构、辩证法误读、立场异化到制度设计，梳理标签化讨论的形成机制与应对框架。</summary>
@@ -5781,8 +5781,8 @@ $$</p>
   </entry>
   <entry>
     <title>为什么要通过否定来肯定</title>
-    <link href="https://dreamnight.net.cn/posts/superiority-through-negation/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/superiority-through-negation/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/superiority-through-negation/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/superiority-through-negation/</id>
     <published>2026-05-29T00:00:00.000Z</published>
     <updated>2026-05-29T00:00:00.000Z</updated>
     <summary>从优绩主义竞争与狭隘爱国主义两个切口入手，分析"通过否定他人来确认自我"这套心理机制的形成逻辑、运作方式与出路。</summary>
@@ -5826,8 +5826,8 @@ $$</p>
   </entry>
   <entry>
     <title>世界不是静止的——谈谈一种普遍存在的"凝固思维"</title>
-    <link href="https://dreamnight.net.cn/posts/world-not-static/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/world-not-static/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/world-not-static/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/world-not-static/</id>
     <published>2026-05-28T00:00:00.000Z</published>
     <updated>2026-05-28T00:00:00.000Z</updated>
     <summary>批判那种把现状当永恒、忽视发展变化的思维模式，从唯物辩证法视角探讨强弱转化的规律。</summary>
@@ -5876,8 +5876,8 @@ $$</p>
   </entry>
   <entry>
     <title>从零开始搭一个 AI 伴侣桌面应用——梦间 (Yumema) 项目实录</title>
-    <link href="https://dreamnight.net.cn/posts/how-yumema-is-built/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/how-yumema-is-built/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/how-yumema-is-built/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/how-yumema-is-built/</id>
     <published>2026-05-16T00:00:00.000Z</published>
     <updated>2026-05-16T00:00:00.000Z</updated>
     <summary>以 Yumema 为例，完整拆解一个 AI 伴侣桌面应用的构建过程：选型、架构、核心模块、IPC 通信、平台适配、打包分发。</summary>
@@ -6168,8 +6168,8 @@ function safeInvoke(channel: string, ...args: unknown[]) {
   </entry>
   <entry>
     <title>我们是如何从"不可知"一路追问到"意义"的</title>
-    <link href="https://dreamnight.net.cn/posts/from-unknowable-to-meaning/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/from-unknowable-to-meaning/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/from-unknowable-to-meaning/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/from-unknowable-to-meaning/</id>
     <published>2026-05-09T00:00:00.000Z</published>
     <updated>2026-05-09T00:00:00.000Z</updated>
     <summary>本文是我和AI关于一些问题的讨论总结，有关认识、存在等哲学问题。</summary>
@@ -6292,8 +6292,8 @@ function safeInvoke(channel: string, ...args: unknown[]) {
   </entry>
   <entry>
     <title>DeepfakeBench EffortDetector 项目完全详解（250 问）</title>
-    <link href="https://dreamnight.net.cn/posts/adaptive-wandering-hickey/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/adaptive-wandering-hickey/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/adaptive-wandering-hickey/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/adaptive-wandering-hickey/</id>
     <published>2026-05-03T00:00:00.000Z</published>
     <updated>2026-05-03T00:00:00.000Z</updated>
     <summary>从零开始覆盖 DeepfakeBench EffortDetector 项目的全部细节。假设读者只会 Python 语法，其余概念全部讲解。</summary>
@@ -7444,8 +7444,8 @@ recorder.clear()  # 重置
   </entry>
   <entry>
     <title>正交子空间微调：面向物理约束的轻量化拓扑生成对抗网络</title>
-    <link href="https://dreamnight.net.cn/posts/gan/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/gan/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/gan/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/gan/</id>
     <published>2026-04-01T00:00:00.000Z</published>
     <updated>2026-04-01T00:00:00.000Z</updated>
     <summary>本文针对GAN-based拓扑优化中物理约束微调导致多样性坍塌的问题，提出了正交子空间微调框架。通过SVD分解将预训练生成器的权重矩阵分解为主成分与残差成分，在微调过程中冻结主成分并仅在残差子空间内进行物理适配，从而在保持生成多样性的同时满足物理约束。</summary>
@@ -7717,8 +7717,8 @@ $$</p>
   </entry>
   <entry>
     <title>PyTorch 入门教程</title>
-    <link href="https://dreamnight.net.cn/posts/pytorch/" rel="alternate" type="text/html"/>
-    <id>https://dreamnight.net.cn/posts/pytorch/</id>
+    <link href="https://blog.dreamnight.net.cn/posts/pytorch/" rel="alternate" type="text/html"/>
+    <id>https://blog.dreamnight.net.cn/posts/pytorch/</id>
     <published>2026-03-31T00:00:00.000Z</published>
     <updated>2026-03-31T00:00:00.000Z</updated>
     <summary>欢迎来到我的博客第一篇文章！这是一篇简短的PyTorch教程。</summary>
