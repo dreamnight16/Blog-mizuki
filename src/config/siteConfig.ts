@@ -6,7 +6,7 @@ const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 export const siteConfig: SiteConfig = {
 	title: "梦夜の小窝",
 	subtitle: "DreamNight's Blog",
-	siteURL: "https://dreamnight.net.cn/",
+	siteURL: "https://blog.dreamnight.net.cn/",
 	siteStartDate: "2024-01-01",
 
 	lang: SITE_LANG,

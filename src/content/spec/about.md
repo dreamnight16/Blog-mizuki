@@ -31,4 +31,4 @@ comments: false
 
 - GitHub: [@dreamnight16](https://github.com/dreamnight16)
 - Bilibili: [@DreamNight](https://space.bilibili.com/)
-- Blog: [dreamnight.net.cn](https://dreamnight.net.cn)
+- Blog: [blog.dreamnight.net.cn](https://blog.dreamnight.net.cn)

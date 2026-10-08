@@ -120,7 +120,7 @@ export const projectsData: Project[] = [
         techStack: ['Astro', 'React', 'Tailwind CSS', 'MD3'],
         status: "in-progress",
         sourceCode: "https://github.com/dreamnight16/myBlog",
-        visitUrl: "https://dreamnight.net.cn/",
+        visitUrl: "https://blog.dreamnight.net.cn/",
         startDate: "2025-06-01",
         featured: true,
         tags: ['Blog', 'Astro', 'Web'],
