@@ -41,9 +41,9 @@ export const profileConfig: ProfileConfig = {
 			url: "https://pypi.org/user/sixtdreamnight/",
 		},
 		{
-			name: "Vibe Coding 入门课",
+			name: "见 AI 课程",
 			icon: "material-symbols:school",
-			url: "/learn/",
+			url: "https://learn.dreamnight.net.cn/",
 		},
 	],
 };
