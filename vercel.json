@@ -43,7 +43,17 @@
 			"permanent": true
 		},
 		{
+			"source": "/learn/",
+			"destination": "https://learn.dreamnight.net.cn/",
+			"permanent": true
+		},
+		{
 			"source": "/learn/:path*",
+			"destination": "https://learn.dreamnight.net.cn/",
+			"permanent": true
+		},
+		{
+			"source": "/learn/:path*/",
 			"destination": "https://learn.dreamnight.net.cn/",
 			"permanent": true
 		}
